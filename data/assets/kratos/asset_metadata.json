@@ -1,0 +1,11 @@
+{
+  "slug": "kratos",
+  "subject_id": "equity_98f68dc4-34bc-5a56-be20-3e3221770b59",
+  "symbol": "KTOS.NASDAQ",
+  "name": "Kratos Defense & Security Solutions",
+  "cohort": "forecast_dispersed",
+  "cohort_rank": 5,
+  "selection_market_cap_usd_billions": 8.91,
+  "source_preview_run": "batch7_v7_new14_exact2_gemini38_20260920",
+  "baseline_run_id": "batch7_v7_new14_prod2_gemini38_20260920"
+}

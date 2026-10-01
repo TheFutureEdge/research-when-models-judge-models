@@ -1,0 +1,322 @@
+{
+  "opinion_id": "opinion_f9d2f0ea6ca3db2c6558d272",
+  "investment_framework": "warren_buffett__the_value_seeker__standard_1",
+  "forecast_anchor": {
+    "price": 47.46,
+    "timestamp": "2026-09-18 00:00:00+00:00"
+  },
+  "research_sources": [
+    {
+      "title": "biggo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCkYASpFeOYQ3YKj-5SZ7T4mXx52DlAWvWLQN2SMkd_qgVNI7h_THlHoSwUvfNKzjPvMFmyU_QBxvPjuwmgWoHaMpmmxhE7hVAm-CsIliZxqeTuozoXKmqUfz67wLoUhivdwMuCJjZ",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "perplexity.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTrUm4fE-57PUWx4cJqpuDcKKgyJ67YHQ39coAffidztH9-EH78CJm8oRoIPpZuiB5Kcpud1Ui1DrT8GrxzJCg95zkM_duiBFD2oc2PGrsnyttp0cKXr_fj8NGM3nY3z7-UuBQYQ==",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "defensescoop.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRwEYWGjx03Ku9PxjJFigH2tGrgCSZsWGtrvi7Um583kLi_UfGin5NP-vN3is8bTtMn_XsChvHhZybIWP9zy1jkEnFOnxhT_YcgaUcrEJe-wfnNjzzLoM1_QAyjozlC-TgASEVS_h1Cw7lT7TVLDSlpJn7EjVu1okbP4Gm2Ml5hEVi2owUOxgZeMlGRkCeocJrzYzESlChtA==",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "aerospaceglobalnews.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEOqGVv8k75cOmdw9Us0SsDfGsSGyukHwgmR5NvOX0D9RWZabaDxqu3GeI9wdShSDRhxqpPxhW05XBtmjUg_Nb02ZXvcJ_HDVyU-VznpOS0nZkzc1hjrPVummFOPLA6Om1lXDqgjw-lh9Z5j6M4TLLucnxlsDIni4mw4KpCHsgMg98mTevSg==",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "airbus.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVYdi-eMhX9IJ--cQ9PRhM-vQhBALEvsnoJvv18O2lkGpt47XfJXqvZhi_olo8K9c_AjBvhefsbeemfxwccLwAZVNW3eLZn4nC-BcRwteDzUXTeczS-JuRsam-xp00fIlBAqFre-MHL21YuPKfN2O1tSOVrjmnzzcNpqulUfAx56pcTmTWmrRw74F-P54M4czexoUJdX_1MpS8wVOeCzRMyKJJ6v7RbPA5QCPy_NKeMYOv2ukv",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "kratosdefense.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5kPd6Op1WMVZdQWirubFkGF_DoH2R0cX0q1XtGo4kw1DkDC6cKqIKwmyeIWmnoIHOfBglNRAQAtI6rDqkj3vjL8JASHV4C2_zvXLh385XEoVTdrfmRzcdS3y5Zf9ddIJxYGlDnavCZ6W2tFIM4ECl1PGVgN1sCWdw4Dv6vELjg7hc2OQM-GszKMm5yOg_r0UBpjvh_VItlbdHOGsUR8qdZKTe",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "kratosdefense.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvmzyEx7jHr2Id-MUF5Zt4WEaXcW6btIXfsq8hKVcRy2VYlDMvBn8S_5yw2d_JI6N9IJUXi2R33bnpkpFQrrUgHdHaXa6EvKzqATMbls9kyXtqRtYmYcW9PxSHkJ0Xy6P6fSuCjHqmRZRYRjtczzkVHF5PKmfI7JzYOTyzoF2spp0MlpK_oIk3_MiOvn5q5TNX",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "kratosdefense.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6m4hTV3sxMxQmI6xwTgMJ9ygwaJH1rMZ9cbep4X0yz4VluXKsTWOqx9K1jflxn02cLaJlVJ_IML5K-9F4aJllCT6nkcZ78iL78Li-LtwA1txHFBqmXEAJvKHkh_CuqA7cI17L",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "tsinetwork.ca",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1zTpaCjm7EpxYbbta-YaWpMEHidy26mrs08XiHQ1ZgNCdSoJaegG718or6dDZh8K3DuMnpTZKX1mKaJvczV7CcbDjq-clVBX_TfLsLOeL23eJLE1eIaI8vQeGHWM-XNoHPhoMsDoRO4m9275f6bMOtRqZwcWy39lKyrJRWeu7N6ZuCtTK6PfiMVkKSfSJYhff2_kvMmcnSuB9KIRqQ3VWD9ARQ0D53goyL7xorsQq49mAdp8e2VZOeBm41UQVhSE=",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "breakingdefense.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0h2tF6eAk2Xpw-Q1q8ocvAIosdk-o3oUIYV25NyGLunO3FVFnF6UlxmdPTPT7A0EOChKW7Yb5E8MX4516xD4YXNupbQi3NB0dnejBGaO9GH4gqx4RzxZxKvL3TLMJ591RGwanXqccuPQ1wt_eU9oLuC3_RwwiSJcRWb20psU9WV8kHY7Q5iAY7WEgOqKRjDGM5XRs1Q==",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "simplywall.st",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCUKZVI_YHIddeT6HrIDVMJOsgVU9Nw1hxQskTvWNOvao7HrOmwTKB7KwtAs_sZ7l-D72kY4YZ8niEH5yjyE2dWn3NnP2zwwSjxBGSu3la1o6LHt24irgyRRDZIPTgGiMYEa8V8-cO1NusxgftnxOhd4BPR8pKJrpJs2idcLprciJtyE7d5-fXCWQviE4HrzNBXnZ-kSU=",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "defensenews.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGNQRjXUYQw-yA_kTsVtLcNtJJeBgi2rM8eP2dS-mjj1dK81fPOGb_vzAn7fLWujtElz-A-Jmm557d_iVyS7CNQecFmNm030VRiQ6GVPl9hiAE2McaQ28XjFn08lT7ow_bHgkBsrKzGKJT3cdki_AFwZO_HrlHhlrDtHuoT1LMoPHu3XbJVMiKCWk-XDZvSBZTzQKazsB9oOnUl3gr3ezLwc_4oXzh6id61aw=",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "simplywall.st",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb6wIx5OzWE7goZ4l6c6W-iWhnSQAF1VqbZBbEL55zMON1bruahrT-quRrQUVT3qOXQcirwR9IVhS1PoJNaTxFmnSde8dP740uG0V-fhpRxHGhLdNagRE-K-AZ3QhAKDT2XGkdla7FBsgh1YrpL8PLdZyMoE6wJOR8z5ObS42bR8IUZND3XmrodNr7ShtnOW_OZLgfnJidvIU-BuHIcqgrsxb-j_z4MowCAiStJn8YjY-JLcipTjJft4IPRvq-uaycHPp6Wdron00iNO3N_UbYUOO_Jg==",
+      "domain": "vertexaisearch.cloud.google.com"
+    },
+    {
+      "title": "theaviationist.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcowbWu5jQKShenIOsOpoU_vd6nfiUYoUb6hb37KtGPzpigM51sf5fI4O6PtZldRWXradyAiqCgiEnXGleTdj6Eik8Pztbb8G-eGb3F8j7hy3SfJULtP3M1-IbUi1LIWHh5jz5a7lX9ybhP67G-EmpQEbxSo-Ry3oXlucEwk2U151hx7FQvJwh4c3MMw==",
+      "domain": "vertexaisearch.cloud.google.com"
+    }
+  ],
+  "generated_at_utc": "2026-09-20 06:23:03.809557+00:00",
+  "prediction_based_investment_rating": {
+    "most_reasonable_investment_thesis_scenario": "The central tension governing Kratos is the stark divergence between robust defense top-line expansion and dismal owner economics. While geopolitical tensions and hypersonic programs propel revenue toward two billion dollars, operating margins remain pinned near two percent due to subcontractor positioning and fixed-price cost friction. Furthermore, management's heavy capital expenditures for jet engine and rocket facilities will keep free cash flow negative through 2027. As market participants confront persistent cash deficits in a higher-rate regime, speculative multiples will contract sharply toward realistic industrial defense contractor levels.\n- Financial anchor: Trailing earnings of thirty-one million dollars and negative free cash flow provide zero support for nine billion market valuation.\n- Valuation connection: Price-to-earnings multiple compressing from two hundred ninety-two times toward forty times drives profound multi-year share price depreciation.\n- Scale cross-check: Even doubling revenues to three billion dollars yields less than one dollar in earnings per share, capping intrinsic value.",
+    "bull_case_scenario": "A massive geopolitical inflection activates the upside case if the Pentagon accelerates Collaborative Combat Aircraft fielding and grants Kratos large sole-source prime contracts. Concurrently, rapid software monetization in OpenSpace ground networks widens gross margins beyond thirty percent. This operational surge transforms cash generation, swinging free cash flow positive and allowing operating margins to cross eight percent. Under these combined tailwinds, robust earnings expansion offsets multiple compression, supporting share appreciation toward sixty-five dollars.",
+    "bear_case_scenario": "A severe federal deficit curtailment activates the downside case by freezing defense procurement growth and cancelling non-essential attritable drone lines. Escalating development cost overruns across fixed-price hypersonic contracts subsequently inflict substantial operational losses. Faced with accelerating cash burn and limited commercial diversification, management is forced to issue highly dilutive equity during a market downturn. This combination erodes per-share value, precipitating an aggressive valuation collapse toward book value near fifteen dollars per share.",
+    "thesis_watchpoints": "- Free cash flow remains negative through fiscal 2027 while capital expenditures exceed two hundred million dollars, corroborating ongoing shareholder capital erosion.\n- Operating margin expands sustainably above six percent across four consecutive quarters, invalidating the subcontractor economic rent squeeze thesis.\n- Pentagon Collaborative Combat Aircraft Phase Two budget allocates sole-source prime status to Kratos, necessitating an immediate upward structural revaluation.",
+    "broader_narrative_signals": {
+      "today_crowd_consensus_narrative": "The crowd views Kratos as an indispensable pure-play beneficiary of the attritable drone and hypersonic warfare revolution. Consensus assumes that geopolitical conflict and Pentagon pivot toward affordable mass will inevitably translate into explosive earnings growth. Sell-side research anchors on multi-billion-dollar backlog pipelines, largely ignoring recurring cash burn, razor-thin operating margins, and severe multiple vulnerability in a higher-rate macroeconomic regime.",
+      "alpha_gap_assessment": "The crowd substantially overestimates the economic value of Kratos' shares, mistaking top-line defense contract announcements for durable owner cash generation. The analytical blind spot lies in the mechanics of defense contracting: Kratos operates primarily as a platform manufacturer and subcontractor, leaving economic rents and software margins to prime integrators. Consequently, operating margins linger near two percent while heavy facility capex produces persistent negative free cash flow. Paying nearly three hundred times earnings for a capital-hungry subcontractor creates severe downside mispricing risk.",
+      "the_convergence_catalyst": "The catalyst driving market repricing will be consecutive quarterly earnings prints through 2027 demonstrating that explosive revenue growth fails to generate positive free cash flow. As higher cost of capital persists, the first sign of repricing will be institutional derating as sell-side analysts slash cash-flow forecasts.",
+      "macro_regime_alignment": "The macroeconomic regime is a sharp headwind. The Federal Reserve's tightening to 3.75-4.00% and sticky inflation raise the cost of capital, severely compressing long-duration speculative multiples. For a capital-intensive business burning cash, expensive financing channels and elevated discount rates penalize equity valuation far more than defense demand cushions it."
+    },
+    "sentiment_and_regime_signals": {
+      "greed_and_fear_sentiment": 0.35,
+      "expected_volatility_regime": "high_erratic",
+      "convergence_cycle_position": "reversal"
+    },
+    "financial_review_fields": {
+      "earnings_and_financials_trend_assessment": "Kratos presents a stark financial dichotomy of rapid revenue growth masking negligible profitability. Fiscal 2025 revenue expanded 18.5% to $1.35 billion, accelerating to $458.8 million in the second quarter of 2026 behind doubling hypersonics demand. However, operating income for fiscal 2025 reached only $27.7 million, yielding trailing twelve-month net income of $30.9 million.\n\nThis divergence demonstrates that contract wins do not guarantee economic value for owners. The business generated negative free cash flow of $129 million over the trailing twelve months, showing that scaling operations actively consumes cash. Without structural margin expansion, reported net income remains an accounting metric rather than distributable owner cash.",
+      "capex_and_investment_intensity_trend_assessment": "Management's aggressive capital deployment reflects a strategic commitment to industrial scaling at the expense of near-term cash flow. Capital expenditures reached 7.08% of revenue in fiscal 2025, with management guiding full-year 2026 investments between $250 million and $270 million. These outlays fund dedicated facilities for Spartan turbojet production, turbofan development with GE Aerospace, and tooling for tactical drone manufacturing.\n\nThis capital intensity underscores the reality that Kratos is an industrial manufacturer rather than an asset-light technology firm. High upfront outlays for factories and inventory buffering create substantial operating leverage risks if government orders stall. For owners, this heavy reinvestment burden suppresses free cash flow and delays capital return for years.",
+      "balance_sheet_strength_and_leverage_assessment": "The balance sheet appears superficially fortified, largely due to external equity financing rather than retained earnings. Stockholders' equity surged from $976 million in 2023 to $2.00 billion in fiscal 2025, culminating in a $1.2 billion equity raise in early 2026. Consequently, debt-to-equity stands at a modest 0.07, accompanied by a robust current ratio of 4.06.\n\nHowever, this apparent fortress conceals structural cash consumption that necessitated massive shareholder dilution. Gross debt is negligible, but persistent negative free cash flow creates ongoing working capital vulnerability. The fortress was purchased through share issuance, protecting solvency while permanently diluting per-share owner economics and returns on capital.",
+      "profitability_margins_trend_assessment": "Profitability metrics expose chronic economic rent suppression across Kratos' operational footprint. Gross margin contracted from 25.9% in 2023 to 22.1% in fiscal 2025, while operating margin hovered at a meager 2.06%. While management projects adjusted EBITDA margin expansion, trailing operating margin of 1.55% demonstrates that fixed-price cost friction, foreign exchange headwinds in Israeli microwave operations, and subcontractor tiering severely constrain profitability.\n\nThis pattern confirms the absence of pricing power. Defense procurement regulations enforce strict cost caps, while prime integrators capture high-margin software value. Consequently, operating leverage remains muted, preventing rapid revenue expansion from transforming into robust owner returns."
+    }
+  },
+  "prediction_events": {
+    "drivers": [
+      {
+        "event_name": "Hypersonic propulsion and target program expansion",
+        "category": "sector_and_industry",
+        "description": "Investigative evidence shows Pentagon demand for hypersonic test infrastructure is accelerating, corroborated by Kratos doubling hypersonics revenue toward four hundred million dollars. The Mach-TB program and rocket support services establish recurring testing manifests. Because peer-adversary missile parity requires continuous sub-orbital telemetry, this institutional volume drives long-cycle revenue growth, which leads to fixed-cost absorption and lifts gross margins toward corporate targets over the five-year forecast horizon.",
+        "expected_impact_pct_on_price": 18,
+        "expected_impact_pct_on_company_earnings": 32
+      },
+      {
+        "event_name": "Collaborative Combat Aircraft production scale",
+        "category": "competitive_positioning",
+        "description": "The Marine Corps selection of the XQ-58A Valkyrie under the MUX TACAIR program establishes Kratos' attritable airframe as an operational program of record. Teaming with prime integrators like Northrop Grumman and Airbus validates serial airframe manufacturing demand. This structural shift toward affordable mass expands long-term airframe deliveries, providing multi-year volume baselines that enhance top-line visibility and improve factory throughput across the Sacramento manufacturing footprint.",
+        "expected_impact_pct_on_price": 14,
+        "expected_impact_pct_on_company_earnings": 26
+      },
+      {
+        "event_name": "Spartan turbojet serial manufacturing ramp",
+        "category": "innovation_and_product",
+        "description": "Supply-chain commitments for three thousand Spartan turbojet engines in 2027 and five thousand in 2028 establish an internal propulsion manufacturing standard for low-cost cruise missiles. Sourcing affordable engines directly addresses critical national stockpiling bottlenecks in precision strike munitions. This transition from custom engineering to standardized serial manufacturing increases unit volumes, expanding operating leverage and diversifying revenue streams beyond non-recurring engineering into recurring hardware sales.",
+        "expected_impact_pct_on_price": 12,
+        "expected_impact_pct_on_company_earnings": 24
+      },
+      {
+        "event_name": "OpenSpace virtual ground platform adoption",
+        "category": "operational_efficiency",
+        "description": "Commercial and military proliferation of low-Earth-orbit satellite constellations is driving demand for Kratos' software-defined OpenSpace ground architecture. Replacing proprietary hardware gateways with virtualized cloud signal processing lowers customer operating expenses while transitioning Kratos toward higher-margin software licenses. Corroborated by expanding satellite network deployments, this platform shift steadily improves revenue quality, generating stickier multi-year maintenance cash flows and partially offsetting hardware cyclicality.",
+        "expected_impact_pct_on_price": 8,
+        "expected_impact_pct_on_company_earnings": 16
+      }
+    ],
+    "frictions": [
+      {
+        "event_name": "Gross valuation multiple compression reality",
+        "category": "macroeconomic_and_macrofinancial",
+        "description": "Trading at nearly three hundred times trailing earnings and sixty-five times enterprise value to EBITDA, the equity reflects speculative euphoria rather than owner economics. In a renewed monetary tightening regime where risk-free yields approach five percent, cash-flow discounting severely punishes low-yielding assets. This suggests that even vigorous revenue expansion will be overwhelmed by structural valuation multiple compression as market pricing inevitably converges toward historical defense contractor benchmarks.",
+        "expected_impact_pct_on_price": -35,
+        "expected_impact_pct_on_company_earnings": -5
+      },
+      {
+        "event_name": "Structural cash burn and capital intensity",
+        "category": "capital_allocation",
+        "description": "The investigation reveals negative free cash flow exceeding one hundred twenty million dollars alongside guided capital expenditures topping two hundred fifty million dollars. Building engine and drone production facilities requires relentless capital deployment before delivering commercial payoffs. This capital-heavy profile severely impairs owner earnings, compelling management to consume reserves rather than distribute cash, which leads to chronic equity dilution to sustain balance-sheet solvency.",
+        "expected_impact_pct_on_price": -22,
+        "expected_impact_pct_on_company_earnings": -18
+      },
+      {
+        "event_name": "Subcontractor margin squeeze by defense primes",
+        "category": "competitive_positioning",
+        "description": "Operating as a platform subcontractor beneath prime integrators such as Northrop Grumman caps economic rent extraction. Federal procurement rules enforce strict cost auditing, while primes capture higher-margin mission systems, autonomy software, and weapon integration. This dynamic compresses Kratos' operating margins to a meager two percent, preventing the business from translating high-profile defense contracts into meaningful return on invested capital over the five-year horizon.",
+        "expected_impact_pct_on_price": -16,
+        "expected_impact_pct_on_company_earnings": -20
+      },
+      {
+        "event_name": "Fixed-price contract cost inflation overruns",
+        "category": "operational_efficiency",
+        "description": "Persistent industrial inflation and skilled aerospace labor shortages create severe friction across firm-fixed-price manufacturing contracts. Supply-chain lead times for specialized rocket motors and raw materials impose unrecoverable cost escalations that management cannot pass to government buyers. This leads to recurring project margin erosion, corroborated by historical operating margin volatility and foreign currency friction in foreign subsidiaries that consistently dampens operating profit conversion.",
+        "expected_impact_pct_on_price": -14,
+        "expected_impact_pct_on_company_earnings": -16
+      }
+    ],
+    "tail_opportunities": [
+      {
+        "event_name": "Sole-source Air Force CCA procurement mandate",
+        "category": "tail_opportunity",
+        "description": "The Pentagon could formally designate the XQ-58A Valkyrie as the primary mass-production airframe for the Air Force Collaborative Combat Aircraft program by late 2027. Triggered by escalating Indo-Pacific deterrence requirements and delays in rival developmental airframes, this would convert experimental prototypes into multi-billion-dollar production lines. Such a mandate would double projected unmanned systems revenue and expand operating margins above eight percent through manufacturing scale, driving substantial multiple re-expansion beyond the base-case outlook.",
+        "probability_pct": 25,
+        "upside_impact_pct": 45
+      },
+      {
+        "event_name": "High-margin defense software licensing transition",
+        "category": "tail_opportunity",
+        "description": "Accelerating defense virtualization could trigger widespread commercial adoption of the OpenSpace software suite across NATO ground architectures by 2028. If sovereign satellite operators mandate cloud-native telemetry standards, Kratos' software revenue could surge past three hundred million dollars at eighty-percent gross margins. This high-margin cash stream would transform consolidated owner economics, swinging free cash flow positive and triggering an upward structural re-rating by software and defense institutional investors alike.",
+        "probability_pct": 20,
+        "upside_impact_pct": 35
+      }
+    ],
+    "tail_risks": [
+      {
+        "event_name": "Major Valkyrie program cancellation or defunding",
+        "category": "tail_risk",
+        "description": "The Department of Defense could terminate or sharply curtail attritable drone procurement in the fiscal 2028 defense budget due to severe federal fiscal consolidation. Triggered by mounting sovereign debt pressures and reprioritization toward strategic submarine or space surveillance assets, cancellation would render dedicated tooling and newly built manufacturing facilities stranded. This would erase over two hundred million dollars in anticipated annual deliveries, triggering substantial asset write-downs and precipitating an immediate share-price collapse.",
+        "probability_pct": 30,
+        "downside_impact_pct": -45
+      },
+      {
+        "event_name": "Massive dilutive equity emergency recapitalization",
+        "category": "tail_risk",
+        "description": "Compounded capital expenditure overruns in propulsion manufacturing combined with a prolonged federal budget continuing resolution by late 2027 could exhaust operating liquidity. If operating cash outflows accelerate beyond three hundred million dollars, management would be forced to execute another heavily discounted secondary share offering. This dilutive recapitalization would drastically reduce per-share owner earnings, triggering institutional investor capitulation and driving equity prices down toward tangible book value under severe market scrutiny.",
+        "probability_pct": 25,
+        "downside_impact_pct": -38
+      }
+    ]
+  },
+  "timeseries_compounded_return_percent_checkpoints": [
+    {
+      "forecast_quarter": "2027 Q3",
+      "derived_compounded_return_percent_from_steps": "-23.6%"
+    },
+    {
+      "forecast_quarter": "2028 Q3",
+      "derived_compounded_return_percent_from_steps": "-32.5%"
+    },
+    {
+      "forecast_quarter": "2029 Q3",
+      "derived_compounded_return_percent_from_steps": "-39.1%"
+    },
+    {
+      "forecast_quarter": "2030 Q3",
+      "derived_compounded_return_percent_from_steps": "-41.1%"
+    },
+    {
+      "forecast_quarter": "2031 Q3",
+      "derived_compounded_return_percent_from_steps": "-44.6%"
+    }
+  ],
+  "timeseries": [
+    {
+      "date": "2026-12-18",
+      "predicted_most_reasonable_pct_change": -8.0,
+      "scenario_rationale": "Elevated risk-free yields and third-quarter earnings confirming prolonged cash burn accelerate institutional multiple contraction. Operating profit gains fail to appease investors as negative free cash flow deepens, driving an immediate post-earnings repricing lower."
+    },
+    {
+      "date": "2027-03-18",
+      "predicted_most_reasonable_pct_change": -6.0,
+      "scenario_rationale": "Federal budget uncertainty and continuing resolution debates delay anticipated contract awards for unmanned systems. Investors reassess elevated multiples against sluggish procurement velocity, prompting continued institutional liquidation across high-valuation defense technology equities."
+    },
+    {
+      "date": "2027-06-18",
+      "predicted_most_reasonable_pct_change": -7.0,
+      "scenario_rationale": "Release of audited full-year financial statements confirms annual operating cash deficits exceeding one hundred million dollars. Corroborated by heavy capital expenditures for jet engine production lines, equity multiples contract as cash reality dispels speculative hype."
+    },
+    {
+      "date": "2027-09-18",
+      "predicted_most_reasonable_pct_change": -5.0,
+      "scenario_rationale": "Sustained capital expenditure requirements for the Michigan turbojet and Oklahoma turbofan facilities drain corporate liquidity. With risk-free rates remaining restrictive, market participants demand higher risk premiums for non-cash-generative defense subcontractors, pushing shares lower."
+    },
+    {
+      "date": "2027-12-18",
+      "predicted_most_reasonable_pct_change": -3.0,
+      "scenario_rationale": "Accelerating hypersonic flight test manifests under the Mach-TB program drive organic revenue expansion above twenty percent. However, thin operating margins and subcontractor cost inflation limit net earnings gains, producing a modest quarterly valuation drift downward."
+    },
+    {
+      "date": "2028-03-18",
+      "predicted_most_reasonable_pct_change": -6.0,
+      "scenario_rationale": "Capital rotates aggressively from speculative aerospace names toward high-yielding, dividend-paying prime defense contractors. Kratos experiences significant multiple compression as investors refuse to pay software multiples for a capital-heavy defense manufacturing business model."
+    },
+    {
+      "date": "2028-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Successful flight integration tests of the XQ-58A Valkyrie under the Marine Corps MUX TACAIR program restore tactical sentiment. Demonstration of autonomous collaborative capabilities provides tangible operational progress, driving a mild relief rally across defense technology desks."
+    },
+    {
+      "date": "2028-09-18",
+      "predicted_most_reasonable_pct_change": -5.0,
+      "scenario_rationale": "Ramping working capital commitments to support five thousand Spartan engine orders strains balance-sheet flexibility. Inventory buildup and extended procurement cycles delay cash conversion, reminding the market of persistent working capital headwinds and dragging shares lower."
+    },
+    {
+      "date": "2028-12-18",
+      "predicted_most_reasonable_pct_change": -4.0,
+      "scenario_rationale": "Congressional defense committee scrutiny regarding escalating weapons system procurement budgets dampens sector-wide valuation multiples. Attritable drone programs face procurement timeline stretches, triggering downward adjustments to sell-side medium-term revenue forecasts and lowering share prices."
+    },
+    {
+      "date": "2029-03-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Initial deliveries of Spartan turbojets generate higher-margin hardware revenue, driving first-quarter operating margin expansion toward four percent. This operational milestone proves manufacturing execution, generating selective institutional buying that temporarily lifts the equity."
+    },
+    {
+      "date": "2029-06-18",
+      "predicted_most_reasonable_pct_change": -5.0,
+      "scenario_rationale": "Disappointing net earnings conversion demonstrates that revenue scale fails to eliminate subcontractor margin caps. High fixed-cost depreciation from newly commissioned facilities depresses net income, causing another round of valuation recalibration toward traditional industrial contractor levels."
+    },
+    {
+      "date": "2029-09-18",
+      "predicted_most_reasonable_pct_change": -4.0,
+      "scenario_rationale": "Deceleration in government satellite ground equipment orders softens quarterly growth in the Space and Satellite division. Investors penalize the slower top-line momentum, highlighting the inherent cyclicality of federal agency technology refresh cycles."
+    },
+    {
+      "date": "2029-12-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "A succession of successful sub-orbital sounding rocket launches and hypersonic test missions secures major multi-year test telemetry funding. Renewed geopolitical emphasis on counter-hypersonic tracking infrastructure sparks positive retail and institutional order flow into the stock."
+    },
+    {
+      "date": "2030-03-18",
+      "predicted_most_reasonable_pct_change": -5.0,
+      "scenario_rationale": "Annual shareholder reports reveal another year of negligible free cash flow generation despite record top-line revenues. Value-conscious market participants divest holdings, dissatisfied with prolonged owner cash-generation deficits relative to broader industrial peers."
+    },
+    {
+      "date": "2030-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "European operational deployments of Valkyrie airframes equipped with Airbus mission suites commence for allied air forces. First export revenues validate international market viability, creating modest tactical demand that offsets broader structural valuation headwinds."
+    },
+    {
+      "date": "2030-09-18",
+      "predicted_most_reasonable_pct_change": -4.0,
+      "scenario_rationale": "Defense budget growth normalizes across major Western powers, prompting sector-wide multiple de-rating. With defense primes tightening tier-one supplier pricing terms, Kratos absorbs modest pricing pressure, triggering further equity price erosion."
+    },
+    {
+      "date": "2030-12-18",
+      "predicted_most_reasonable_pct_change": -2.0,
+      "scenario_rationale": "Depreciation expenses peak while operating cash flows approach neutral, indicating the capital expenditure cycle is finally moderating. Market repricing slows as the business transitions from speculative growth toward mature defense manufacturing stability."
+    },
+    {
+      "date": "2031-03-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "Stable recurring maintenance and target drone fleet operations under Navy BQM contracts provide defensive cash-flow visibility. Predictable service revenues anchor sentiment, allowing the stock to post a fractional gain in a quiet trading quarter."
+    },
+    {
+      "date": "2031-06-18",
+      "predicted_most_reasonable_pct_change": -3.0,
+      "scenario_rationale": "Macroeconomic liquidity tightening and portfolio reallocations prompt minor late-cycle profit-taking. Despite operational consistency, the persistent absence of dividend distributions leaves shares vulnerable to institutional re-allocation into higher-yielding sovereign and corporate debt instruments."
+    },
+    {
+      "date": "2031-09-18",
+      "predicted_most_reasonable_pct_change": -2.0,
+      "scenario_rationale": "Terminal valuation multiple stabilizes around thirty-five times earnings as revenue approaches three billion dollars with modest cash generation. The stock finishes the five-year horizon fully re-anchored to industrial reality rather than speculative euphoria."
+    }
+  ]
+}

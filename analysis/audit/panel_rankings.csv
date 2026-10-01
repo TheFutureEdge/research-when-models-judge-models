@@ -1,0 +1,17 @@
+model,condition,horizon,order
+gemini_3_8_flash,baseline_blinded,one_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna
+gemini_3_8_flash,baseline_blinded,five_year,bitcoin > sap > visa > ibm > kratos > moderna > nebius
+gemini_3_8_flash,model_disclosed,one_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna
+gemini_3_8_flash,model_disclosed,five_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna
+gemini_3_8_flash,reverse_order_blinded,one_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna
+gemini_3_8_flash,reverse_order_blinded,five_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna
+gemini_3_8_flash,same_order_repeat_blinded,one_year,bitcoin > sap > ibm > visa > kratos > nebius > moderna
+gemini_3_8_flash,same_order_repeat_blinded,five_year,bitcoin > sap > visa > ibm > kratos > moderna > nebius
+gpt_6_astra,baseline_blinded,one_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna
+gpt_6_astra,baseline_blinded,five_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna
+gpt_6_astra,model_disclosed,one_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna
+gpt_6_astra,model_disclosed,five_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna
+gpt_6_astra,reverse_order_blinded,one_year,bitcoin > sap > ibm > visa > kratos > nebius > moderna
+gpt_6_astra,reverse_order_blinded,five_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna
+gpt_6_astra,same_order_repeat_blinded,one_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna
+gpt_6_astra,same_order_repeat_blinded,five_year,bitcoin > sap > visa > ibm > kratos > nebius > moderna

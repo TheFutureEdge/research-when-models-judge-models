@@ -1,0 +1,525 @@
+{
+  "opinion_weights": [
+    {
+      "opinion_id": "opinion_f203993b390b1a6469caad43",
+      "weight": 0.063636363636,
+      "rationale": "Presents coherent long-term structural arguments regarding institutional exchange-traded fund absorption and programmatic halving scarcity. However, it displays significant ungrounded optimism regarding early sovereign reserve accumulation and understates near-term monetary friction from restrictive Federal Reserve policy rates, justifying a modest allocation.",
+      "investment_framework": "jp_morgan__the_titan__standard_1"
+    },
+    {
+      "opinion_id": "opinion_d48a4c578d822c8a85bddb00",
+      "weight": 0.145454545455,
+      "rationale": "Demonstrates exceptional empirical grounding and rigorous forensic reconciliation of recent spot flows against corporate balance-sheet monetization and marginal miner operating break-evens. It accurately incorporates verified macroeconomic tightening, CLARITY legislative developments, and realistic corporate treasury overhang constraints.",
+      "investment_framework": "universal_investor__the_polymath__standard_1"
+    },
+    {
+      "opinion_id": "opinion_c23abb586bb7c9235f77db39",
+      "weight": 0.045454545455,
+      "rationale": "Articulates compelling high-conviction mechanics around long-term fiat credit limits and machine-native Lightning micropayments. Nonetheless, it severely discounts the duration drag of 4.0% policy yields and models an aggressive parabolic trajectory that overlooks near-term institutional rebalancing friction.",
+      "investment_framework": "elon_musk__the_visionary__standard_1"
+    },
+    {
+      "opinion_id": "opinion_bd29a878500326f593ed36f8",
+      "weight": 0.090909090909,
+      "rationale": "Offers disciplined economic grounding by benchmarking valuation against physical gold stock ratios and acknowledging elevated risk-free hurdle rates. Its conservative pacing through 2027 and balanced treatment of cash-flow competition provide sound risk-adjusted baseline support.",
+      "investment_framework": "warren_buffett__the_value_seeker__standard_1"
+    },
+    {
+      "opinion_id": "opinion_8e01713d271445dec03d2c10",
+      "weight": 0.045454545455,
+      "rationale": "Identifies an innovative structural vector in autonomous software agent settlement demand, yet relies heavily on speculative timing regarding machine-to-machine commerce. Its near-term trajectory minimizes real-rate headwinds while assuming rapid sovereign debt monetization without adequate evidence.",
+      "investment_framework": "superintelligence__the_anthropologist__standard_1"
+    },
+    {
+      "opinion_id": "opinion_4adcf0717b6b11c4c78cb4f2",
+      "weight": 0.1,
+      "rationale": "Provides a crucial, realistic counterweight by detailing how marginal electrical production costs, artificial intelligence power competition, and elevated Treasury yields constrain multiple expansion. It models a disciplined post-halving advance followed by structural cyclical deleveraging.",
+      "investment_framework": "michael_burry__the_vulture__standard_1"
+    },
+    {
+      "opinion_id": "opinion_3f9acd1cdf6ebf8a95acd18b",
+      "weight": 0.063636363636,
+      "rationale": "Accurately identifies the defensive institutional moat created by Wall Street fee incentives and custodial entrenchment. However, its post-2028 trajectory assumes an overly rapid resolution of regulatory choke points and underweights the drag of synthetic derivative rehypothecation.",
+      "investment_framework": "machiavelli__the_insider__standard_1"
+    },
+    {
+      "opinion_id": "opinion_32f41e9cea872c01169ab167",
+      "weight": 0.145454545455,
+      "rationale": "Exhibits peerless analytical rigor, supported by verified primary filings regarding Federal Reserve policy, corporate preferred distributions, and exchange-traded vehicle holdings. It convincingly refutes the permanent float-freeze thesis by demonstrating how institutional holders actively manage treasury liquidity.",
+      "investment_framework": "universal_investor__the_polymath__standard_1"
+    },
+    {
+      "opinion_id": "opinion_316a1a4834cc381b93da4423",
+      "weight": 0.054545454545,
+      "rationale": "Features rigorous tracking of realized capitalization and long-term holder dormancy metrics. However, its forecast path extrapolates historical halving multiples too aggressively into the 2028-2029 window, slightly understating how paper derivatives dilute pure spot supply squeezes.",
+      "investment_framework": "warren_buffett__the_value_seeker__standard_1"
+    },
+    {
+      "opinion_id": "opinion_2efcbf7eec9cfb7e67cd40d6",
+      "weight": 0.045454545455,
+      "rationale": "Synthesizes multi-asset portfolio integration and de-dollarization dynamics effectively. Its path remains plausible but leans heavily on early central bank yield suppression without accounting for persistent energy-driven inflation keeping nominal discount rates elevated through 2027.",
+      "investment_framework": "universal_investor__the_polymath__standard_1"
+    },
+    {
+      "opinion_id": "opinion_22e4638b877d05762d98838e",
+      "weight": 0.054545454545,
+      "rationale": "Frames the macro debt cycle and currency debasement pressures with strong causal coherence. However, it overstates the speed at which institutional allocators replace gold with digital assets, discounting sovereign preference for bullion during geopolitical friction.",
+      "investment_framework": "ray_dalio__the_strategist__longterm_standard_1"
+    },
+    {
+      "opinion_id": "opinion_1327452e627df8aec48bf316",
+      "weight": 0.036363636364,
+      "rationale": "Presents an intellectually provocative thesis on civilizational thermodynamic backing and non-human economic agents. Nevertheless, it lacks empirical grounding for near-term adoption milestones and relies on aggressive assumptions regarding global fiat collapse.",
+      "investment_framework": "superintelligence__the_anthropologist__standard_1"
+    },
+    {
+      "opinion_id": "opinion_12c9dc099afaed8fc72c814e",
+      "weight": 0.054545454545,
+      "rationale": "Effectively monitors exchange inventory drainage and cold-storage clustering. However, its scenario path presumes an abrupt Federal Reserve policy pause in mid-2027 that conflicts with verified central bank determination to suppress stubborn services inflation.",
+      "investment_framework": "sherlock_holmes__the_whistleblower__standard_1"
+    },
+    {
+      "opinion_id": "opinion_047ee07be1114c3ce526f6c1",
+      "weight": 0.054545454545,
+      "rationale": "Constructs a solid cyclical framework tracking the interaction between post-halving supply deficits and institutional custody. It slightly overstates the speed of sovereign petrodollar settlement adoption, warranting a measured baseline weighting.",
+      "investment_framework": "universal_investor__the_polymath__standard_1"
+    }
+  ],
+  "consensus_weighting_assessment": "The independently verified evidence reveals an arithmetic paradox: massive exchange-traded spot absorption coincides with stalled price action because identifiable corporate treasuries and high-cost miners actively distribute inventory. Reports demonstrating primary-source verification of the Federal Reserve's September 2026 hike to 3.75%-4.00% and corporate cash-management sales receive the highest relative weights. Conversely, reports that treat institutional custody as an irrevocable supply lock, ignore positive real risk-free yields, or assume immediate sovereign strategic reserve adoption are downweighted due to correlated, ungrounded assumptions. The strongest contrarian case establishes that zero-yielding digital assets face severe multiple compression against elevated Treasury benchmarks and tokenized cash yields, delaying the monetary debasement trade. Unresolved uncertainty persists regarding post-2028 halving miner debt solvency under high power costs, shaping a synthesized trajectory characterized by near-term cyclical consolidation, post-halving structural re-rating, and late-horizon volatility moderation.",
+  "consensus_quarterly_rationales": [
+    {
+      "date": "2026-12-20",
+      "scenario_rationale": "Institutional year-end portfolio rebalancing and resilient spot ETF inflows absorb the shock of the Federal Reserve's recent benchmark rate hike, keeping valuations stable as corporate treasury monetization limits upside velocity."
+    },
+    {
+      "date": "2027-03-20",
+      "scenario_rationale": "Persistent 4% policy yields and first-quarter tax liquidity drains exert valuation drag, as high cash hurdle rates and residual corporate treasury disposals force modest multiple compression toward realized support levels."
+    },
+    {
+      "date": "2027-06-20",
+      "scenario_rationale": "Forced corporate inventory selling abates while spot exchange-traded fund balances stabilize, allowing disciplined value accumulators to absorb exhausted miner distribution and nudge prices higher amidst cooling global energy volatility."
+    },
+    {
+      "date": "2027-09-20",
+      "scenario_rationale": "Cooling macroeconomic data prompts central banks to halt policy rate hikes, lowering real yield headwinds and encouraging wealth managers to resume multi-asset portfolio allocations into scarce digital reserve assets."
+    },
+    {
+      "date": "2027-12-20",
+      "scenario_rationale": "Anticipatory pre-halving accumulation accelerates across institutional trading desks, tightening secondary float and challenging psychological overhead resistance as long-term custody holders refuse to distribute into building momentum."
+    },
+    {
+      "date": "2028-03-20",
+      "scenario_rationale": "Acute supply constriction emerges across over-the-counter liquidity pools as institutional buyers aggressively front-run the April block subsidy cut, driving spot prices decisively higher on expanding market depth."
+    },
+    {
+      "date": "2028-06-20",
+      "scenario_rationale": "The fifth programmatic halving executes, cutting block rewards to 1.5625 BTC. Temporary sell-the-news profit realization and marginal miner hardware adjustments produce choppy consolidation, moderating initial gains."
+    },
+    {
+      "date": "2028-09-20",
+      "scenario_rationale": "Programmatic supply reduction takes full economic effect as daily structural issuance falls to 225 BTC. Steady exchange-traded fund creations easily clear diminished miner inventories, initiating a powerful post-halving expansion."
+    },
+    {
+      "date": "2028-12-20",
+      "scenario_rationale": "Reflexive momentum accelerates as global central banks transition toward monetary accommodation to manage sovereign debt servicing, sparking aggressive institutional inflows that drive rapid price discovery across spot venues."
+    },
+    {
+      "date": "2029-03-20",
+      "scenario_rationale": "Mainstream retail participation returns alongside expanding corporate treasury balance-sheet adoptions, pushing network valuation higher as perpetual swap basis spreads widen and derivatives open interest touches cycle highs."
+    },
+    {
+      "date": "2029-06-20",
+      "scenario_rationale": "The bull cycle approaches terminal velocity as institutional allocators and long-term miners begin systematic profit realization into maximum retail liquidity, moderating upward momentum near cyclical valuation peaks."
+    },
+    {
+      "date": "2029-09-20",
+      "scenario_rationale": "Late-cycle speculative exhaustion triggers cascading long liquidations across overleveraged derivatives platforms, initiating an orderly post-peak cyclical correction as smart-money capital rotates into defensive cash equivalents."
+    },
+    {
+      "date": "2029-12-20",
+      "scenario_rationale": "Year-end tax-loss harvesting and continued institutional balance-sheet de-risking accelerate cyclical deleveraging, forcing secondary market price discovery downward toward key historical breakout baselines."
+    },
+    {
+      "date": "2030-03-20",
+      "scenario_rationale": "Cyclical bear market selling pressure deepens as distressed medium-tier mining operators liquidate operational reserves under compressed post-halving margins, completing a textbook speculative leverage flush."
+    },
+    {
+      "date": "2030-06-20",
+      "scenario_rationale": "Capitulation selling exhausts itself as spot prices approach the updated global thermodynamic production floor, where deep-pocketed sovereign entities and patient value funds quietly initiate structured accumulation."
+    },
+    {
+      "date": "2030-09-20",
+      "scenario_rationale": "Spot exchange volatility collapses into a narrow trading band as long-term illiquid supply metrics resume expansion, establishing an impenetrable cyclical accumulation base supported by stabilizing network hash rate."
+    },
+    {
+      "date": "2030-12-20",
+      "scenario_rationale": "Renewed sovereign fiscal deficits and currency debasement concerns reignite baseline demand for provably scarce monetary collateral, lifting spot quotes steadily as institutional custodial balances resume multi-month growth."
+    },
+    {
+      "date": "2031-03-20",
+      "scenario_rationale": "Broadening banking custody competition and standardized regulatory capital treatment lower operational frictions, allowing commercial banks and conservative retirement portfolios to systematically allocate fresh capital."
+    },
+    {
+      "date": "2031-06-20",
+      "scenario_rationale": "Accelerating Layer-2 transaction velocity and cross-border settlement corridors drive reliable on-chain fee generation, expanding fundamental network value capture and reinforcing long-term holder reservation prices."
+    },
+    {
+      "date": "2031-09-20",
+      "scenario_rationale": "Early market positioning commences for the scheduled 2032 sixth halving cycle, closing the five-year horizon with robust, institutionalized non-sovereign reserve collateral compounding at mature macroeconomic scale."
+    }
+  ],
+  "headline_title": "Institutional Absorption Collides With Finite Treasury Overhang Ahead Of Halving",
+  "geo_optimization_snippet": "Sharp divergence characterizes the tactical horizon as restrictive interest rates and corporate treasury liquidations clash with relentless exchange-traded fund accumulation. High consensus establishes that the April 2028 halving and compounding sovereign debt will drive durable secular scarcity.",
+  "expert_seo_thesis": "The base-case economic thesis resolves the apparent paradox between robust exchange-traded fund absorption and stalled market valuation. While regulated spot conduits absorb roughly triple newly minted daily issuance, this structural demand has been offset by finite, datable supply: distressed miner treasury liquidations and corporate monetization to fund preferred equity dividends. Over the medium term, this temporary distribution clears just as the April 2028 halving algorithmically slashes block subsidies from 3.125 to 1.5625 BTC, permanently compressing daily emissions to 225 coins. Concurrently, escalating sovereign debt service will inevitably force global central banks to cap real yields, activating the secular monetary debasement channel. Valuation remains highly sensitive to risk-free discount rates; prolonged real rates above 2% present the primary downside risk by elevating the hurdle rate against zero-yielding collateral.\n\n-- Institutional custody creates permeable liquidity rather than permanent sequestration, as corporate treasury balance sheets actively trade holdings to defend capital structures.\n-- The monetary debasement thesis functions through a duration lag, where gold absorbs initial geopolitical flight before digital collateral captures late-cycle liquidity.\n-- Synthetic derivative financialization and tokenized Treasury substitution dampen reflexivity, shifting terminal pricing from retail mania toward disciplined institutional portfolio rebalancing.",
+  "simple_seo_thesis": "Bitcoin is caught between two powerful forces: high interest rates that encourage investors to keep cash in government bonds, and steady demand from major exchange-traded funds quietly buying up available supply. The reason prices paused after recent highs is that several cash-strapped mining companies and corporate holders sold coins to pay expenses. Once this limited selling ends and the 2028 halving cuts daily coin creation in half, growing institutional demand will meet a dried-up supply, pushing the network into its next major growth phase.\n\n-- Big companies holding digital coins are active treasurers, not permanent vaults, occasionally selling to pay business bills.\n-- Gold captured the first wave of inflation worries, but digital assets typically benefit when central banks start cutting rates.\n-- The 2028 halving cuts new coin creation in half, mechanically starving market supply regardless of short-term economic news.",
+  "consensus_crowd_narrative": "Prevailing public consensus views the asset as an exhausted, high-beta liquidity trade trapped under restrictive Federal Reserve policy rates and elevated Treasury yields. Retail sentiment and media commentary treat the retreat from 2025 highs as proof that non-yielding digital assets failed their inflation-hedging test against record gold, assuming prolonged range-bound stagnation.",
+  "consensus_alpha_gap": "The crowd underestimates value due to an arithmetic blind spot: extrapolating finite seller overhang into perpetuity. Investors mistake temporary selling from distressed miners and corporate dividend-funding liquidations for structural demand failure. They overlook that spot funds continue absorbing multiple times daily issuance, ensuring an explosive supply squeeze once bounded selling exhausts ahead of the 2028 halving.",
+  "consensus_convergence_catalyst": "Visible exhaustion of corporate treasury monetization programs alongside sustained positive net creations in spot exchange-traded funds will trigger rapid repricing. Expected across late 2027, the primary observable signal will be price breaking upward on flat volume rather than requiring record institutional inflows, confirming that secondary market order-book float has been thoroughly drained.",
+  "consensus_macro_regime_alignment": "The prevailing macro regime of 3.75%-4.00% policy rates, positive real yields, and energy-driven inflation acts as an acute near-term headwind. Elevated cash hurdle rates penalize non-yielding assets. However, compounding sovereign debt ensures eventual fiscal dominance, converting monetary austerity into a powerful multi-year tailwind as debt monetization inevitably resumes.",
+  "consensus_sentiment_regime": {
+    "dominant_greed_and_fear_sentiment": "fear",
+    "dominant_volatility_regime": "high_erratic",
+    "dominant_convergence_cycle_position": "stabilization",
+    "regime_disagreement_summary": "Analysts agree that market structure has entered post-capitulation stabilization with high erratic volatility. The decisive tension centers on whether restrictive policy delays secular expansion into 2028 or if persistent institutional accumulation triggers an earlier liquidity breakout by late 2027."
+  },
+  "consensus_driver_factors": [
+    {
+      "event_name": "Fifth programmatic block reward halving",
+      "category": "tokenomics_and_supply",
+      "description": "The scheduled April 2028 protocol halving slashes block subsidies from 3.125 to 1.5625 BTC, permanently throttling daily emissions to 225 coins. This immutable supply constriction collides directly with persistent institutional accumulation, precipitating severe physical float deficits on secondary exchanges and driving mechanical upward price clearing.",
+      "expected_impact_pct_on_price": 68
+    },
+    {
+      "event_name": "Institutional fund balance sheet absorption",
+      "category": "institutional_participation",
+      "description": "Regulated spot exchange-traded funds and corporate treasury mandates establish structural capital conduits, absorbing circulating float into segregated cold custody. Sustained baseline inflows from wealth management platforms and retirement allocators steadily remove liquid order-book inventory, establishing an unshakeable structural valuation floor across market cycles.",
+      "expected_impact_pct_on_price": 54
+    },
+    {
+      "event_name": "Sovereign fiscal dominance debt monetization",
+      "category": "macroeconomic_and_macrofinancial",
+      "description": "Compounding sovereign debt-to-GDP ratios exceeding 122% across mature economies force central banks into eventual fiscal accommodation and broad money supply re-expansion. As fiat purchasing power erodes under structural debt monetization, institutional flight-to-scarcity flows channel directly into unforgeable cryptographic collateral.",
+      "expected_impact_pct_on_price": 46
+    },
+    {
+      "event_name": "Layer two settlement velocity expansion",
+      "category": "adoption_and_network",
+      "description": "Maturing Lightning Network routing, institutional sidechains, and machine-to-machine settlement primitives transform the network into an efficient global financial highway. Expanding transactional utility drives non-speculative velocity and sticky on-chain fee density, underpinning long-term network security and compounding holder value capture over five years.",
+      "expected_impact_pct_on_price": 32
+    }
+  ],
+  "consensus_friction_factors": [
+    {
+      "event_name": "Restrictive real rates and cash hurdle",
+      "category": "macroeconomic_and_macrofinancial",
+      "description": "The Federal Reserve maintaining benchmark interest rates near 4.00% alongside elevated Treasury yields imposes severe discount-rate drag on zero-yielding assets. Attractive risk-free sovereign returns divert marginal liquidity into money-market paper, suppressing speculative multiples and dampening institutional spot velocity through late 2027.",
+      "expected_impact_pct_on_price": -28
+    },
+    {
+      "event_name": "Corporate treasury monetization inventory overhang",
+      "category": "institutional_participation",
+      "description": "Corporate holders trading below enterprise net asset value face capital structure stress, prompting authorized monetization programs to fund preferred equity dividends and debt service. This bounded selling introduces significant physical supply onto spot markets, temporarily neutralizing institutional exchange-traded fund absorption.",
+      "expected_impact_pct_on_price": -22
+    },
+    {
+      "event_name": "Miner operational margin breakeven compression",
+      "category": "technology_and_protocol",
+      "description": "Escalating industrial grid tariffs, artificial intelligence datacenter competition for baseload power, and post-halving subsidy reductions squeeze commercial mining margins. Cash-flow deficits compel distressed operators to liquidate treasury reserves and newly minted production to service operational debt, creating continuous overhead selling resistance.",
+      "expected_impact_pct_on_price": -18
+    },
+    {
+      "event_name": "Surveillance mandates and custodial friction",
+      "category": "regulatory",
+      "description": "Expanding Financial Action Task Force travel-rule compliance, stringent KYC/AML reporting, and heightened tax surveillance across fiat banking gateways impose heavy compliance overhead. Restricting unhosted wallet interoperability fragments liquidity pools and slows retail onboarding velocity across major developed jurisdictions.",
+      "expected_impact_pct_on_price": -16
+    }
+  ],
+  "consensus_tail_opportunities": [
+    {
+      "event_name": "National strategic reserve statutory codification",
+      "category": "political_and_geopolitical",
+      "description": "Passage of landmark federal legislation establishing an official Strategic Bitcoin Reserve would mandate sovereign treasury accumulation of up to one million coins over five years. Such statutory buying would permanently withdraw 5% of circulating supply, sparking competitive sovereign front-running across allied and rival central banks.",
+      "probability_pct": 24,
+      "upside_impact_pct": 85
+    },
+    {
+      "event_name": "Multilateral trade settlement de dollarization",
+      "category": "adoption_and_network",
+      "description": "Severe weaponization of western payment channels could compel non-aligned trade blocs and major energy exporters to adopt decentralized digital collateral for bilateral hydrocarbon settlements. Routing cross-border commodity trade over base-layer rails would generate massive price-insensitive settlement demand, cementing the asset as tier-one supranational neutral collateral.",
+      "probability_pct": 20,
+      "upside_impact_pct": 65
+    }
+  ],
+  "consensus_tail_risks": [
+    {
+      "event_name": "Coordinated multilateral self custody prohibition",
+      "category": "regulatory",
+      "description": "A coordinated regulatory crackdown across the G7 criminalizing unhosted cryptographic wallets and prohibiting commercial banks from servicing digital custodians would deliver a severe blow to network accessibility. Forced institutional divestment and severed fiat on-ramps would instantly paralyze secondary market depth and prompt panic liquidations.",
+      "probability_pct": 19,
+      "downside_impact_pct": -52
+    },
+    {
+      "event_name": "Cryptographic signature quantum vulnerability disclosure",
+      "category": "technology_and_protocol",
+      "description": "Accelerated breakthroughs in topological quantum computing achieving Shor algorithm scale capable of compromising secp256k1 elliptic curve signatures before consensus soft-fork mitigation would spark existential panic. The threat of unauthorized dormant wallet liquidation would trigger catastrophic market flight until quantum-resistant signatures achieve complete implementation.",
+      "probability_pct": 14,
+      "downside_impact_pct": -65
+    }
+  ],
+  "consensus_disagreement_summary": "The primary analytical disagreement concerns the permanence of institutional float sequestration versus the liquidity drag of positive real interest rates. One camp models an uninterrupted supply squeeze, arguing that spot exchange-traded fund conduits permanently lock coins in cold storage ahead of the 2028 halving. The opposing camp contends that corporate treasury sellers and tokenized Treasury products provide substantial elastic supply, dampening price velocity while policy rates remain near 4.00%. This debate hinges on whether corporate monetizations represent a temporary inventory clearance or an ongoing regime.",
+  "consensus_thesis_watchpoints": "-- Confirmation: Spot ETF weekly net creations remaining positive while market price holds above $73,000 across two consecutive quarters confirms structural absorption.\n-- Deterioration: Confirmed corporate treasury coin sales exceeding 20,800 BTC alongside spot ETF net outflows over sixty days signals severe thesis breakdown.\n-- Reassessment: US 10-year Treasury yields sustaining above 5.25% through mid-2027 requires immediate recalibration of institutional risk budgets and monetary debasement velocity.",
+  "submitted_opinion_weights": [
+    {
+      "opinion_id": "opinion_f203993b390b1a6469caad43",
+      "weight": 0.07,
+      "rationale": "Presents coherent long-term structural arguments regarding institutional exchange-traded fund absorption and programmatic halving scarcity. However, it displays significant ungrounded optimism regarding early sovereign reserve accumulation and understates near-term monetary friction from restrictive Federal Reserve policy rates, justifying a modest allocation."
+    },
+    {
+      "opinion_id": "opinion_d48a4c578d822c8a85bddb00",
+      "weight": 0.16,
+      "rationale": "Demonstrates exceptional empirical grounding and rigorous forensic reconciliation of recent spot flows against corporate balance-sheet monetization and marginal miner operating break-evens. It accurately incorporates verified macroeconomic tightening, CLARITY legislative developments, and realistic corporate treasury overhang constraints."
+    },
+    {
+      "opinion_id": "opinion_c23abb586bb7c9235f77db39",
+      "weight": 0.05,
+      "rationale": "Articulates compelling high-conviction mechanics around long-term fiat credit limits and machine-native Lightning micropayments. Nonetheless, it severely discounts the duration drag of 4.0% policy yields and models an aggressive parabolic trajectory that overlooks near-term institutional rebalancing friction."
+    },
+    {
+      "opinion_id": "opinion_bd29a878500326f593ed36f8",
+      "weight": 0.1,
+      "rationale": "Offers disciplined economic grounding by benchmarking valuation against physical gold stock ratios and acknowledging elevated risk-free hurdle rates. Its conservative pacing through 2027 and balanced treatment of cash-flow competition provide sound risk-adjusted baseline support."
+    },
+    {
+      "opinion_id": "opinion_8e01713d271445dec03d2c10",
+      "weight": 0.05,
+      "rationale": "Identifies an innovative structural vector in autonomous software agent settlement demand, yet relies heavily on speculative timing regarding machine-to-machine commerce. Its near-term trajectory minimizes real-rate headwinds while assuming rapid sovereign debt monetization without adequate evidence."
+    },
+    {
+      "opinion_id": "opinion_4adcf0717b6b11c4c78cb4f2",
+      "weight": 0.11,
+      "rationale": "Provides a crucial, realistic counterweight by detailing how marginal electrical production costs, artificial intelligence power competition, and elevated Treasury yields constrain multiple expansion. It models a disciplined post-halving advance followed by structural cyclical deleveraging."
+    },
+    {
+      "opinion_id": "opinion_3f9acd1cdf6ebf8a95acd18b",
+      "weight": 0.07,
+      "rationale": "Accurately identifies the defensive institutional moat created by Wall Street fee incentives and custodial entrenchment. However, its post-2028 trajectory assumes an overly rapid resolution of regulatory choke points and underweights the drag of synthetic derivative rehypothecation."
+    },
+    {
+      "opinion_id": "opinion_32f41e9cea872c01169ab167",
+      "weight": 0.16,
+      "rationale": "Exhibits peerless analytical rigor, supported by verified primary filings regarding Federal Reserve policy, corporate preferred distributions, and exchange-traded vehicle holdings. It convincingly refutes the permanent float-freeze thesis by demonstrating how institutional holders actively manage treasury liquidity."
+    },
+    {
+      "opinion_id": "opinion_316a1a4834cc381b93da4423",
+      "weight": 0.06,
+      "rationale": "Features rigorous tracking of realized capitalization and long-term holder dormancy metrics. However, its forecast path extrapolates historical halving multiples too aggressively into the 2028-2029 window, slightly understating how paper derivatives dilute pure spot supply squeezes."
+    },
+    {
+      "opinion_id": "opinion_2efcbf7eec9cfb7e67cd40d6",
+      "weight": 0.05,
+      "rationale": "Synthesizes multi-asset portfolio integration and de-dollarization dynamics effectively. Its path remains plausible but leans heavily on early central bank yield suppression without accounting for persistent energy-driven inflation keeping nominal discount rates elevated through 2027."
+    },
+    {
+      "opinion_id": "opinion_22e4638b877d05762d98838e",
+      "weight": 0.06,
+      "rationale": "Frames the macro debt cycle and currency debasement pressures with strong causal coherence. However, it overstates the speed at which institutional allocators replace gold with digital assets, discounting sovereign preference for bullion during geopolitical friction."
+    },
+    {
+      "opinion_id": "opinion_1327452e627df8aec48bf316",
+      "weight": 0.04,
+      "rationale": "Presents an intellectually provocative thesis on civilizational thermodynamic backing and non-human economic agents. Nevertheless, it lacks empirical grounding for near-term adoption milestones and relies on aggressive assumptions regarding global fiat collapse."
+    },
+    {
+      "opinion_id": "opinion_12c9dc099afaed8fc72c814e",
+      "weight": 0.06,
+      "rationale": "Effectively monitors exchange inventory drainage and cold-storage clustering. However, its scenario path presumes an abrupt Federal Reserve policy pause in mid-2027 that conflicts with verified central bank determination to suppress stubborn services inflation."
+    },
+    {
+      "opinion_id": "opinion_047ee07be1114c3ce526f6c1",
+      "weight": 0.06,
+      "rationale": "Constructs a solid cyclical framework tracking the interaction between post-halving supply deficits and institutional custody. It slightly overstates the speed of sovereign petrodollar settlement adoption, warranting a measured baseline weighting."
+    }
+  ],
+  "consensus_timeseries": [
+    {
+      "date": "2026-12-20",
+      "scenario_rationale": "Institutional year-end portfolio rebalancing and resilient spot ETF inflows absorb the shock of the Federal Reserve's recent benchmark rate hike, keeping valuations stable as corporate treasury monetization limits upside velocity.",
+      "forecast_step": 1,
+      "predicted_most_reasonable_pct_change": 1.972727272715,
+      "compounded_return_percent": 1.972727272715,
+      "predicted_price": 82558.05814908097
+    },
+    {
+      "date": "2027-03-20",
+      "scenario_rationale": "Persistent 4% policy yields and first-quarter tax liquidity drains exert valuation drag, as high cash hurdle rates and residual corporate treasury disposals force modest multiple compression toward realized support levels.",
+      "forecast_step": 2,
+      "predicted_most_reasonable_pct_change": -1.972727272738,
+      "compounded_return_percent": -0.038916528948589345,
+      "predicted_price": 80929.41282013115
+    },
+    {
+      "date": "2027-06-20",
+      "scenario_rationale": "Forced corporate inventory selling abates while spot exchange-traded fund balances stabilize, allowing disciplined value accumulators to absorb exhausted miner distribution and nudge prices higher amidst cooling global energy volatility.",
+      "forecast_step": 3,
+      "predicted_most_reasonable_pct_change": 7.372727272727,
+      "compounded_return_percent": 7.330941534235019,
+      "predicted_price": 86896.11771077878
+    },
+    {
+      "date": "2027-09-20",
+      "scenario_rationale": "Cooling macroeconomic data prompts central banks to halt policy rate hikes, lowering real yield headwinds and encouraging wealth managers to resume multi-asset portfolio allocations into scarce digital reserve assets.",
+      "forecast_step": 4,
+      "predicted_most_reasonable_pct_change": 9.290909090916,
+      "compounded_return_percent": 17.302961738605,
+      "predicted_price": 94969.5570108226
+    },
+    {
+      "date": "2027-12-20",
+      "scenario_rationale": "Anticipatory pre-halving accumulation accelerates across institutional trading desks, tightening secondary float and challenging psychological overhead resistance as long-term custody holders refuse to distribute into building momentum.",
+      "forecast_step": 5,
+      "predicted_most_reasonable_pct_change": 11.418181818185,
+      "compounded_return_percent": 30.696827188034902,
+      "predicted_price": 105813.35370224318
+    },
+    {
+      "date": "2028-03-20",
+      "scenario_rationale": "Acute supply constriction emerges across over-the-counter liquidity pools as institutional buyers aggressively front-run the April block subsidy cut, driving spot prices decisively higher on expanding market depth.",
+      "forecast_step": 6,
+      "predicted_most_reasonable_pct_change": 12.936363636368,
+      "compounded_return_percent": 47.60424401427457,
+      "predicted_price": 119501.75391300162
+    },
+    {
+      "date": "2028-06-20",
+      "scenario_rationale": "The fifth programmatic halving executes, cutting block rewards to 1.5625 BTC. Temporary sell-the-news profit realization and marginal miner hardware adjustments produce choppy consolidation, moderating initial gains.",
+      "forecast_step": 7,
+      "predicted_most_reasonable_pct_change": 8.472727272706,
+      "compounded_return_percent": 60.110349052543526,
+      "predicted_price": 129626.81160815053
+    },
+    {
+      "date": "2028-09-20",
+      "scenario_rationale": "Programmatic supply reduction takes full economic effect as daily structural issuance falls to 225 BTC. Steady exchange-traded fund creations easily clear diminished miner inventories, initiating a powerful post-halving expansion.",
+      "forecast_step": 8,
+      "predicted_most_reasonable_pct_change": 13.418181818179,
+      "compounded_return_percent": 81.59424679813486,
+      "predicted_price": 147020.3728748405
+    },
+    {
+      "date": "2028-12-20",
+      "scenario_rationale": "Reflexive momentum accelerates as global central banks transition toward monetary accommodation to manage sovereign debt servicing, sparking aggressive institutional inflows that drive rapid price discovery across spot venues.",
+      "forecast_step": 9,
+      "predicted_most_reasonable_pct_change": 18.263636363644,
+      "compounded_return_percent": 114.75995969064445,
+      "predicted_price": 173871.63915717488
+    },
+    {
+      "date": "2029-03-20",
+      "scenario_rationale": "Mainstream retail participation returns alongside expanding corporate treasury balance-sheet adoptions, pushing network valuation higher as perpetual swap basis spreads widen and derivatives open interest touches cycle highs.",
+      "forecast_step": 10,
+      "predicted_most_reasonable_pct_change": 14.236363636368,
+      "compounded_return_percent": 145.33396849752194,
+      "predicted_price": 198624.63796810393
+    },
+    {
+      "date": "2029-06-20",
+      "scenario_rationale": "The bull cycle approaches terminal velocity as institutional allocators and long-term miners begin systematic profit realization into maximum retail liquidity, moderating upward momentum near cyclical valuation peaks.",
+      "forecast_step": 11,
+      "predicted_most_reasonable_pct_change": 5.572727272727,
+      "compounded_return_percent": 159.0057614692468,
+      "predicted_price": 209693.4473385077
+    },
+    {
+      "date": "2029-09-20",
+      "scenario_rationale": "Late-cycle speculative exhaustion triggers cascading long liquidations across overleveraged derivatives platforms, initiating an orderly post-peak cyclical correction as smart-money capital rotates into defensive cash equivalents.",
+      "forecast_step": 12,
+      "predicted_most_reasonable_pct_change": -9.509090909082,
+      "compounded_return_percent": 134.37666815137604,
+      "predicted_price": 189753.50680070103
+    },
+    {
+      "date": "2029-12-20",
+      "scenario_rationale": "Year-end tax-loss harvesting and continued institutional balance-sheet de-risking accelerate cyclical deleveraging, forcing secondary market price discovery downward toward key historical breakout baselines.",
+      "forecast_step": 13,
+      "predicted_most_reasonable_pct_change": -10.763636363621,
+      "compounded_return_percent": 109.1492158703912,
+      "predicted_price": 169329.12934145474
+    },
+    {
+      "date": "2030-03-20",
+      "scenario_rationale": "Cyclical bear market selling pressure deepens as distressed medium-tier mining operators liquidate operational reserves under compressed post-halving margins, completing a textbook speculative leverage flush.",
+      "forecast_step": 14,
+      "predicted_most_reasonable_pct_change": -9.381818181815,
+      "compounded_return_percent": 89.52721670873935,
+      "predicted_price": 153442.9782977891
+    },
+    {
+      "date": "2030-06-20",
+      "scenario_rationale": "Capitulation selling exhausts itself as spot prices approach the updated global thermodynamic production floor, where deep-pocketed sovereign entities and patient value funds quietly initiate structured accumulation.",
+      "forecast_step": 15,
+      "predicted_most_reasonable_pct_change": -1.472727272722,
+      "compounded_return_percent": 86.7359976990388,
+      "predicted_price": 151183.18170832066
+    },
+    {
+      "date": "2030-09-20",
+      "scenario_rationale": "Spot exchange volatility collapses into a narrow trading band as long-term illiquid supply metrics resume expansion, establishing an impenetrable cyclical accumulation base supported by stabilizing network hash rate.",
+      "forecast_step": 16,
+      "predicted_most_reasonable_pct_change": 3.727272727272,
+      "compounded_return_percent": 93.69615761327435,
+      "predicted_price": 156818.19120835696
+    },
+    {
+      "date": "2030-12-20",
+      "scenario_rationale": "Renewed sovereign fiscal deficits and currency debasement concerns reignite baseline demand for provably scarce monetary collateral, lifting spot quotes steadily as institutional custodial balances resume multi-month growth.",
+      "forecast_step": 17,
+      "predicted_most_reasonable_pct_change": 6.754545454547,
+      "compounded_return_percent": 106.77945262297398,
+      "predicted_price": 167410.54721452386
+    },
+    {
+      "date": "2031-03-20",
+      "scenario_rationale": "Broadening banking custody competition and standardized regulatory capital treatment lower operational frictions, allowing commercial banks and conservative retirement portfolios to systematically allocate fresh capital.",
+      "forecast_step": 18,
+      "predicted_most_reasonable_pct_change": 6.927272727273,
+      "compounded_return_percent": 121.10362925012964,
+      "predicted_price": 179007.53239429404
+    },
+    {
+      "date": "2031-06-20",
+      "scenario_rationale": "Accelerating Layer-2 transaction velocity and cross-border settlement corridors drive reliable on-chain fee generation, expanding fundamental network value capture and reinforcing long-term holder reservation prices.",
+      "forecast_step": 19,
+      "predicted_most_reasonable_pct_change": 7.427272727276,
+      "compounded_return_percent": 137.52559880444196,
+      "predicted_price": 192302.91002758523
+    },
+    {
+      "date": "2031-09-20",
+      "scenario_rationale": "Early market positioning commences for the scheduled 2032 sixth halving cycle, closing the five-year horizon with robust, institutionalized non-sovereign reserve collateral compounding at mature macroeconomic scale.",
+      "forecast_step": 20,
+      "predicted_most_reasonable_pct_change": 6.663636363634,
+      "compounded_return_percent": 153.35344097931417,
+      "predicted_price": 205117.27666850976
+    }
+  ],
+  "consensus_calculation": {
+    "method": "evidence_weighted_quarterly_returns_v1",
+    "source_snapshot_sha256": "01c0e4a451ba20928659ae298789c15578b8ec26af0f44694d0c83b7949142c4",
+    "path_kind": "synthesizer_weighted_consensus",
+    "return_basis": "price_return_ex_dividends",
+    "forecast_step_count": 20,
+    "forecast_horizon_end_date": "2031-09-20",
+    "one_year_compounded_return_percent": 17.302961738605,
+    "final_compounded_return_percent": 153.35344097931417,
+    "final_predicted_price": 205117.27666850976,
+    "opinion_count": 14,
+    "positive_weight_opinion_count": 14,
+    "weight_sum": 1.0,
+    "anchor_price": 80960.92,
+    "submitted_weight_sum": 1.1,
+    "weights_normalized": true,
+    "normalization_method": "divide_by_positive_total_then_12_decimal_residual_to_largest",
+    "anchor_timestamp": "2026-09-20 00:00:00+00:00",
+    "formula": "r[t] = sum(w[i] * r[i,t]); P[t] = anchor * product(1 + r[t]/100)"
+  }
+}

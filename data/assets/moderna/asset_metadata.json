@@ -1,0 +1,11 @@
+{
+  "slug": "moderna",
+  "subject_id": "equity_cdc413d2-1e92-5151-9d6b-1cbb7c013976",
+  "symbol": "MRNA.NASDAQ",
+  "name": "Moderna, Inc.",
+  "cohort": "forecast_dispersed",
+  "cohort_rank": 6,
+  "selection_market_cap_usd_billions": 61.574,
+  "source_preview_run": "batch7_v7_new14_exact2_gemini38_20260920",
+  "baseline_run_id": "batch7_v7_new14_prod2_gemini38_20260920"
+}

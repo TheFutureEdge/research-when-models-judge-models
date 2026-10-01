@@ -1,0 +1,26 @@
+{
+  "diagram": "paper/figures/design.pdf",
+  "generator": "code/make_study_diagram.py",
+  "parent_counts": "provenance/parent_reconciliation.json",
+  "source_dates": "provenance/chronology.json",
+  "design": "protocol/archived_protocol.md",
+  "related_work_verified": "2026-10-01",
+  "related_work": [
+    {
+      "title": "LLM-Blender",
+      "url": "https://aclanthology.org/2023.acl-long.792/",
+      "supports": "Ranking and generative fusion of candidate model outputs."
+    },
+    {
+      "title": "Mixture-of-Agents",
+      "url": "https://arxiv.org/abs/2406.04692",
+      "supports": "Layered aggregation of model outputs."
+    },
+    {
+      "title": "Rethinking Mixture-of-Agents",
+      "url": "https://arxiv.org/abs/2502.00674",
+      "supports": "More source-model families need not improve aggregation performance."
+    }
+  ],
+  "scope": "Council is a workflow analogy, not a claim of agent debate, production adoption prevalence, or superiority over equal averaging."
+}

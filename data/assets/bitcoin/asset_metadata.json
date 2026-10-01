@@ -1,0 +1,11 @@
+{
+  "slug": "bitcoin",
+  "subject_id": "crypto_8f824f2d-c67f-55e7-8124-aa113059635d",
+  "symbol": "BTC-USD.CC",
+  "name": "Bitcoin",
+  "cohort": "fixed_reference_asset",
+  "cohort_rank": null,
+  "selection_market_cap_usd_billions": null,
+  "source_preview_run": "showcase7_v7_gemini38_retry1_20260920",
+  "baseline_run_id": "showcase7_v7_gemini38_retry1_20260920"
+}

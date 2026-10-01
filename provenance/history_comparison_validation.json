@@ -1,0 +1,59 @@
+{
+  "history_validation": "not rerun: historical CSV is not redistributed; coverage counts are archived metadata",
+  "history_rows": 0,
+  "weekly_observations": 0,
+  "anchors": 7,
+  "forecast_price_rows_including_anchors": 2499,
+  "assets": [
+    {
+      "asset": "visa",
+      "history_count": 0,
+      "anchor_matches": true,
+      "all_baseline_consensus_prices_match": true,
+      "all_dates_aligned": true
+    },
+    {
+      "asset": "sap",
+      "history_count": 0,
+      "anchor_matches": true,
+      "all_baseline_consensus_prices_match": true,
+      "all_dates_aligned": true
+    },
+    {
+      "asset": "ibm",
+      "history_count": 0,
+      "anchor_matches": true,
+      "all_baseline_consensus_prices_match": true,
+      "all_dates_aligned": true
+    },
+    {
+      "asset": "nebius",
+      "history_count": 0,
+      "anchor_matches": true,
+      "all_baseline_consensus_prices_match": true,
+      "all_dates_aligned": true
+    },
+    {
+      "asset": "moderna",
+      "history_count": 0,
+      "anchor_matches": true,
+      "all_baseline_consensus_prices_match": true,
+      "all_dates_aligned": true
+    },
+    {
+      "asset": "kratos",
+      "history_count": 0,
+      "anchor_matches": true,
+      "all_baseline_consensus_prices_match": true,
+      "all_dates_aligned": true
+    },
+    {
+      "asset": "bitcoin",
+      "history_count": 0,
+      "anchor_matches": true,
+      "all_baseline_consensus_prices_match": true,
+      "all_dates_aligned": true
+    }
+  ],
+  "limits": "Validates frozen forecast consistency. Historical observations are validated only when the optional CSV is supplied. No independent price or adjustment audit is claimed."
+}

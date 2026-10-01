@@ -1,0 +1,37 @@
+[
+  {
+    "asset_id": "equity_e2379ea8-6a57-5013-be82-8037aafa519d", 
+    "asset_symbol_pulse": "SAP.XETRA", 
+    "currency": "EUR"
+  }, 
+  {
+    "asset_id": "crypto_8f824f2d-c67f-55e7-8124-aa113059635d", 
+    "asset_symbol_pulse": "BTC-USD.CC", 
+    "currency": "USD"
+  }, 
+  {
+    "asset_id": "equity_49812ec8-b303-53bb-91a7-8f6d041625cd", 
+    "asset_symbol_pulse": "IBM.NYSE", 
+    "currency": "USD"
+  }, 
+  {
+    "asset_id": "equity_013d2cbc-1a8a-5434-a2ad-8d6d943eb036", 
+    "asset_symbol_pulse": "V.NYSE", 
+    "currency": "USD"
+  }, 
+  {
+    "asset_id": "equity_6f455cc1-fa98-5ef5-8e6e-dbabed0ea6a1", 
+    "asset_symbol_pulse": "NBIS.NASDAQ", 
+    "currency": "USD"
+  }, 
+  {
+    "asset_id": "equity_cdc413d2-1e92-5151-9d6b-1cbb7c013976", 
+    "asset_symbol_pulse": "MRNA.NASDAQ", 
+    "currency": "USD"
+  }, 
+  {
+    "asset_id": "equity_98f68dc4-34bc-5a56-be20-3e3221770b59", 
+    "asset_symbol_pulse": "KTOS.NASDAQ", 
+    "currency": "USD"
+  }
+]

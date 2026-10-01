@@ -1,0 +1,317 @@
+{
+  "opinion_id": "opinion_45f4f6a6f1b2445b6b51c5ff",
+  "investment_framework": "universal_investor__the_polymath__standard_1",
+  "forecast_anchor": {
+    "price": 183.12,
+    "timestamp": "2026-09-18 00:00:00+00:00"
+  },
+  "research_sources": [
+    {
+      "title": "Recent Results | SAP Investor Relations",
+      "url": "https://www.sap.com/investors/en/why-invest/recent-results.html",
+      "domain": "www.sap.com"
+    },
+    {
+      "title": "Quarterly Statement Q2 2026",
+      "url": "https://www.sap.com/docs/download/investors/2026/sap-2026-q2-statement.pdf",
+      "domain": "www.sap.com"
+    },
+    {
+      "title": "Software Packages and Pricing | SAP Business AI",
+      "url": "https://www.sap.com/mena/products/artificial-intelligence/pricing.html",
+      "domain": "www.sap.com"
+    },
+    {
+      "title": "Commission accepts binding commitments by SAP to address competition concerns about services for its popular business management software* - Competition Policy",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-accepts-binding-commitments-sap-address-competition-concerns-about-services-its-popular-2026-07-09_en",
+      "domain": "competition-policy.ec.europa.eu"
+    },
+    {
+      "title": "SAP Half-Year Report 2026",
+      "url": "https://www.sap.com/docs/download/investors/2026/sap-2026-half-year-report.pdf",
+      "domain": "www.sap.com"
+    },
+    {
+      "title": "DSAG Investment Report 2026: AI establishes itself",
+      "url": "https://impulsant.dsag.de/formate/pressemeldung/dsag-investment-report-2026-companies-are-investing-more-selectively-ai-is-becoming-established-cloud-computing-is-being-put-to-the-test/",
+      "domain": "impulsant.dsag.de"
+    },
+    {
+      "title": "Presentation Title",
+      "url": "https://assets.dm.ux.sap.com/noam-sap-connect-days-na-toronto/pdfs/it_%20session%205_sapconnect%20june2026%20-%20cloud%20sovereignty%20introduction.pdf?utm_source=openai",
+      "domain": "assets.dm.ux.sap.com"
+    },
+    {
+      "title": "SAP Unveils the Autonomous Enterprise | SAP Sapphire | SAP News Center",
+      "url": "https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/?utm_source=openai",
+      "domain": "news.sap.com"
+    },
+    {
+      "title": "SAP dips as UBS downgrades stock on lack of AI catalysts, weak investor sentiment By Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/ubs-cuts-sap-to-neutral-on-lack-of-ai-catalysts-weak-investor-sentiment-4847157",
+      "domain": "uk.investing.com"
+    },
+    {
+      "title": "The Future of the Enterprise Is Autonomous | SAP Sapphire | SAP News Center",
+      "url": "https://news.sap.com/2026/05/future-enterprise-autonomous/?utm_source=openai",
+      "domain": "news.sap.com"
+    },
+    {
+      "title": "Consolidated Statements of Cash Flows | Primary Consolidated Financial Statements | SAP Integrated Report 2025",
+      "url": "https://www.sap.com/integrated-reports/2025/en/datahub/financial-data/cash-flows.html",
+      "domain": "www.sap.com"
+    },
+    {
+      "title": "SAP Completes Dremio Acquisition | SAP News Center",
+      "url": "https://news.sap.com/2026/07/sap-completes-dremio-acquisition/",
+      "domain": "news.sap.com"
+    },
+    {
+      "title": "Maintenance 2040",
+      "url": "https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html?utm_source=openai",
+      "domain": "support.sap.com"
+    }
+  ],
+  "generated_at_utc": "2026-09-20 08:32:41.950465+00:00",
+  "prediction_based_investment_rating": {
+    "most_reasonable_investment_thesis_scenario": "SAP shareholders own recurring enterprise-software cash flows, not foundation-model leadership. My base case assumes cloud conversion outgrows legacy-support erosion, while disciplined overhead absorbs sustained AI investment. The strongest objection is that customers keep SAP's ledger but buy intelligence elsewhere; that limits the AI premium without necessarily breaking core renewal economics. I therefore require earnings growth, not multiple expansion, to earn the return. At €183, the shares offer a credible excess-return opportunity over the supplied sovereign-yield backdrop, warranting buy rather than strong buy. The price-only path compounds approximately 11.9% annually. Factor impacts are overlapping counterfactual estimates, not additive forecasts.\n- My FY2031 assumptions are €64 billion revenue, 24% normalized net margin and 1.10 billion diluted shares outstanding.\n- Forecast €13.96 EPS at 23 times earnings supports €321, matching the compounded quarterly path with 76% price upside.\n- That implies €353 billion equity value and 4.8% yield on €17 billion forecast free cash flow.",
+    "bull_case_scenario": "Paid automation becomes the product, not a bundled demonstration. By 2028-2029, large customers renew material action-based AI consumption alongside cloud ERP, while sovereign deployments add demand and integration costs recede. Those developments lift FY2031 normalized EPS toward €17 and preserve a 27-times multiple, implying approximately €460, about 151% above the anchor. This requires both monetization and execution to beat the base case; faster model progress alone would not suffice.",
+    "bear_case_scenario": "The ledger survives, but SAP loses the incremental wallet. A recession delays migrations as external agents commoditize paid workflows, forcing concessions while support revenue and high-margin renewals shrink. By 2031, normalized EPS stalls near €8.50 and the market applies 15 times earnings, implying roughly €128, approximately 30% below the anchor. Cash generation prevents a financing crisis, but repurchases cannot offset weaker economics; permanent multiple compression, not bankruptcy, drives the disappointing outcome.",
+    "thesis_watchpoints": "- Confirmation: Through 2027, constant-currency current cloud backlog grows above 20% while operating expenses grow more slowly than revenue.\n- Deterioration: Over the next four quarters, cloud gross margin keeps falling despite double-digit cloud growth, weakening incremental cash profitability.\n- Reassessment: By end-2028, sustained backlog growth below 15% or rising net debt without commensurate earnings requires a lower terminal multiple.",
+    "broader_narrative_signals": {
+      "today_crowd_consensus_narrative": "The market treats SAP as a durable system of record with an uncertain AI surcharge. UBS's August 26 downgrade emphasizes slow agent delivery and softer second-half backlog momentum, even while raising its target. The supplied 27-times trailing earnings multiple reflects caution, not capitulation: the anchoring bias is judging a multiyear transaction platform by near-term agent-release counts. ([uk.investing.com](https://uk.investing.com/news/stock-market-news/ubs-cuts-sap-to-neutral-on-lack-of-ai-catalysts-weak-investor-sentiment-4847157))",
+      "alpha_gap_assessment": "The crowd modestly underestimates SAP's shares: cloud migration can compound owner earnings even if branded AI monetization disappoints. The overlooked distinction is between replaceable interfaces and governed transaction execution; cheaper intelligence can increase demand for trusted records without entitling SAP to an unlimited surcharge. ([news.sap.com](https://news.sap.com/2026/05/future-enterprise-autonomous/?utm_source=openai)) The supplied dividend yield is contaminated by repeated annual payouts in quarterly rows: the approved €2.50 dividend implies approximately 1.37%, not 3.98%, at the anchor. The opportunity rests on earnings compounding, not manufactured yield or unreconciled EBITDA. ([sap.com](https://www.sap.com/docs/download/investors/2026/sap-2026-half-year-report.pdf))",
+      "the_convergence_catalyst": "Two consecutive reporting cycles showing cloud-backlog conversion and operating expenses growing slower than revenue would make earnings durability harder to dismiss. The likely recognition window is late 2026 through 2027; upward normalized-EPS revisions, rather than another agent announcement, would be the first observable sign that the valuation gap is narrowing.",
+      "macro_regime_alignment": "The supplied September 2026 regime is a headwind through customers' implementation budgets and the discount rate, not SAP's refinancing needs. Elevated energy costs can postpone European transformations; higher sovereign yields cap valuation expansion. I assume no rapid easing rescue: backlog conversion and internal cash generation must carry the investment case. ([impulsant.dsag.de](https://impulsant.dsag.de/formate/pressemeldung/dsag-investment-report-2026-companies-are-investing-more-selectively-ai-is-becoming-established-cloud-computing-is-being-put-to-the-test/))"
+    },
+    "sentiment_and_regime_signals": {
+      "greed_and_fear_sentiment": -0.25,
+      "expected_volatility_regime": "moderate",
+      "convergence_cycle_position": "stabilization"
+    },
+    "financial_review_fields": {
+      "earnings_and_financials_trend_assessment": "The supplied Q2 2026 snapshot shows parent-attributable earnings rising 28.5%, but SAP's Quarterly Statement reports only 5% growth in non-IFRS profit after tax. These measures have different ownership scopes; nevertheless, investment-related financial income and tax effects explain why headline earnings overstate the recurring operating acceleration. ([sap.com](https://www.sap.com/docs/download/investors/2026/sap-2026-q2-statement.pdf))\n\nThe supplied FY2025 free-cash-flow figure subtracts fixed-asset purchases from operating cash flow; SAP additionally includes disposal proceeds and deducts lease payments. Cash conversion is improving, but lower restructuring and share-based cash payments also assisted the annual rebound. I normalize investment gains rather than extrapolate headline earnings growth. ([sap.com](https://www.sap.com/integrated-reports/2025/en/datahub/financial-data/cash-flows.html))",
+      "capex_and_investment_intensity_trend_assessment": "Light physical capex does not mean light reinvestment. The supplied FY2025 snapshot records €6.63 billion of expensed R&D, while SAP's audited cash-flow statement records €739 million of purchases of intangibles and property, plant and equipment. Much of the software asset's economic replacement cost already runs through earnings. ([sap.com](https://www.sap.com/integrated-reports/2025/en/datahub/financial-data/cash-flows.html))\n\nDremio and Prior Labs extend the data-and-model stack but introduce integration costs; hyperscaler infrastructure spending is not SAP's own capex. I assume sustained R&D intensity and selective acquisitions, rather than infrastructure-style investment. Robotics should add workflow demand rather than hardware revenue; investment returns depend on monetized software adoption. ([news.sap.com](https://news.sap.com/2026/07/sap-completes-dremio-acquisition/))",
+      "balance_sheet_strength_and_leverage_assessment": "SAP's Half-Year Report 2026 shows €8.55 billion of gross financial debt against €2.86 billion of net liquidity at June 30. That is a resilient balance sheet, but not the enormous cash surplus mechanically implied by the supplied enterprise-value ratio. July acquisition completions also fall outside this balance-sheet date. ([sap.com](https://www.sap.com/docs/download/investors/2026/sap-2026-half-year-report.pdf))\n\nThe cash buffer supports buybacks and investment through a slower migration cycle; it does not make acquisition consideration, lease payments or infrastructure obligations disappear. I therefore value the equity using normalized per-share earnings and cash flow, not the unreconciled EV/EBITDA shortcut. Capital allocation, rather than refinancing solvency, is the more credible five-year constraint.",
+      "profitability_margins_trend_assessment": "Margin progress is real, but the latest quarter interrupts a straight-line story. SAP's Q2 2026 disclosures show IFRS operating margin of 26.8%, down from 27.2% a year earlier. Management identifies slower revenue growth, higher R&D, acquisition dilution and stock-compensation timing as the causes. ([sap.com](https://www.sap.com/investors/en/why-invest/recent-results.html))\n\nThe implication is operating leverage with a toll, not frictionless SaaS economics. Cloud hosting and agent inference must earn their keep as high-margin maintenance revenue contracts. I assume gradual operating-expense dilution rather than an immediate gross-margin step-change; shareholder upside depends on recurring, post-compensation profitability, not simply a widening gap between IFRS and adjusted presentations."
+    }
+  },
+  "prediction_events": {
+    "drivers": [
+      {
+        "event_name": "Migration converts backlog into annuities",
+        "category": "competitive_positioning",
+        "description": "Migration turns SAP's installed workflows into longer-duration subscription cash flows without requiring an AI windfall. June 2026 current cloud backlog reached €22.9 billion, with 26% constant-currency growth, corroborating contracted demand rather than promotional pipeline. I expect conversion to outpace legacy runoff through 2031, although maintenance extensions make the transition staggered rather than compulsory. Assessed five-year likelihood: 90%. ([sap.com](https://www.sap.com/investors/en/why-invest/recent-results.html))",
+        "expected_impact_pct_on_price": 52,
+        "expected_impact_pct_on_company_earnings": 60
+      },
+      {
+        "event_name": "Scale absorbs the software factory",
+        "category": "operational_efficiency",
+        "description": "Overhead dilution can lift owner earnings even if cloud gross margins barely improve. SAP projects 2027 operating expenses growing at 80%-90% of revenue growth, anchoring an operating-leverage mechanism rather than perpetual restructuring gains. I assume recurring subscriptions spread selling, support and central development costs over a larger revenue base, with compensation fully expensed. Assessed five-year likelihood: 80%. ([sap.com](https://www.sap.com/docs/download/investors/2026/sap-2026-q2-statement.pdf))",
+        "expected_impact_pct_on_price": 28,
+        "expected_impact_pct_on_company_earnings": 32
+      },
+      {
+        "event_name": "Business context monetizes machine work",
+        "category": "innovation_and_product",
+        "description": "SAP's advantage is governed business context, not exclusive access to a foundation model. Its action-based agent pricing and Dremio integration create routes to sell workflow execution and trusted data services as human seat counts flatten. I underwrite modest cross-selling, not wholesale autonomous-enterprise adoption; permissions, process semantics and existing integrations should preserve monetizable relevance. Assessed five-year likelihood: 75%. ([sap.com](https://www.sap.com/mena/products/artificial-intelligence/pricing.html))",
+        "expected_impact_pct_on_price": 21,
+        "expected_impact_pct_on_company_earnings": 24
+      },
+      {
+        "event_name": "Repurchases concentrate the cash claim",
+        "category": "capital_allocation",
+        "description": "Cash-funded repurchases can concentrate SAP's recurring earnings in fewer shares without depending on a richer multiple. The authorized €10 billion program runs through 2027, but employee-equity issuance means gross purchases overstate accretion. I assume only moderate net share-count reduction through 2031; the company-earnings effect is slightly negative from foregone interest, while EPS improves. Assessed five-year likelihood: 85%. ([sap.com](https://www.sap.com/investors/en/why-invest/recent-results.html))",
+        "expected_impact_pct_on_price": 7,
+        "expected_impact_pct_on_company_earnings": -1
+      }
+    ],
+    "frictions": [
+      {
+        "event_name": "Support concessions erode legacy rents",
+        "category": "regulatory",
+        "description": "Regulation weakens the contractual restrictions that once protected SAP's maintenance annuity. The European Commission's July 2026 binding settlement permits more flexible support choices and reduced reinstatement charges; the investigation is concluded, not an unresolved fine catalyst. I expect selective third-party support substitution to deepen legacy runoff and reduce migration bargaining leverage, although integrated workloads still resist switching. Assessed five-year likelihood: 85%. ([competition-policy.ec.europa.eu](https://competition-policy.ec.europa.eu/about/news/commission-accepts-binding-commitments-sap-address-competition-concerns-about-services-its-popular-2026-07-09_en))",
+        "expected_impact_pct_on_price": -12,
+        "expected_impact_pct_on_company_earnings": -14
+      },
+      {
+        "event_name": "Cloud growth carries an investment toll",
+        "category": "operational_efficiency",
+        "description": "Cloud revenue does not inherit the economics of mature maintenance contracts automatically. SAP's latest disclosures show softer cloud gross margins and acquisition-related dilution, while accelerated R&D absorbs part of revenue growth. Hosting, inference and product integration should remain recurring claims on gross profit, making straight-line margin extrapolation unreliable even as operating leverage improves elsewhere. Assessed five-year likelihood: 90%. ([sap.com](https://www.sap.com/docs/download/investors/2026/sap-2026-half-year-report.pdf))",
+        "expected_impact_pct_on_price": -9,
+        "expected_impact_pct_on_company_earnings": -12
+      },
+      {
+        "event_name": "Useful AI is not scarce AI",
+        "category": "competitive_positioning",
+        "description": "AI adoption can expand SAP's workload while limiting the price it charges for intelligence. SAP is moving many generative features into free Base AI and reserving premium pricing for executed work, evidence that feature availability alone cannot defend a surcharge. I expect procurement pressure and interoperable alternatives to restrain automation take rates throughout the horizon. Assessed five-year likelihood: 85%. ([sap.com](https://www.sap.com/mena/products/artificial-intelligence/pricing.html))",
+        "expected_impact_pct_on_price": -7,
+        "expected_impact_pct_on_company_earnings": -9
+      },
+      {
+        "event_name": "Implementation budgets meet expensive money",
+        "category": "macroeconomic_and_macrofinancial",
+        "description": "Higher financing costs constrain SAP principally through customers' transformation economics and the multiple investors will pay. The supplied September regime compounds DSAG's evidence of selective spending, rising project scrutiny and deferred migrations. I assume periodic implementation slippage and a lower terminal earnings multiple rather than an uninterrupted rate-driven rerating; recurring contracts cushion demand without eliminating capital-budget sensitivity. Assessed five-year likelihood: 80%. ([impulsant.dsag.de](https://impulsant.dsag.de/formate/pressemeldung/dsag-investment-report-2026-companies-are-investing-more-selectively-ai-is-becoming-established-cloud-computing-is-being-put-to-the-test/))",
+        "expected_impact_pct_on_price": -5,
+        "expected_impact_pct_on_company_earnings": -4
+      }
+    ],
+    "tail_opportunities": [
+      {
+        "event_name": "Action pricing proves incremental demand",
+        "category": "tail_opportunity",
+        "description": "The discrete catalyst would be a 2028-2029 renewal cohort showing paid agent consumption adding materially to contract value rather than replacing seats or bundled features. SAP's disclosed action-based pricing supplies the monetization mechanism; audited customer savings and repeat purchases would supply the missing evidence. That could support faster EPS growth and a higher terminal multiple, but execution, budgets and free alternatives keep my event probability below 50%. ([sap.com](https://www.sap.com/mena/products/artificial-intelligence/pricing.html))",
+        "probability_pct": 35,
+        "upside_impact_pct": 30
+      },
+      {
+        "event_name": "Sovereign cloud wins anchor tenants",
+        "category": "tail_opportunity",
+        "description": "Between 2027 and 2030, a consortium of European governments or regulated enterprises awards SAP a funded sovereign-cloud framework adding at least €3 billion of contracted backlog. SAP's published sovereign roadmap provides a route to these workloads; reference deployments could then reduce procurement friction across adjacent customers. Incremental demand improves utilization and recurring cash flow, but fragmented procurement, certification requirements and strong infrastructure competitors keep a breakthrough below 50% probability. ([assets.dm.ux.sap.com](https://assets.dm.ux.sap.com/noam-sap-connect-days-na-toronto/pdfs/it_%20session%205_sapconnect%20june2026%20-%20cloud%20sovereignty%20introduction.pdf?utm_source=openai))",
+        "probability_pct": 30,
+        "upside_impact_pct": 18
+      }
+    ],
+    "tail_risks": [
+      {
+        "event_name": "Migration recession resets the backlog",
+        "category": "tail_risk",
+        "description": "A prolonged 2027-2028 recession triggers two consecutive reporting periods with constant-currency current cloud backlog growth below 15%, followed by a material guidance cut. DSAG's 2026 survey already documents selective spending and migration deferrals, but this scenario requires synchronized contraction rather than today's uneven demand. Deferred go-lives would postpone subscription revenue while implementation and R&D costs remain committed, compressing earnings and the multiple together. Existing contracts and maintenance demand keep the event below 50% probability. ([impulsant.dsag.de](https://impulsant.dsag.de/formate/pressemeldung/dsag-investment-report-2026-companies-are-investing-more-selectively-ai-is-becoming-established-cloud-computing-is-being-put-to-the-test/))",
+        "probability_pct": 30,
+        "downside_impact_pct": -35
+      },
+      {
+        "event_name": "External agents capture the renewal",
+        "category": "tail_risk",
+        "description": "During 2028-2031, a major competing orchestration platform demonstrates reliable, auditable execution across SAP and rival systems, then wins several large enterprise renewals at SAP's expense. The danger is not immediate ledger replacement: it is a measurable collapse in SAP's paid automation attach rate and expansion revenue. Interoperability already enables this architectural direction, but transaction liability, authorization and process complexity remain formidable barriers. Successful competitive deployment could cut both terminal margins and the scarcity premium. ([news.sap.com](https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/?utm_source=openai))",
+        "probability_pct": 25,
+        "downside_impact_pct": -40
+      }
+    ]
+  },
+  "timeseries_compounded_return_percent_checkpoints": [
+    {
+      "forecast_quarter": "2027 Q3",
+      "derived_compounded_return_percent_from_steps": "9.0%"
+    },
+    {
+      "forecast_quarter": "2028 Q3",
+      "derived_compounded_return_percent_from_steps": "21.2%"
+    },
+    {
+      "forecast_quarter": "2029 Q3",
+      "derived_compounded_return_percent_from_steps": "43.1%"
+    },
+    {
+      "forecast_quarter": "2030 Q3",
+      "derived_compounded_return_percent_from_steps": "51.5%"
+    },
+    {
+      "forecast_quarter": "2031 Q3",
+      "derived_compounded_return_percent_from_steps": "75.5%"
+    }
+  ],
+  "timeseries": [
+    {
+      "date": "2026-12-18",
+      "predicted_most_reasonable_pct_change": -4.0,
+      "scenario_rationale": "Acquisition integration and late-year budget scrutiny keep investors focused on diluted operating growth rather than headline AI announcements. I project a modest valuation reset as stronger contracted cloud demand fails to offset elevated discount rates immediately."
+    },
+    {
+      "date": "2027-03-18",
+      "predicted_most_reasonable_pct_change": 6.0,
+      "scenario_rationale": "Full-year cash conversion validates the recurring-revenue engine, and management's next outlook points to operating expenses growing more slowly than sales. I project recovering earnings estimates, with repurchases reinforcing confidence rather than supplying the entire return."
+    },
+    {
+      "date": "2027-06-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Early-year migration go-lives lift recognized cloud revenue, while development spending remains elevated. I project modest share appreciation as incremental gross profit reaches earnings, partly offset by dividend detachment and continued skepticism about paid agent consumption."
+    },
+    {
+      "date": "2027-09-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Half-year results show subscription growth absorbing more central costs, but customer implementation capacity limits acceleration. I project a smaller gain as investors distinguish profitable backlog conversion from contracts whose revenue remains deferred into later years."
+    },
+    {
+      "date": "2027-12-18",
+      "predicted_most_reasonable_pct_change": 7.0,
+      "scenario_rationale": "Approaching the end-2027 mainstream-maintenance deadline pulls selected customers into committed migration schedules. I project stronger bookings and improved forward visibility, while treating extended maintenance as an alternative rather than assuming every installed system must move. ([support.sap.com](https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html?utm_source=openai))"
+    },
+    {
+      "date": "2028-03-18",
+      "predicted_most_reasonable_pct_change": 5.0,
+      "scenario_rationale": "Initial results after mainstream-maintenance expiry reveal which migration commitments became billable subscriptions. I project positive estimate revisions as conversion exceeds support attrition, although extended-maintenance customers prevent the deadline from becoming a sudden revenue step-change. ([support.sap.com](https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html?utm_source=openai))"
+    },
+    {
+      "date": "2028-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Migration activity remains healthy, but larger deployments carry hosting and implementation complexity. I project only limited appreciation as operating leverage offsets these costs, with investors withholding a substantial AI premium until repeat consumption becomes visible."
+    },
+    {
+      "date": "2028-09-18",
+      "predicted_most_reasonable_pct_change": -3.0,
+      "scenario_rationale": "The first broad budget review of expanded cloud estates exposes unused features and overlapping AI subscriptions. I project tougher renewal negotiations and a modest multiple contraction, even though SAP retains the underlying transaction-system relationship."
+    },
+    {
+      "date": "2028-12-18",
+      "predicted_most_reasonable_pct_change": 6.0,
+      "scenario_rationale": "Cleaner deployments and selective data-platform cross-selling improve contract economics after the renewal scrutiny. I project stronger forward earnings revisions as customers consolidate proven workloads onto SAP, while speculative agent demonstrations contribute little to the valuation recovery."
+    },
+    {
+      "date": "2029-03-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Annual disclosures show whether cloud expansion is producing recurring cash rather than acquisition-adjusted optics. I project a gain as cash conversion and declining net share count corroborate normalized EPS growth, without requiring a richer earnings multiple."
+    },
+    {
+      "date": "2029-06-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Public-cloud deployments account for more incremental growth, while large private-cloud customers remain implementation-intensive. I project measured appreciation as standardized delivery improves incremental profitability, partly offset by annual dividend detachment and continuing expenditure on model integration."
+    },
+    {
+      "date": "2029-09-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Renewing migration cohorts add selected automation and data services, improving revenue per customer without a dramatic seat expansion. I project moderate EPS upgrades as consumption income supplements core subscriptions and offsets continued declines in legacy support."
+    },
+    {
+      "date": "2029-12-18",
+      "predicted_most_reasonable_pct_change": 5.0,
+      "scenario_rationale": "Procurement planning ahead of the extended-maintenance endpoint strengthens late-cycle migration commitments. I project improved backlog visibility and rising cash-generation expectations, while implementation lead times prevent the market from capitalizing all signed contract value immediately."
+    },
+    {
+      "date": "2030-03-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Year-end reporting confirms that operating-expense dilution persists after the easier migration wins. I project incremental appreciation as normalized earnings validate the terminal-margin trajectory, though a maturing cloud business receives less credit for distant growth."
+    },
+    {
+      "date": "2030-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "More complex laggard migrations consume delivery resources, reducing the benefit of stronger subscription volumes. I project a small gain as cash collection and repurchases offset integration costs, with investors increasingly testing post-transition organic growth."
+    },
+    {
+      "date": "2030-09-18",
+      "predicted_most_reasonable_pct_change": -4.0,
+      "scenario_rationale": "Customers renegotiate multiyear commitments before the extended-maintenance endpoint, using competing support and agent options to improve terms. I project a valuation setback as pricing concessions temper estimates, even though retention remains sufficient to preserve the core thesis."
+    },
+    {
+      "date": "2030-12-18",
+      "predicted_most_reasonable_pct_change": 5.0,
+      "scenario_rationale": "Approaching the standard extended-maintenance expiry resolves some delayed purchasing decisions and improves implementation scheduling. I project a recovery in forward earnings confidence, but continued support options and customer complexity prevent a universal forced-conversion windfall. ([support.sap.com](https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html?utm_source=openai))"
+    },
+    {
+      "date": "2031-03-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "The first post-deadline reporting cycle shows late migrations converting gradually rather than collapsing into a demand air pocket. I project higher cash-flow estimates as subscriptions replace remaining maintenance income and selective automation sales sustain account expansion."
+    },
+    {
+      "date": "2031-06-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "With migration urgency fading, renewal economics become the decisive valuation test. I project modest appreciation as retention, paid workload growth and disciplined compensation sustain per-share earnings, partially offset by dividend detachment and slower new-contract expansion."
+    },
+    {
+      "date": "2031-09-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "The stock converges toward an earnings-led valuation as cloud growth normalizes and repurchases deliver the assumed share count. I project approximately €321 at the endpoint, supported by normalized profitability rather than an expanding AI narrative premium."
+    }
+  ]
+}

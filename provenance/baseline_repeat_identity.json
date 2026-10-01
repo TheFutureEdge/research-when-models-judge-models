@@ -1,0 +1,30 @@
+[
+  {
+    "asset": "moderna",
+    "original_baseline_request_equals_repeat": true
+  },
+  {
+    "asset": "sap",
+    "original_baseline_request_equals_repeat": true
+  },
+  {
+    "asset": "visa",
+    "original_baseline_request_equals_repeat": true
+  },
+  {
+    "asset": "ibm",
+    "original_baseline_request_equals_repeat": true
+  },
+  {
+    "asset": "bitcoin",
+    "original_baseline_request_equals_repeat": true
+  },
+  {
+    "asset": "kratos",
+    "original_baseline_request_equals_repeat": true
+  },
+  {
+    "asset": "nebius",
+    "original_baseline_request_equals_repeat": true
+  }
+]

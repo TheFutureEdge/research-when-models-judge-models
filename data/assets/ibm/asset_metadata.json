@@ -1,0 +1,11 @@
+{
+  "slug": "ibm",
+  "subject_id": "equity_49812ec8-b303-53bb-91a7-8f6d041625cd",
+  "symbol": "IBM.NYSE",
+  "name": "International Business Machines Corporation",
+  "cohort": "directionally_consistent",
+  "cohort_rank": 9,
+  "selection_market_cap_usd_billions": 224.0,
+  "source_preview_run": "batch7_v7_new14_exact2_gemini38_20260920",
+  "baseline_run_id": "batch7_v7_new14_prod2_gemini38_20260920"
+}

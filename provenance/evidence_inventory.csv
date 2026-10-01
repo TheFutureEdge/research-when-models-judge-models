@@ -1,0 +1,18 @@
+item,status,scope
+primary Gemini requests,recovered,All seven request bodies recovered; SHA-256 match and full request equality with corresponding repeat.
+primary Gemini numerical outputs,complete,Seven original baseline payloads retained; all weights and paths recomputed.
+primary Gemini raw receipts,partial,Bitcoin original receipt recovered privately. Six equity per-response receipts not recovered.
+new synthesis requests and receipts,complete,49 new requests in public candidate; all 49 original receipts retained privately; usage extract included.
+source forecasts,complete for synthesis inputs,98 full consensus-ready reports; no claim that every upstream raw proposer record is recovered.
+selection ranking,partial,Protocol and seven selections retained; complete 189-candidate ranking input missing.
+parent scope,reconciled,"426 successful assets, 5964 distinct source task IDs; not all attempts or costs."
+source framework definitions and upstream prompts,partial,Framework labels and complete reports supplied to synthesis; no full original proposer instruction library.
+production ranking score,outside paper scope,"Paper uses forecast returns, not production consensus scores or leaderboard ranks."
+market history,BigQuery extract and weekly sampling,"8711 daily closes, 1689 weekly samples; query and reproducible script included; legacy monthly data superseded."
+monetary costs,unknown,No reliable full invoices/rates exported. Token metadata retained.
+external preregistration,not established,Internal protocol retained; follow-up plan is proposed.
+author and contact,verified,Email user-confirmed; ORCID and affiliation observed in signed-in arXiv account.
+funding/provider credits/coauthors,unconfirmed,"No additional grant, provider-credit or coauthor facts invented."
+public license and identifiers,pending release decision,"No DOI, public repository or arXiv publication asserted."
+parent token usage,recovered retained metadata,All 5964 source task hashes and 426 consensus assets reconciled; retries/previews excluded.
+framework and mode,recovered configuration metadata,98 source report identities joined to archived task metadata; explanatory public persona descriptions retained.

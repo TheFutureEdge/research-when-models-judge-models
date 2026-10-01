@@ -1,0 +1,53 @@
+{
+  "assets": 426,
+  "unique_source_tasks": 5964,
+  "all_fourteen": true,
+  "all_verified": true,
+  "category_counts": [
+    {
+      "subject_category": "__TOTAL__",
+      "eligible_exact_14": 426,
+      "already_successful": 426,
+      "new_to_run": 0,
+      "new_subject_ids": null
+    },
+    {
+      "subject_category": "commodity",
+      "eligible_exact_14": 5,
+      "already_successful": 5,
+      "new_to_run": 0,
+      "new_subject_ids": null
+    },
+    {
+      "subject_category": "crypto",
+      "eligible_exact_14": 19,
+      "already_successful": 19,
+      "new_to_run": 0,
+      "new_subject_ids": null
+    },
+    {
+      "subject_category": "equity",
+      "eligible_exact_14": 383,
+      "already_successful": 383,
+      "new_to_run": 0,
+      "new_subject_ids": null
+    },
+    {
+      "subject_category": "forex",
+      "eligible_exact_14": 14,
+      "already_successful": 14,
+      "new_to_run": 0,
+      "new_subject_ids": null
+    },
+    {
+      "subject_category": "index",
+      "eligible_exact_14": 5,
+      "already_successful": 5,
+      "new_to_run": 0,
+      "new_subject_ids": null
+    }
+  ],
+  "audited_at_utc": "2026-09-21T06:07:37.508804+00:00",
+  "source_file_sha256": "2d2e1e2a5505102b98d88adbaff09062dfb9cc2b3fe1696ff2ed0a475d661a5a",
+  "scope": "Successful logical source tasks and completed asset syntheses; not API attempts, retry counts, or complete costs."
+}

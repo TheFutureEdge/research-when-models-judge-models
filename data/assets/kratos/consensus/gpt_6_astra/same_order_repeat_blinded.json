@@ -1,0 +1,551 @@
+{
+  "opinion_weights": [
+    {
+      "opinion_id": "opinion_105b66416f9acd6d45c383ea",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.04,
+      "rationale": "Retains useful skepticism about cash conversion and fixed-price execution. However, no source receipts establish independence from repeated assumptions, and the predicted near-term financing squeeze understates verified liquidity. Its permanent margin constraint is less persuasive than its narrower warning that revenue growth need not translate into shareholder cash. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))"
+    },
+    {
+      "opinion_id": "opinion_144e74690f04cc32d0a1c056",
+      "investment_framework": "machiavelli__the_insider__standard_1",
+      "weight": 0.05,
+      "rationale": "The distinction between strategic relevance and shareholder economics deserves inclusion. Weight is restrained by an unreconciled terminal enterprise-value bridge, overstated procurement certainty and generalized statutory profit caps. Numerous redirected citations do not establish independent confirmation; fixed-price rules allocate execution risk rather than impose a universal operating-margin ceiling. ([acquisition.gov](https://www.acquisition.gov/sites/default/files/archives/far/pdf/2021-07.pdf?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_1a50ac2370f0d29f2d446971",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.1,
+      "rationale": "The merchant-propulsion argument survives scrutiny: verified engine development awards support participation beyond proprietary aircraft. This earns meaningful contrarian weight despite absent original receipts. Earlier guidance, an assumed early investment peak and uninterrupted quarterly appreciation weaken the path; supplier relevance does not establish monopoly pricing or immediate production economics. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-and-ge-aerospaces-gek800-engine-receives-u-s-military-type-designation-f143-zz-100-and-emd-contract-award-for-jassm?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_22fb85fc9f37722546dda9a0",
+      "investment_framework": "jp_morgan__the_titan__standard_1",
+      "weight": 0.045,
+      "rationale": "Liquidity and manufacturing absorption provide a credible upside mechanism, but unsupported software margins, monopoly descriptions and guaranteed investment payback exaggerate its strength. Source independence is limited by missing receipts. The terminal narrative also disagrees with the frozen path, while parallel aircraft evaluation weakens assumptions of exclusive program capture. ([ga-asi.com](https://www.ga-asi.com/us-marine-corps-selects-ga-asi-for-mux-tacair-collaborative-combat-aircraft-program?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_33d540c2a77f6dea437d6fb4",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.3,
+      "rationale": "Receives the largest weight for separating development awards from fleet procurement, retaining compensation costs and modeling partner economics. Parallel Marine Corps evaluation is independently confirmed. Dependence on issuer guidance, unreconciled snapshot margins and arbitrary quarterly setbacks still limit conviction, but the central mechanism survives verification. ([ga-asi.com](https://www.ga-asi.com/us-marine-corps-selects-ga-asi-for-mux-tacair-collaborative-combat-aircraft-program?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_4c06d632d860da7453b65c53",
+      "investment_framework": "superintelligence__the_anthropologist__standard_1",
+      "weight": 0.05,
+      "rationale": "The gradual manufacturing-maturation thesis balances investment burdens against potential operating leverage. Nevertheless, missing receipts, overstated procurement protection and aggressive software-mix assumptions limit independent support. Its valuation bridge and cash-flow timing are insufficiently reconciled with the numerical path, so the useful transition argument receives only moderate weight."
+    },
+    {
+      "opinion_id": "opinion_5bb26a94cf1c046165a7266f",
+      "investment_framework": "warren_buffett__the_value_seeker__standard_1",
+      "weight": 0.025,
+      "rationale": "Owner-cash-flow discipline remains relevant, but the prolonged deterioration path assumes persistently failed economics rather than demonstrating them. Claims of negligible pricing power conflict with its own propulsion drivers. Missing receipts and insufficient recognition of verified liquidity reduce its independence and make inevitable discounted financing an unsupported base-case premise. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))"
+    },
+    {
+      "opinion_id": "opinion_9a41d6b046068348bbad9850",
+      "investment_framework": "superintelligence__the_anthropologist__standard_1",
+      "weight": 0.025,
+      "rationale": "The warning that integration partners capture part of the autonomy profit pool is credible. Absolute claims about permanently commoditized hardware and unavoidable refinancing are not established. Without independent receipts, the repeated cash-burn narrative adds limited evidence, while verified engine development supports more differentiated economics than the path allows. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-and-ge-aerospaces-gek800-engine-receives-u-s-military-type-designation-f143-zz-100-and-emd-contract-award-for-jassm?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_a05e994cc2e5a4e2c3703f2e",
+      "investment_framework": "sherlock_holmes__the_whistleblower__standard_1",
+      "weight": 0.065,
+      "rationale": "Offers a useful intermediate scenario in which operating progress follows an initial valuation adjustment, and it distinguishes total investment from facilities capex. Missing source receipts constrain independence. Mandatory issuance is overstated given reported cash, and the prose valuation range does not reconcile with its eventual recovery path. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))"
+    },
+    {
+      "opinion_id": "opinion_b1c16c208fa66152928e72d7",
+      "investment_framework": "michael_burry__the_vulture__standard_1",
+      "weight": 0.03,
+      "rationale": "Cash conversion and valuation normalization remain useful sensitivities, but citation volume does not resolve reliance on repeated secondary claims. Verification rejects universal fixed-price margin caps, and the quarterly depreciation figure does not match the issuer reconciliation. These weaknesses materially reduce confidence in its structurally constrained earnings path. ([acquisition.gov](https://www.acquisition.gov/sites/default/files/archives/far/pdf/2021-07.pdf?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_b3cc0a48075c4455512411ec",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.155,
+      "rationale": "The cash-runway counterargument and distinction between propulsion growth and drone headlines earn substantial weight. Primary disclosures support liquidity and working-capital investment, although repeated issuer evidence is not independent corroboration. Weight is capped by depreciation misclassification, offering-versus-share-growth confusion and an inconsistent net-cash bridge; underpricing itself remains unproven. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))"
+    },
+    {
+      "opinion_id": "opinion_b46b98ffb2dcca6cbdfda60c",
+      "investment_framework": "ray_dalio__the_strategist__longterm_standard_1",
+      "weight": 0.065,
+      "rationale": "Its delayed operating-leverage scenario usefully connects valuation duration with industrial maturation. However, total investment is mislabeled as capex, trailing EBITDA is described as forward, and repeated monetary assumptions add little independent evidence. Verified spending categories support the timing concern but not the magnitude of the stated factory-cash burden. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results))"
+    },
+    {
+      "opinion_id": "opinion_ba2d24d3a577901850c78963",
+      "investment_framework": "elon_musk__the_visionary__standard_1",
+      "weight": 0.025,
+      "rationale": "Retains a legitimate warning about manufacturing costs and partner participation. Missing receipts, unsupported implications of accounting manipulation and permanent commoditization substantially weaken the argument. The depreciation claim fails reconciliation, while liquidity and differentiated engine development undermine assumptions that punitive financing and permanently weak economics are unavoidable. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))"
+    },
+    {
+      "opinion_id": "opinion_f9d2f0ea6ca3db2c6558d272",
+      "investment_framework": "warren_buffett__the_value_seeker__standard_1",
+      "weight": 0.025,
+      "rationale": "Valuation discipline and sensitivity to delayed cash recovery merit retention. Nevertheless, the analysis overstates capex by conflating investment categories and treats procurement bargaining as a permanent margin ceiling. Its references largely repeat shared premises rather than independently establish them, weakening the persistent deterioration path relative to conditional industrial recovery. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results))"
+    }
+  ],
+  "consensus_weighting_assessment": "Primary releases corroborate accelerating demand, weak operating conversion and substantial liquidity; repeated dashboard figures are not independent confirmation. Issuer FY2025 operating-income and gross-profit totals differ from the common snapshot, so filings govern. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-fourth-quarter-and-full-year-2025-financial-results)) Verification also separates total investment from capex and rejects universal fixed-price profit caps. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results)) The strongest upside counterargument is that liquidity finances diversified propulsion expansion without an emergency offering; the strongest caution is that compensation, partner economics and reinvestment restrict shareholder participation. Highest weights go to paths recognizing both. Reports treating monopoly procurement, permanent margin ceilings or imminent financing distress as settled facts receive smaller weights. None is excluded because its demand or cash-conversion sensitivities remain relevant. Development awards establish opportunity, not assured production economics. Exact commercialization timing, software margins and terminal multiples remain unresolved, while several prose valuation bridges contradict their frozen paths. Quarterly setbacks are modeled scenarios, not verified schedules.",
+  "consensus_quarterly_rationales": [
+    {
+      "date": "2026-12-18",
+      "scenario_rationale": "The scenario opens with valuation pressure as stronger sales remain paired with investment and weak cash conversion. Propulsion demand cushions the decline, but investors increasingly distinguish reported growth from earnings available to each share."
+    },
+    {
+      "date": "2027-03-18",
+      "scenario_rationale": "Annual reporting keeps attention on inventory funding and recurring compensation, outweighing stronger propulsion guidance. The credible bullish counterweight is ample liquidity, which makes immediate financing distress less persuasive even while the premium valuation continues adjusting."
+    },
+    {
+      "date": "2027-06-18",
+      "scenario_rationale": "Engine deliveries and hypersonic execution begin supporting better factory absorption, allowing a selective recovery. Appropriations uncertainty and continuing working-capital demands restrain enthusiasm, so improving production evidence matters more than speculative airframe selection headlines."
+    },
+    {
+      "date": "2027-09-18",
+      "scenario_rationale": "Improving customer acceptance and propulsion throughput strengthen the recovery as earlier investments begin supporting earnings. Budget negotiations and inventory risk remain meaningful offsets; the scenario does not require an exclusive tactical-drone award to sustain progress."
+    },
+    {
+      "date": "2027-12-18",
+      "scenario_rationale": "A clearer bridge toward repeat production supports further appreciation as propulsion schedules and limited aircraft activity improve visibility. Competing views still question cash conversion, keeping the advance tied to execution rather than presumed autonomy dominance."
+    },
+    {
+      "date": "2028-03-18",
+      "scenario_rationale": "Annual disclosures expose the tension between improving factory economics and another demanding investment envelope. Better throughput narrowly offsets concerns that cash generation remains deferred, producing consolidation rather than a decisive declaration that the expansion has paid off."
+    },
+    {
+      "date": "2028-06-18",
+      "scenario_rationale": "Higher engine throughput and improving operating cash evidence reinforce the commercialization case. Early aircraft inefficiencies remain manageable within a broader propulsion portfolio, allowing appreciation without assuming that joint-venture revenues or mission-system profits accrue entirely to Kratos."
+    },
+    {
+      "date": "2028-09-18",
+      "scenario_rationale": "Production learning and more reliable deliveries support earnings improvement, while customer funding can reduce internal cash commitments. Election-related procurement uncertainty tempers the advance, but the weighted scenario favors operating progress over a renewed broad valuation reset."
+    },
+    {
+      "date": "2028-12-18",
+      "scenario_rationale": "Broader use of installed propulsion and hypersonic capacity supports another measured advance. Contract visibility improves more than growth accelerates, while budget reprioritization and continued investment prevent the market from treating every backlog addition as immediately distributable cash."
+    },
+    {
+      "date": "2029-03-18",
+      "scenario_rationale": "A modeled pause in order conversion challenges expectations of uninterrupted production improvement. Positive annual cash-flow evidence in more optimistic paths limits the setback, but inventory timing and a still-demanding valuation leave the shares vulnerable to renewed scrutiny."
+    },
+    {
+      "date": "2029-06-18",
+      "scenario_rationale": "Resuming acceptances and improving utilization rebuild confidence after the pause. Propulsion diversification and potential allied deliveries support recovery, while unmanned pricing competition remains a meaningful counterweight; cash released from completed work carries more weight than new demonstrations."
+    },
+    {
+      "date": "2029-09-18",
+      "scenario_rationale": "Repeat orders increasingly validate the facilities funded earlier in the expansion. Higher throughput supports incremental profitability and better cash recovery, allowing appreciation despite disagreement over tactical-aircraft scale, program concentration and how much reinvestment remains necessary."
+    },
+    {
+      "date": "2029-12-18",
+      "scenario_rationale": "The investment case shifts toward sustainable production margins and disciplined funding rather than capacity announcements. Propulsion and selective software contribution improve earnings quality, while recurring compensation and customer bargaining keep expectations below a software-platform valuation narrative."
+    },
+    {
+      "date": "2030-03-18",
+      "scenario_rationale": "Annual results are modeled to show a larger revenue base absorbing overhead more effectively. Better cash generation supports per-share progress, although dilution and normalizing growth prevent improved aggregate profitability from translating directly into equally strong equity gains."
+    },
+    {
+      "date": "2030-06-18",
+      "scenario_rationale": "Contract negotiations and customer pricing leverage slow the improvement in margins. Diversified engine demand, international activity and factory efficiencies provide an offset, leaving modest appreciation while investors reassess how much production-scale profitability the company can retain."
+    },
+    {
+      "date": "2030-09-18",
+      "scenario_rationale": "Factory productivity and delivery mix help offset tougher pricing, but capital-allocation concerns and procurement pauses restrain momentum. The scenario therefore favors limited progress rather than renewed enthusiasm, with shareholder participation remaining more uncertain than underlying defense demand."
+    },
+    {
+      "date": "2030-12-18",
+      "scenario_rationale": "More mature production and improved capital discipline support an earnings-driven advance. Better cash generation increases strategic flexibility, while the valuation increasingly depends on demonstrated per-share results instead of assuming every future program will require another expansion cycle."
+    },
+    {
+      "date": "2031-03-18",
+      "scenario_rationale": "Steadier cash generation reduces execution concerns, but investors begin weighing growth maturity against reinvestment choices. The shares advance moderately as recurring deliveries support earnings, with competing forecasts still disagreeing about attainable margins and the durability of capital discipline."
+    },
+    {
+      "date": "2031-06-18",
+      "scenario_rationale": "Late-horizon order normalization and residual valuation pressure largely offset continuing propulsion and allied demand. Liquidity cushions the adjustment, but slower growth comparisons and share-count effects keep the period close to consolidation rather than another broad industrial rerating."
+    },
+    {
+      "date": "2031-09-18",
+      "scenario_rationale": "Normalized production margins and steadier working capital support a final earnings-led recovery. The company is modeled as a larger defense manufacturer, not an uncontested autonomy platform; further improvement depends on funded programs and disciplined allocation of shareholder capital."
+    }
+  ],
+  "headline_title": "Defense Growth Faces Its Real Test: Cash Conversion After Dilution",
+  "geo_optimization_snippet": "Kratos’s defense demand supports industrial expansion, but shareholder value depends on cash conversion after reinvestment, partner economics and dilution. Sharp divergence concerns whether weak margins are temporary or structural. Propulsion diversification and liquidity favor gradual maturation; demanding valuation and contested drone production limit the case for automatic rerating.",
+  "expert_seo_thesis": "Kratos is a production-conversion investment, not a claim on the entire autonomy profit pool. The base case favors propulsion-led expansion, limited tactical-aircraft commercialization and improving utilization, with earnings maturation partly absorbed by valuation normalization. Verified development awards establish opportunity, not guaranteed fleet volumes or monopoly margins. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-and-ge-aerospaces-gek800-engine-receives-u-s-military-type-designation-f143-zz-100-and-emd-contract-award-for-jassm?utm_source=openai)) The central valuation error would be treating adjusted EBITDA as distributable cash while excluding recurring compensation and the capital required to manufacture growth. Conversely, the strongest bearish forecasts understate liquidity: equity-funded cash buys time for commercialization. Faster accepted deliveries and customer funding could therefore produce better per-share economics without requiring a new blockbuster program. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))\n-- Merchant propulsion diversifies exposure across aircraft winners, but joint-venture and integration partners can capture economics that gross program values imply belong to shareholders.\n-- A declining capex line is insufficient evidence of cash improvement when investment shifts into inventory, joint ventures or acquisition commitments outside that line.\n-- Existing liquidity lowers forced-financing risk, yet recurring share growth raises the earnings hurdle; enterprise expansion and shareholder compounding must therefore be evaluated separately.",
+  "simple_seo_thesis": "Kratos can become a larger, more profitable defense supplier without delivering the same progress to each share. The most reasonable case is steady improvement as engine and drone production uses existing factories more efficiently, not an automatic jump to software-like profits. Cash reserves give the company time, weakening predictions of an unavoidable rescue financing. But spending, partner payments and new shares can still absorb much of the benefit. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))\n-- Selling engines to several aircraft makers reduces dependence on one winner, but partners also share the profits.\n-- Lower factory spending does not always mean better cash flow if money moves into inventory or joint ventures.\n-- A cash cushion reduces financing pressure, but issuing more shares can keep company growth from reaching existing shareholders.",
+  "consensus_crowd_narrative": "The supplied September analyst aggregates describe bullish recovery expectations, assuming backlog and heavy investment become profitable production. Those dated estimates coexist with media descriptions of a broken growth story, while the supplied premium valuation implies substantial execution already priced in. Neither analyst targets nor repeated report assertions establish current investor positioning. The cited market aggregates were not independently revalidated.",
+  "consensus_alpha_gap": "The reports establish no compelling directional gap against independently verified crowd expectations. The best-supported conditional edge challenges overpricing of near-term cash conversion: diversified propulsion can grow while compensation, partner sharing and reinvestment restrain per-share value. Liquidity weakens the emergency-financing bear case, but does not make a premium multiple cheap. The strongest opposing case is faster utilization improvement without further issuance; resolving that tension requires cash evidence, not another backlog headline.",
+  "consensus_convergence_catalyst": "FY2027 guidance and subsequent cash-flow filings are the decisive trigger, because they connect production ambitions to funding needs. Through 2027–2028, rising margins after recurring compensation and improving inventory conversion would support earnings-led repricing; continued cash absorption despite sales upgrades would expose premature valuation support. Funded Valkyrie commitments in 2027–2029 and engine production awards in 2028–2030 could strengthen the evidence, but development participation alone cannot close the gap.",
+  "consensus_macro_regime_alignment": "The backdrop is mixed: defense modernization supports demand, but the September 16, 2026 rate increase penalizes distant shareholder cash flows. ([federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)) Cash reserves reduce refinancing exposure and earn interest; they do not eliminate valuation duration. Fixed-price execution transmits wage and component inflation into thin margins, making cash conversion more decisive than broad economic growth. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))",
+  "consensus_sentiment_regime": {
+    "dominant_greed_and_fear_sentiment": "mixed",
+    "dominant_volatility_regime": "high_erratic",
+    "dominant_convergence_cycle_position": "mixed",
+    "regime_disagreement_summary": "Views divide between lingering speculative optimism and stabilization after a valuation reset. Expected volatility is consistently high, but cycle interpretations conflict. That tension favors staged evidence from production and cash conversion over assuming either immediate capitulation or uninterrupted recovery."
+  },
+  "consensus_driver_factors": [
+    {
+      "event_name": "Hypersonic workload fills factories",
+      "category": "sector_and_industry",
+      "description": "Hypersonic testing and rocket workloads offer a firmer growth bridge than speculative tactical-drone fleet sizes. The base case expects funded work to support throughput and spread factory overhead, lifting earnings from a thin starting base. Appropriations and customer acceptance remain conditions; program ceilings and proposal pipelines are not equivalent to funded revenue. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results))",
+      "expected_impact_pct_on_price": 30,
+      "expected_impact_pct_on_company_earnings": 130
+    },
+    {
+      "event_name": "Engines sell across platforms",
+      "category": "competitive_positioning",
+      "description": "Supplying engines to multiple weapons platforms reduces dependence on winning one airframe competition. The verified JASSM development award supports that strategy, while qualification and repeat production can improve utilization. The opportunity persists across competing platforms, but partner revenue sharing and customer sourcing decisions prevent assuming the entire propulsion profit pool belongs to shareholders. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-and-ge-aerospaces-gek800-engine-receives-u-s-military-type-designation-f143-zz-100-and-emd-contract-award-for-jassm?utm_source=openai))",
+      "expected_impact_pct_on_price": 30,
+      "expected_impact_pct_on_company_earnings": 60
+    },
+    {
+      "event_name": "Targets anchor tactical expansion",
+      "category": "sector_and_industry",
+      "description": "Established target-drone activity provides a production foundation while Valkyrie integration creates additional commercial opportunity. The base case favors continuing development and limited production, with greater throughput improving overhead absorption over time. Marine Corps participation is real, but competing evaluations mean that a large exclusive fleet commitment belongs in upside scenarios, not baseline demand. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/northrop-grumman-to-rapidly-develop-marine-corps-cca-with-kratos-valkyrie-uas))",
+      "expected_impact_pct_on_price": 25,
+      "expected_impact_pct_on_company_earnings": 45
+    },
+    {
+      "event_name": "Software enriches hardware economics",
+      "category": "innovation_and_product",
+      "description": "OpenSpace offers a route to better revenue quality within a manufacturing-heavy portfolio. Continuing ground-system virtualization could add licensing and support income without matching every revenue increment with factory expansion. The base case assumes a modest favorable mix contribution, not universal adoption; software revenue shares and exceptional product margins remain insufficiently established. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-fourth-quarter-and-full-year-2025-financial-results))",
+      "expected_impact_pct_on_price": 15,
+      "expected_impact_pct_on_company_earnings": 25
+    }
+  ],
+  "consensus_friction_factors": [
+    {
+      "event_name": "Valuation outruns owner earnings",
+      "category": "macroeconomic_and_macrofinancial",
+      "description": "The supplied valuation already capitalizes considerable industrial maturation before dependable shareholder cash generation appears. Recurring compensation makes adjusted earnings an incomplete valuation denominator, while higher discount rates increase the penalty for delayed delivery. The base case expects normalization to restrain appreciation even as earnings improve; a lower multiple need not imply weaker company profits. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))",
+      "expected_impact_pct_on_price": -35,
+      "expected_impact_pct_on_company_earnings": 0
+    },
+    {
+      "event_name": "Cash commitments dilute participation",
+      "category": "capital_allocation",
+      "description": "Factories, inventory and venture funding require cash before the full production economics are demonstrated. Startup expenses and depreciation can depress earnings, while recurring share issuance reduces each investor’s participation rather than aggregate company profit. Liquidity makes emergency financing avoidable, but continuing reinvestment still limits distributable cash and creates capital-allocation risk throughout the expansion. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results))",
+      "expected_impact_pct_on_price": -25,
+      "expected_impact_pct_on_company_earnings": -20
+    },
+    {
+      "event_name": "Partners contest profit pools",
+      "category": "competitive_positioning",
+      "description": "An airframe contract does not confer ownership of the mission-system economics. Integration partners and competing platforms constrain pricing and the scope of awards Kratos can capture. Parallel Marine Corps evaluation makes this a demonstrated competitive issue, although diversified propulsion exposure reduces dependence on any single selection and prevents treating subcontracting as automatic economic failure. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/northrop-grumman-to-rapidly-develop-marine-corps-cca-with-kratos-valkyrie-uas))",
+      "expected_impact_pct_on_price": -20,
+      "expected_impact_pct_on_company_earnings": -25
+    },
+    {
+      "event_name": "Fixed prices absorb overruns",
+      "category": "operational_efficiency",
+      "description": "Fixed-price work exposes thin operating profits to engineering changes, labor inflation and delayed acceptance. These pressures are likely to recur across a multiyear production ramp, slowing margin improvement. They are contractual execution risks, not proof of a universal statutory profit ceiling; successful cost control can also allow the company to retain manufacturing efficiencies. ([acquisition.gov](https://www.acquisition.gov/sites/default/files/archives/far/pdf/2021-07.pdf?utm_source=openai))",
+      "expected_impact_pct_on_price": -15,
+      "expected_impact_pct_on_company_earnings": -25
+    }
+  ],
+  "consensus_tail_opportunities": [
+    {
+      "event_name": "Valkyrie secures fleet commitment",
+      "category": "competitive_positioning",
+      "description": "A binding domestic or allied multiyear fleet commitment during 2027–2029 would convert tactical-aircraft optionality into scheduled production. Funded quantities beyond limited baseline deliveries could improve utilization, attract customer advances and reduce inventory risk simultaneously. Probability remains below half because competing aircraft, mission integration, sovereign workshare and appropriations still separate demonstrations from economically meaningful fleet procurement. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/northrop-grumman-to-rapidly-develop-marine-corps-cca-with-kratos-valkyrie-uas))",
+      "probability_pct": 35,
+      "upside_impact_pct": 50
+    },
+    {
+      "event_name": "F143 wins production orders",
+      "category": "innovation_and_product",
+      "description": "Successful qualification followed by a substantial multiyear JASSM engine order in 2028–2030 would exceed the measured propulsion ramp. The verified award covers engineering and development, not assured serial-production profits. Committed volumes could improve purchasing, factory utilization and cash recovery together; incumbent sourcing, qualification milestones and the eventual partner economic split keep this below an even-probability outcome. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-and-ge-aerospaces-gek800-engine-receives-u-s-military-type-designation-f143-zz-100-and-emd-contract-award-for-jassm?utm_source=openai))",
+      "probability_pct": 40,
+      "upside_impact_pct": 35
+    }
+  ],
+  "consensus_tail_risks": [
+    {
+      "event_name": "Valkyrie loses production selection",
+      "category": "competitive_positioning",
+      "description": "An adverse Marine Corps production selection or cancellation of the intended mission configuration during 2027–2029 would remove a material source of expected growth. Program-specific inventory and tooling could become impaired while the autonomy valuation premium contracts. Parallel evaluation makes displacement plausible, but continuing development activity and diversified propulsion businesses keep this below a base-case outcome. ([ga-asi.com](https://www.ga-asi.com/us-marine-corps-selects-ga-asi-for-mux-tacair-collaborative-combat-aircraft-program?utm_source=openai))",
+      "probability_pct": 30,
+      "downside_impact_pct": -40
+    },
+    {
+      "event_name": "Industrial ramp triggers impairment",
+      "category": "operational_efficiency",
+      "description": "A failed production-acceptance campaign in engines or hypersonic hardware during 2027–2030 could culminate in a material inventory or facility write-down. Persistent rework and delayed reimbursement, potentially aggravated by funding deferrals, would damage earnings and cash recovery together. Multiple programs and substantial liquidity contain the exposure, making a severe impairment a tail rather than the expected manufacturing outcome.",
+      "probability_pct": 25,
+      "downside_impact_pct": -35
+    }
+  ],
+  "consensus_disagreement_summary": "The central dispute is whether thin margins reflect a temporary investment trough or a durable limit imposed by mix, competition and procurement bargaining. Optimistic paths assume strong utilization, software contribution and limited dilution; pessimistic paths assume cash burn persists despite scale. Neither monopoly claims nor universal statutory margin ceilings are established. Data mismatches also matter: total investment is not capex, quarterly depreciation is not a combined expense total, and FY2025 ratios are not current liquidity. Accepted deliveries, margins after compensation and cash recovery through 2028 would separate genuine economics from inconsistent definitions. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results))",
+  "consensus_thesis_watchpoints": "-- Confirmation: Through FY2027, organic growth stays above 15% while margins after stock compensation rise and operating cash flow improves.\n-- Deterioration: Over the next four quarters, trailing book-to-bill falls below 1.0 while inventories outgrow sales, undermining production visibility.\n-- Reassessment: By year-end 2028, sustained positive free cash flow and contracted Valkyrie deliveries would justify revisiting valuation and dilution assumptions.",
+  "simple_earnings_and_financials_trend_assessment_synthesis": "Kratos’s August 4 release for fiscal Q2 ended June 28, 2026 shows genuine expansion: organic revenue grew 19.1%, led by rocket systems and turbines, while acquisitions added further reported growth. Yet the company recorded a $1.6 million operating loss. Net interest income helped produce a bottom-line profit, so positive net earnings did not establish profitable core operations. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results))\n\nThe financial story is therefore growth ahead of cash, not growth without customers. Inventory and receivables absorb funding before deliveries become cash receipts. Whether that spending produces attractive returns remains disputed; improving throughput must eventually generate cash after investment, rather than merely larger adjusted earnings.",
+  "simple_capex_and_investment_intensity_trend_assessment_synthesis": "In its August FY2026 outlook, management separates $125–135 million of capex from $250–275 million of total investment. The difference includes inventory and Prometheus funding; the larger figure is not factory spending alone. These are Kratos’s own commitments, distinct from customers’ defense procurement budgets. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results))\n\nManagement is purchasing production readiness before all returns are secured. A smaller capex line would not necessarily demonstrate restraint if cash instead moves into inventory or ventures. Company-defined free cash flow also includes asset-sale proceeds, so it differs from operating cash flow minus capex. The investment case improves only when accepted deliveries recover the cash committed, not when its accounting classification changes. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-fourth-quarter-and-full-year-2025-financial-results))",
+  "simple_balance_sheet_strength_and_leverage_assessment_synthesis": "At June 28, 2026, issuer disclosures show approximately $1.44 billion of cash, substantially strengthened by equity financing. That is genuine liquidity, not an illusion simply because shareholders supplied it. However, cash is not net cash: roughly $140 million of finance-lease obligations, additional operating leases and other commitments must also be considered. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))\n\nThe cushion provides time to commercialize new capacity and makes an imminent emergency offering less convincing than several reports suggest. It is not automatically available for shareholder distributions. Inventory, venture funding and acquisitions compete for those resources, while additional shares can dilute ownership even without financial distress. Capital allocation matters more than headline leverage alone.",
+  "simple_profitability_margins_trend_assessment_synthesis": "The FY2025 issuer tables imply gross margin of approximately 22.9% and operating margin of 1.9%, rather than the repeated snapshot figures. Both weakened from the prior year. The message remains important: higher sales had not yet produced stronger consolidated profitability, although this does not establish a permanent ceiling on manufacturing returns. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-fourth-quarter-and-full-year-2025-financial-results))\n\nLatest GAAP weakness also reflects recurring share compensation and acquisition-related amortization, not just factory depreciation or inflation. Several reports’ depreciation figures do not match the quarterly reconciliation and are excluded. The reasonable interpretation is mixed: startup and mix pressures may ease with throughput, but recurring compensation and competitive pricing will not disappear merely because production expands. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))",
+  "submitted_opinion_weights": [
+    {
+      "opinion_id": "opinion_105b66416f9acd6d45c383ea",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.04,
+      "rationale": "Retains useful skepticism about cash conversion and fixed-price execution. However, no source receipts establish independence from repeated assumptions, and the predicted near-term financing squeeze understates verified liquidity. Its permanent margin constraint is less persuasive than its narrower warning that revenue growth need not translate into shareholder cash. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))"
+    },
+    {
+      "opinion_id": "opinion_144e74690f04cc32d0a1c056",
+      "investment_framework": "machiavelli__the_insider__standard_1",
+      "weight": 0.05,
+      "rationale": "The distinction between strategic relevance and shareholder economics deserves inclusion. Weight is restrained by an unreconciled terminal enterprise-value bridge, overstated procurement certainty and generalized statutory profit caps. Numerous redirected citations do not establish independent confirmation; fixed-price rules allocate execution risk rather than impose a universal operating-margin ceiling. ([acquisition.gov](https://www.acquisition.gov/sites/default/files/archives/far/pdf/2021-07.pdf?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_1a50ac2370f0d29f2d446971",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.1,
+      "rationale": "The merchant-propulsion argument survives scrutiny: verified engine development awards support participation beyond proprietary aircraft. This earns meaningful contrarian weight despite absent original receipts. Earlier guidance, an assumed early investment peak and uninterrupted quarterly appreciation weaken the path; supplier relevance does not establish monopoly pricing or immediate production economics. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-and-ge-aerospaces-gek800-engine-receives-u-s-military-type-designation-f143-zz-100-and-emd-contract-award-for-jassm?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_22fb85fc9f37722546dda9a0",
+      "investment_framework": "jp_morgan__the_titan__standard_1",
+      "weight": 0.045,
+      "rationale": "Liquidity and manufacturing absorption provide a credible upside mechanism, but unsupported software margins, monopoly descriptions and guaranteed investment payback exaggerate its strength. Source independence is limited by missing receipts. The terminal narrative also disagrees with the frozen path, while parallel aircraft evaluation weakens assumptions of exclusive program capture. ([ga-asi.com](https://www.ga-asi.com/us-marine-corps-selects-ga-asi-for-mux-tacair-collaborative-combat-aircraft-program?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_33d540c2a77f6dea437d6fb4",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.3,
+      "rationale": "Receives the largest weight for separating development awards from fleet procurement, retaining compensation costs and modeling partner economics. Parallel Marine Corps evaluation is independently confirmed. Dependence on issuer guidance, unreconciled snapshot margins and arbitrary quarterly setbacks still limit conviction, but the central mechanism survives verification. ([ga-asi.com](https://www.ga-asi.com/us-marine-corps-selects-ga-asi-for-mux-tacair-collaborative-combat-aircraft-program?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_4c06d632d860da7453b65c53",
+      "investment_framework": "superintelligence__the_anthropologist__standard_1",
+      "weight": 0.05,
+      "rationale": "The gradual manufacturing-maturation thesis balances investment burdens against potential operating leverage. Nevertheless, missing receipts, overstated procurement protection and aggressive software-mix assumptions limit independent support. Its valuation bridge and cash-flow timing are insufficiently reconciled with the numerical path, so the useful transition argument receives only moderate weight."
+    },
+    {
+      "opinion_id": "opinion_5bb26a94cf1c046165a7266f",
+      "investment_framework": "warren_buffett__the_value_seeker__standard_1",
+      "weight": 0.025,
+      "rationale": "Owner-cash-flow discipline remains relevant, but the prolonged deterioration path assumes persistently failed economics rather than demonstrating them. Claims of negligible pricing power conflict with its own propulsion drivers. Missing receipts and insufficient recognition of verified liquidity reduce its independence and make inevitable discounted financing an unsupported base-case premise. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))"
+    },
+    {
+      "opinion_id": "opinion_9a41d6b046068348bbad9850",
+      "investment_framework": "superintelligence__the_anthropologist__standard_1",
+      "weight": 0.025,
+      "rationale": "The warning that integration partners capture part of the autonomy profit pool is credible. Absolute claims about permanently commoditized hardware and unavoidable refinancing are not established. Without independent receipts, the repeated cash-burn narrative adds limited evidence, while verified engine development supports more differentiated economics than the path allows. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-and-ge-aerospaces-gek800-engine-receives-u-s-military-type-designation-f143-zz-100-and-emd-contract-award-for-jassm?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_a05e994cc2e5a4e2c3703f2e",
+      "investment_framework": "sherlock_holmes__the_whistleblower__standard_1",
+      "weight": 0.065,
+      "rationale": "Offers a useful intermediate scenario in which operating progress follows an initial valuation adjustment, and it distinguishes total investment from facilities capex. Missing source receipts constrain independence. Mandatory issuance is overstated given reported cash, and the prose valuation range does not reconcile with its eventual recovery path. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))"
+    },
+    {
+      "opinion_id": "opinion_b1c16c208fa66152928e72d7",
+      "investment_framework": "michael_burry__the_vulture__standard_1",
+      "weight": 0.03,
+      "rationale": "Cash conversion and valuation normalization remain useful sensitivities, but citation volume does not resolve reliance on repeated secondary claims. Verification rejects universal fixed-price margin caps, and the quarterly depreciation figure does not match the issuer reconciliation. These weaknesses materially reduce confidence in its structurally constrained earnings path. ([acquisition.gov](https://www.acquisition.gov/sites/default/files/archives/far/pdf/2021-07.pdf?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_b3cc0a48075c4455512411ec",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.155,
+      "rationale": "The cash-runway counterargument and distinction between propulsion growth and drone headlines earn substantial weight. Primary disclosures support liquidity and working-capital investment, although repeated issuer evidence is not independent corroboration. Weight is capped by depreciation misclassification, offering-versus-share-growth confusion and an inconsistent net-cash bridge; underpricing itself remains unproven. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))"
+    },
+    {
+      "opinion_id": "opinion_b46b98ffb2dcca6cbdfda60c",
+      "investment_framework": "ray_dalio__the_strategist__longterm_standard_1",
+      "weight": 0.065,
+      "rationale": "Its delayed operating-leverage scenario usefully connects valuation duration with industrial maturation. However, total investment is mislabeled as capex, trailing EBITDA is described as forward, and repeated monetary assumptions add little independent evidence. Verified spending categories support the timing concern but not the magnitude of the stated factory-cash burden. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results))"
+    },
+    {
+      "opinion_id": "opinion_ba2d24d3a577901850c78963",
+      "investment_framework": "elon_musk__the_visionary__standard_1",
+      "weight": 0.025,
+      "rationale": "Retains a legitimate warning about manufacturing costs and partner participation. Missing receipts, unsupported implications of accounting manipulation and permanent commoditization substantially weaken the argument. The depreciation claim fails reconciliation, while liquidity and differentiated engine development undermine assumptions that punitive financing and permanently weak economics are unavoidable. ([sec.gov](https://www.sec.gov/Archives/edgar/data/0001069258/000106925826000075/ktos202606288kexhibit991.htm))"
+    },
+    {
+      "opinion_id": "opinion_f9d2f0ea6ca3db2c6558d272",
+      "investment_framework": "warren_buffett__the_value_seeker__standard_1",
+      "weight": 0.025,
+      "rationale": "Valuation discipline and sensitivity to delayed cash recovery merit retention. Nevertheless, the analysis overstates capex by conflating investment categories and treats procurement bargaining as a permanent margin ceiling. Its references largely repeat shared premises rather than independently establish them, weakening the persistent deterioration path relative to conditional industrial recovery. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results))"
+    }
+  ],
+  "consensus_timeseries": [
+    {
+      "date": "2026-12-18",
+      "scenario_rationale": "The scenario opens with valuation pressure as stronger sales remain paired with investment and weak cash conversion. Propulsion demand cushions the decline, but investors increasingly distinguish reported growth from earnings available to each share.",
+      "forecast_step": 1,
+      "predicted_most_reasonable_pct_change": -3.725,
+      "compounded_return_percent": -3.725,
+      "predicted_price": 45.692115
+    },
+    {
+      "date": "2027-03-18",
+      "scenario_rationale": "Annual reporting keeps attention on inventory funding and recurring compensation, outweighing stronger propulsion guidance. The credible bullish counterweight is ample liquidity, which makes immediate financing distress less persuasive even while the premium valuation continues adjusting.",
+      "forecast_step": 2,
+      "predicted_most_reasonable_pct_change": -1.3,
+      "compounded_return_percent": -4.976575,
+      "predicted_price": 45.098117505
+    },
+    {
+      "date": "2027-06-18",
+      "scenario_rationale": "Engine deliveries and hypersonic execution begin supporting better factory absorption, allowing a selective recovery. Appropriations uncertainty and continuing working-capital demands restrain enthusiasm, so improving production evidence matters more than speculative airframe selection headlines.",
+      "forecast_step": 3,
+      "predicted_most_reasonable_pct_change": 1.395,
+      "compounded_return_percent": -3.65099822125,
+      "predicted_price": 45.72723624419475
+    },
+    {
+      "date": "2027-09-18",
+      "scenario_rationale": "Improving customer acceptance and propulsion throughput strengthen the recovery as earlier investments begin supporting earnings. Budget negotiations and inventory risk remain meaningful offsets; the scenario does not require an exclusive tactical-drone award to sustain progress.",
+      "forecast_step": 4,
+      "predicted_most_reasonable_pct_change": 2.38,
+      "compounded_return_percent": -1.35789197891575,
+      "predicted_price": 46.815544466806585
+    },
+    {
+      "date": "2027-12-18",
+      "scenario_rationale": "A clearer bridge toward repeat production supports further appreciation as propulsion schedules and limited aircraft activity improve visibility. Competing views still question cash conversion, keeping the advance tied to execution rather than presumed autonomy dominance.",
+      "forecast_step": 5,
+      "predicted_most_reasonable_pct_change": 2.77,
+      "compounded_return_percent": 1.3744944132682837,
+      "predicted_price": 48.112335048537126
+    },
+    {
+      "date": "2028-03-18",
+      "scenario_rationale": "Annual disclosures expose the tension between improving factory economics and another demanding investment envelope. Better throughput narrowly offsets concerns that cash generation remains deferred, producing consolidation rather than a decisive declaration that the expansion has paid off.",
+      "forecast_step": 6,
+      "predicted_most_reasonable_pct_change": 0.355,
+      "compounded_return_percent": 1.7343738684353862,
+      "predicted_price": 48.28313383795943
+    },
+    {
+      "date": "2028-06-18",
+      "scenario_rationale": "Higher engine throughput and improving operating cash evidence reinforce the commercialization case. Early aircraft inefficiencies remain manageable within a broader propulsion portfolio, allowing appreciation without assuming that joint-venture revenues or mission-system profits accrue entirely to Kratos.",
+      "forecast_step": 7,
+      "predicted_most_reasonable_pct_change": 3.205,
+      "compounded_return_percent": 4.994960550918741,
+      "predicted_price": 49.830608277466034
+    },
+    {
+      "date": "2028-09-18",
+      "scenario_rationale": "Production learning and more reliable deliveries support earnings improvement, while customer funding can reduce internal cash commitments. Election-related procurement uncertainty tempers the advance, but the weighted scenario favors operating progress over a renewed broad valuation reset.",
+      "forecast_step": 8,
+      "predicted_most_reasonable_pct_change": 2.065,
+      "compounded_return_percent": 7.163106486295212,
+      "predicted_price": 50.859610338395704
+    },
+    {
+      "date": "2028-12-18",
+      "scenario_rationale": "Broader use of installed propulsion and hypersonic capacity supports another measured advance. Contract visibility improves more than growth accelerates, while budget reprioritization and continued investment prevent the market from treating every backlog addition as immediately distributable cash.",
+      "forecast_step": 9,
+      "predicted_most_reasonable_pct_change": 2.255,
+      "compounded_return_percent": 9.57963453756117,
+      "predicted_price": 52.00649455152653
+    },
+    {
+      "date": "2029-03-18",
+      "scenario_rationale": "A modeled pause in order conversion challenges expectations of uninterrupted production improvement. Positive annual cash-flow evidence in more optimistic paths limits the setback, but inventory timing and a still-demanding valuation leave the shares vulnerable to renewed scrutiny.",
+      "forecast_step": 10,
+      "predicted_most_reasonable_pct_change": -0.565,
+      "compounded_return_percent": 8.960509602423949,
+      "predicted_price": 51.712657857310404
+    },
+    {
+      "date": "2029-06-18",
+      "scenario_rationale": "Resuming acceptances and improving utilization rebuild confidence after the pause. Propulsion diversification and potential allied deliveries support recovery, while unmanned pricing competition remains a meaningful counterweight; cash released from completed work carries more weight than new demonstrations.",
+      "forecast_step": 11,
+      "predicted_most_reasonable_pct_change": 2.22,
+      "compounded_return_percent": 11.37943291559776,
+      "predicted_price": 52.8606788617427
+    },
+    {
+      "date": "2029-09-18",
+      "scenario_rationale": "Repeat orders increasingly validate the facilities funded earlier in the expansion. Higher throughput supports incremental profitability and better cash recovery, allowing appreciation despite disagreement over tactical-aircraft scale, program concentration and how much reinvestment remains necessary.",
+      "forecast_step": 12,
+      "predicted_most_reasonable_pct_change": 2.54,
+      "compounded_return_percent": 14.208470511653944,
+      "predicted_price": 54.203340104830964
+    },
+    {
+      "date": "2029-12-18",
+      "scenario_rationale": "The investment case shifts toward sustainable production margins and disciplined funding rather than capacity announcements. Propulsion and selective software contribution improve earnings quality, while recurring compensation and customer bargaining keep expectations below a software-platform valuation narrative.",
+      "forecast_step": 13,
+      "predicted_most_reasonable_pct_change": 2.875,
+      "compounded_return_percent": 17.491964038863994,
+      "predicted_price": 55.76168613284485
+    },
+    {
+      "date": "2030-03-18",
+      "scenario_rationale": "Annual results are modeled to show a larger revenue base absorbing overhead more effectively. Better cash generation supports per-share progress, although dilution and normalizing growth prevent improved aggregate profitability from translating directly into equally strong equity gains.",
+      "forecast_step": 14,
+      "predicted_most_reasonable_pct_change": 1.675,
+      "compounded_return_percent": 19.459954436514966,
+      "predicted_price": 56.69569437557
+    },
+    {
+      "date": "2030-06-18",
+      "scenario_rationale": "Contract negotiations and customer pricing leverage slow the improvement in margins. Diversified engine demand, international activity and factory efficiencies provide an offset, leaving modest appreciation while investors reassess how much production-scale profitability the company can retain.",
+      "forecast_step": 15,
+      "predicted_most_reasonable_pct_change": 0.56,
+      "compounded_return_percent": 20.12893018135945,
+      "predicted_price": 57.013190264073195
+    },
+    {
+      "date": "2030-09-18",
+      "scenario_rationale": "Factory productivity and delivery mix help offset tougher pricing, but capital-allocation concerns and procurement pauses restrain momentum. The scenario therefore favors limited progress rather than renewed enthusiasm, with shareholder participation remaining more uncertain than underlying defense demand.",
+      "forecast_step": 16,
+      "predicted_most_reasonable_pct_change": 0.65,
+      "compounded_return_percent": 20.909768227538287,
+      "predicted_price": 57.38377600078967
+    },
+    {
+      "date": "2030-12-18",
+      "scenario_rationale": "More mature production and improved capital discipline support an earnings-driven advance. Better cash generation increases strategic flexibility, while the valuation increasingly depends on demonstrated per-share results instead of assuming every future program will require another expansion cycle.",
+      "forecast_step": 17,
+      "predicted_most_reasonable_pct_change": 2.585,
+      "compounded_return_percent": 24.03528573622015,
+      "predicted_price": 58.86714661041008
+    },
+    {
+      "date": "2031-03-18",
+      "scenario_rationale": "Steadier cash generation reduces execution concerns, but investors begin weighing growth maturity against reinvestment choices. The shares advance moderately as recurring deliveries support earnings, with competing forecasts still disagreeing about attainable margins and the durability of capital discipline.",
+      "forecast_step": 18,
+      "predicted_most_reasonable_pct_change": 1.415,
+      "compounded_return_percent": 25.790385029387668,
+      "predicted_price": 59.700116734947386
+    },
+    {
+      "date": "2031-06-18",
+      "scenario_rationale": "Late-horizon order normalization and residual valuation pressure largely offset continuing propulsion and allied demand. Liquidity cushions the adjustment, but slower growth comparisons and share-count effects keep the period close to consolidation rather than another broad industrial rerating.",
+      "forecast_step": 19,
+      "predicted_most_reasonable_pct_change": 0.27,
+      "compounded_return_percent": 26.130019068967012,
+      "predicted_price": 59.86130705013174
+    },
+    {
+      "date": "2031-09-18",
+      "scenario_rationale": "Normalized production margins and steadier working capital support a final earnings-led recovery. The company is modeled as a larger defense manufacturer, not an uncontested autonomy platform; further improvement depends on funded programs and disciplined allocation of shareholder capital.",
+      "forecast_step": 20,
+      "predicted_most_reasonable_pct_change": 1.5,
+      "compounded_return_percent": 28.021969355001517,
+      "predicted_price": 60.75922665588372
+    }
+  ],
+  "consensus_calculation": {
+    "method": "evidence_weighted_quarterly_returns_v1",
+    "source_snapshot_sha256": "af8f68e8b5ce16ec397165bb672b21edeb64cb457e0a8b5ff898993ab07b3622",
+    "path_kind": "synthesizer_weighted_consensus",
+    "return_basis": "price_return_ex_dividends",
+    "forecast_step_count": 20,
+    "forecast_horizon_end_date": "2031-09-18",
+    "one_year_compounded_return_percent": -1.35789197891575,
+    "final_compounded_return_percent": 28.021969355001517,
+    "final_predicted_price": 60.75922665588372,
+    "opinion_count": 14,
+    "positive_weight_opinion_count": 14,
+    "weight_sum": 1.0,
+    "anchor_price": 47.46,
+    "submitted_weight_sum": 1.0,
+    "weights_normalized": false,
+    "normalization_method": "divide_by_positive_total_then_12_decimal_residual_to_largest",
+    "anchor_timestamp": "2026-09-18 00:00:00+00:00",
+    "formula": "r[t] = sum(w[i] * r[i,t]); P[t] = anchor * product(1 + r[t]/100)"
+  }
+}

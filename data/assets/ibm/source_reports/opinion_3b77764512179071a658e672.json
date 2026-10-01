@@ -1,0 +1,367 @@
+{
+  "opinion_id": "opinion_3b77764512179071a658e672",
+  "investment_framework": "universal_investor__the_polymath__standard_1",
+  "forecast_anchor": {
+    "price": 229.55,
+    "timestamp": "2026-09-18 00:00:00+00:00"
+  },
+  "research_sources": [
+    {
+      "title": "International Business Machines (IBM) Stock Forecast & Price Targets",
+      "url": "https://stockanalysis.com/stocks/ibm/forecast/",
+      "domain": "stockanalysis.com"
+    },
+    {
+      "title": "IBM Stock Forecast 2026-2027 - International Business Machines Corp. Price Targets & Predictions",
+      "url": "https://tickernerd.com/stock/ibm-forecast/",
+      "domain": "tickernerd.com"
+    },
+    {
+      "title": "IBM Q2 earnings report 2026",
+      "url": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+      "domain": "www.cnbc.com"
+    },
+    {
+      "title": "IBM stock holds near USD 242.77 as analysts stay upbeat",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ibm-stock-holds-near-usd-242-77-as-analysts-stay-upbeat/70098934",
+      "domain": "www.ad-hoc-news.de"
+    },
+    {
+      "title": "IBM Beat on Revenue, EPS, and Free Cash Flow, The Stock Fell 6% Anyway | TIKR.com",
+      "url": "https://www.tikr.com/blog/ibm-beat-on-revenue-eps-and-free-cash-flow-the-stock-fell-6-anyway",
+      "domain": "www.tikr.com"
+    },
+    {
+      "title": "[IBM Q1 2026 Earnings Call] Free Cash Flow Hits Decade High, Software Growth Accelerates to 10%+ Outlook as AI Drives Mainframe and Data Demand — BigGo Finance",
+      "url": "https://finance.biggo.com/news/US_IBM_2026-04-22",
+      "domain": "finance.biggo.com"
+    },
+    {
+      "title": "IBM RELEASES SECOND-QUARTER RESULTS - Jul 22, 2026",
+      "url": "https://newsroom.ibm.com/2026-07-22-IBM-RELEASES-SECOND-QUARTER-RESULTS",
+      "domain": "newsroom.ibm.com"
+    },
+    {
+      "title": "IBM (NYSE: IBM) previews Q2 2026 with $17.2B revenue and EPS mix",
+      "url": "https://www.stocktitan.net/sec-filings/IBM/8-k-international-business-machines-corp-reports-material-event-a0b9f8972a9f.html",
+      "domain": "www.stocktitan.net"
+    },
+    {
+      "title": "IBM (NYSE: IBM) posts Q2 2026 results, guides four-to-five percent revenue growth",
+      "url": "https://www.stocktitan.net/sec-filings/IBM/8-k-international-business-machines-corp-reports-material-event-a428252a78d0.html",
+      "domain": "www.stocktitan.net"
+    },
+    {
+      "title": "IBM (IBM) Investor Relations, Earnings Summary & Outlook",
+      "url": "https://quartr.com/companies/international-business-machines-corp_6065",
+      "domain": "quartr.com"
+    },
+    {
+      "title": "IBM Newsroom IBM RELEASES SECOND-QUARTER RESULTS",
+      "url": "https://newsroom.ibm.com/2026-07-22-IBM-RELEASES-SECOND-QUARTER-RESULTS?asPDF=1",
+      "domain": "newsroom.ibm.com"
+    },
+    {
+      "title": "IBM (IBM) Q2 2026 Summary | Quartr",
+      "url": "https://quartr.com/events/international-business-machines-corp-ibm-q2-2026_3PPXZLbu",
+      "domain": "quartr.com"
+    },
+    {
+      "title": "IBM RELEASES FIRST-QUARTER RESULTS",
+      "url": "https://newsroom.ibm.com/2026-04-22-IBM-RELEASES-FIRST-QUARTER-RESULTS",
+      "domain": "newsroom.ibm.com"
+    },
+    {
+      "title": "Department of Commerce Announces Finalization of CHIPS R&D Award with Anderon | NIST",
+      "url": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-anderon",
+      "domain": "www.nist.gov"
+    },
+    {
+      "title": "IBM’s Anderon Gets $1 Billion To Build US Quantum Wafers",
+      "url": "https://quantumzeitgeist.com/quantum-wafer-ibms-anderon-1-billion/",
+      "domain": "quantumzeitgeist.com"
+    },
+    {
+      "title": "Anderon, an IBM Company, Finalizes Agreement with the U.S. Department of Commerce for a $1 Billion CHIPS Award to Accelerate R&D for U.S.-Based Pure-Play Quantum Foundry",
+      "url": "https://newsroom.ibm.com/2026-09-16-anderon,-an-ibm-company,-finalizes-agreement-with-the-u-s-department-of-commerce-for-a-1-billion-chips-award-to-accelerate-r-d-for-u-s-based-pure-play-quantum-foundry",
+      "domain": "newsroom.ibm.com"
+    },
+    {
+      "title": "IBM's Anderon locks in $1 billion CHIPS Act quantum foundry deal",
+      "url": "https://qz.com/ibm-anderon-quantum-foundry-chips-act-billion-091726",
+      "domain": "qz.com"
+    },
+    {
+      "title": "IBM lays out clear path to fault-tolerant quantum computing | IBM Quantum Computing Blog",
+      "url": "https://www.ibm.com/quantum/blog/large-scale-ftqc",
+      "domain": "www.ibm.com"
+    },
+    {
+      "title": "IBM Lays Out Roadmap for Fault-Tolerant Quantum Computer by 2029",
+      "url": "https://blog.tmcnet.com/blog/rich-tehrani/technology/ibm-lays-out-roadmap-for-fault-tolerant-quantum-computer-by-2029.html",
+      "domain": "blog.tmcnet.com"
+    },
+    {
+      "title": "IBM Connects Its First Modular Cryogenic Systems in Milestone Toward Fault-Tolerant Quantum Computing",
+      "url": "https://newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing",
+      "domain": "newsroom.ibm.com"
+    },
+    {
+      "title": "IBM stock gains as analysts hold Moderate Buy stance",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ibm-stock-gains-as-analysts-hold-moderate-buy-stance/70105294",
+      "domain": "www.ad-hoc-news.de"
+    },
+    {
+      "title": "International Business Machines (NYSE:IBM) - Stock Analysis - Simply Wall St",
+      "url": "https://simplywall.st/stocks/us/software/nyse-ibm/international-business-machines",
+      "domain": "simplywall.st"
+    },
+    {
+      "title": "IBM Raises Its FCF Outlook for 2025 - IBM Stock Could be Undervalued",
+      "url": "https://finance.yahoo.com/news/ibm-raises-fcf-outlook-2025-130002057.html",
+      "domain": "finance.yahoo.com"
+    }
+  ],
+  "generated_at_utc": "2026-09-20 06:55:45.830641+00:00",
+  "prediction_based_investment_rating": {
+    "most_reasonable_investment_thesis_scenario": "IBM's case has narrowed to one question: is the annuity real? The evidence says largely yes — 80% recurring software, $24.6bn ARR growing 8%, a dividend unbroken since 1916 — while the violence sits in a mainframe cycle that borrowed Q2 from Q1 and a consulting book that has stopped growing [9][3]. The 2026 de-rating from roughly $330 to $230 priced the disappointment thoroughly but left the annuity underpaid. Base case: mid-single-digit revenue growth, high-single-digit EPS compounding, a broadly flat multiple, and total return led by cash distribution rather than re-rating.\n- TTM free cash flow of $13.6bn on a $219bn market cap yields 6.2%, comfortably funding a 2.9% dividend.\n- Holding roughly 19-20x earnings while EPS compounds mid-to-high single digits supports about 40% price appreciation by 2031.\n- That implies near $306bn market capitalisation on roughly $85bn revenue — 3.6x sales, below software-heavy peer multiples.",
+    "bull_case_scenario": "The bull case activates when Q3 and Q4 2026 prove the mainframe decline was arithmetic, not autopsy. Normalised Z comparisons restore infrastructure growth and drag high-margin transaction-processing software with them; software holds the guided 6-8% range; free cash flow delivers the promised increase. That combination rebuilds credibility just as policy rates ease from 2028, lifting the multiple on long-duration cash flows. Add early Starling-era quantum contracts and the market re-rates IBM from value trap to compounder.",
+    "bear_case_scenario": "The bear case activates if the 42% Z collapse proves secular rather than cyclical. Losing mainframe revenue also strips the attached transaction-processing software, so group margins deteriorate precisely as $62bn of debt refinances at 5%-plus coupons. Acquisition goodwill from the $10.5bn 2026 spend then faces impairment, capital returns are squeezed to protect the dividend, and quantum capex reads as value destruction. The shares compress toward low-teens earnings multiples and stay there.",
+    "thesis_watchpoints": "- Software ARR sustaining 8%+ growth with 80% recurring mix through Q4 2026 confirms the annuity thesis survives hardware noise.\n- Half-year free cash flow flat at $4.8bn against a promised $1bn annual increase; a missed Q4 catch-up breaks the valuation floor.\n- If Z revenue declines again in Q3 and Q4 2026, reclassify the mainframe as structural decline, not cycle.",
+    "broader_narrative_signals": {
+      "today_crowd_consensus_narrative": "The tape says \"value trap with a dividend.\" After a 30% year-to-date drawdown to July and a 12-month total return of -11.1% against the S&P 500's +16.3% [3][2], the crowd has concluded IBM's AI narrative was a mainframe pull-forward in disguise. The anchoring bias is the July guidance cut. Consensus labels disguise dispersion: targets span $174 to $350 [1], Baird neutral at $230 against BofA at $330 [4].",
+      "alpha_gap_assessment": "The crowd modestly underestimates these shares. The evidence chain: Q1 Z revenue +51%, Q2 Z -42%, management conceding pull-forward [5][3] — yet the de-rating punished the entire enterprise, including an $24.6bn ARR software annuity growing 8% with 80% recurring revenue [9]. The blind spot is treating a hardware timing artifact as a structural verdict. At 20.4x trailing earnings and a 6.2% free-cash-flow yield, the price embeds near-zero credit for mainframe normalisation and none whatsoever for state-financed quantum. Offsetting that: flat first-half cash flow and $62bn of debt justify part of the discount.",
+      "the_convergence_catalyst": "Q3 2026 results in late October are the first hard test: a Z decline that moderates rather than deepens, plus reiteration of the 4-5% constant-currency guide, invalidates the secular-decline reading. The first observable sign of repricing is infrastructure revenue turning less negative alongside software holding the 6-8% guided range.",
+      "macro_regime_alignment": "The macro wind is in IBM's face through two channels. A 5.0% ten-year Treasury discounts long-duration annuity cash flows harshly and reprices $62bn of gross debt at each refinancing. Against that, resilient US enterprise spending and 4.1% unemployment protect renewal volumes. The thesis is highly sensitive to the rate path: policy easing toward 2029 is the single largest external re-rating lever."
+    },
+    "sentiment_and_regime_signals": {
+      "greed_and_fear_sentiment": -0.32,
+      "expected_volatility_regime": "moderate",
+      "convergence_cycle_position": "reversal"
+    },
+    "financial_review_fields": {
+      "earnings_and_financials_trend_assessment": "The headline story is acceleration reversed. FY2025 delivered revenue of $67.5bn (+7.6%) and net income of $10.59bn, a genuine inflection; then Q1 2026 printed +9.5% growth flattered by a 51% mainframe surge, and Q2 collapsed to +1.1% as Z fell 42% [5][3]. Management conceded customers had bought ahead of price increases, and cut the constant-currency guide from over 5% to 4-5% [3][7].\n\nWhat the headline conceals matters more. Software at $7.8bn grew 5% with 80% recurring revenue and $24.6bn ARR [9]; consulting was flat. Half-year free cash flow of $4.8bn was flat year-on-year, meaning Q2 surrendered Q1's decade-best gain and the promised roughly $1bn annual increase now requires an exceptionally back-loaded fourth quarter.",
+      "capex_and_investment_intensity_trend_assessment": "IBM has migrated its investment from concrete to code and cheques. Capex consumed just 1.62% of revenue in 2025, down from above 5% across 2015-2019, while R&D reached $8.32bn (+11.2%) and 2026 acquisition spending hit $10.5bn including Confluent [9][12]. Depreciation of $5.02bn now exceeds physical reinvestment by a wide margin, which flatters near-term free cash flow.\n\nThe priority this reveals is explicit: buy growth, don't build it. Against a net buyback yield of 0.48%, that choice transfers value to sellers of acquired companies rather than to remaining shareholders. The exception is quantum, where $1bn of IBM capital sits alongside a $1bn CHIPS award for the Anderon foundry [14][16] — a genuine long-payback industrial bet, part-financed by the state.",
+      "balance_sheet_strength_and_leverage_assessment": "The acquisition bill has arrived. Q2 2026 closed with $8.2bn of cash, restricted cash and securities against $62.0bn of total debt [9] — roughly 3.8x TTM EBITDA of $16.2bn — after $10.5bn was deployed on deals. Debt-to-equity of 2.06 and a current ratio of 0.93 leave little working-capital cushion, though the financing segment legitimately inflates gross debt relative to an industrial comparison.\n\nThe vulnerability headline figures conceal is refinancing arithmetic at a 5.0% ten-year yield, plus the large goodwill embedded in $152bn of assets against $32.6bn of equity. Resilience comes from $13.6bn of TTM free cash flow and interest coverage of 6.34x, which comfortably services a dividend costing roughly $6.4bn annually.",
+      "profitability_margins_trend_assessment": "The margin trajectory is the strongest evidence for the bull case. Gross margin reached 58.2% in 2025 from 48.3% in 2020, and operating margin expanded from 12.2% in 2023 to 18.5% [supplied annual metrics], driven by mix shift toward software and disciplined delivery automation rather than one-off cost programmes. Return on equity of 32.4% reflects both genuine profitability and a thin equity base.\n\nThe anomaly sits in the Q2 2026 detail: GAAP gross margin fell 100bps to 57.7% and GAAP pre-tax margin 90bps, while operating pre-tax margin rose 30bps [8]. That divergence is mainframe deleverage and acquisition amortisation, not underlying pricing failure — a distinction the market largely ignored during the de-rating."
+    }
+  },
+  "prediction_events": {
+    "drivers": [
+      {
+        "event_name": "The annuity hiding behind the hardware",
+        "category": "competitive_positioning",
+        "description": "Strip out the mainframe noise and an annuity remains: Q2 2026 software revenue of $7.8bn grew 5%, with 80% recurring and ARR of $24.6bn up 8% [9][10]. Red Hat, automation and Confluent attach to regulated, migration-resistant workloads, so renewals compound instead of churning. That mix keeps gross margin near 58% and converts reliably to cash; switching costs, not growth fashion, sustain it through the horizon.",
+        "expected_impact_pct_on_price": 20,
+        "expected_impact_pct_on_company_earnings": 26
+      },
+      {
+        "event_name": "Z cycle: payback becomes easy comparison",
+        "category": "innovation_and_product",
+        "description": "The evidence chain is unusually clean: Z grew 51% in Q1 2026, then fell 42% in Q2 as buyers pulled purchases forward ahead of price increases [5][3]. Pull-forward is arithmetic, not decay. From 2027 the comparison base inverts, and AI inference co-located with transaction data gives the next generation a genuine workload rationale, restoring infrastructure growth and its high-margin transaction-processing software attach.",
+        "expected_impact_pct_on_price": 13,
+        "expected_impact_pct_on_company_earnings": 11
+      },
+      {
+        "event_name": "Margin expansion without capital intensity",
+        "category": "operational_efficiency",
+        "description": "Operating margin rose from 12.2% in 2023 to 18.5% in 2025 while capex consumed only 1.62% of revenue, and management still guides to roughly 100bps of operating pre-tax margin expansion in 2026 [10]. The mechanism is mix plus internal AI-driven automation of delivery and support functions. Because the gains are structural rather than one-off cost cuts, they should persist and lever modest revenue growth into faster EPS growth.",
+        "expected_impact_pct_on_price": 11,
+        "expected_impact_pct_on_company_earnings": 15
+      },
+      {
+        "event_name": "A 1916 dividend on a 6% cash yield",
+        "category": "capital_allocation",
+        "description": "TTM free cash flow of $13.6bn against a $219bn market capitalisation is a 6.2% cash yield, funding a dividend raised to $1.69 quarterly, the thirty-first consecutive annual increase and consecutive payments since 1916 [7][13]. Note the supplied 1.44% yield is a data artifact; the real figure is roughly 2.9% [22]. In a 4% policy-rate world this coverage anchors valuation and attracts income capital during drawdowns.",
+        "expected_impact_pct_on_price": 9,
+        "expected_impact_pct_on_company_earnings": 3
+      }
+    ],
+    "frictions": [
+      {
+        "event_name": "Sixty-two billion into a five percent curve",
+        "category": "macroeconomic_and_macrofinancial",
+        "description": "IBM closed Q2 2026 with $62.0bn total debt against $8.2bn of cash and securities [9], roughly four times TTM EBITDA of $16.2bn, while the US 10-year sits near 5.0% and the Fed has tightened to 3.75%-4.00%. Each refinancing tranche resets coupons upward, and a higher risk-free rate mechanically compresses the multiple investors pay for a long-duration, slow-growth cash-flow stream. This drag persists until policy rates fall.",
+        "expected_impact_pct_on_price": -13,
+        "expected_impact_pct_on_company_earnings": -7
+      },
+      {
+        "event_name": "Agentic AI deflates the billable hour",
+        "category": "competitive_positioning",
+        "description": "Consulting revenue of $5.3bn was flat in Q2 2026, up only 1% at constant currency [9], and that is the number that should worry holders. Generative and agentic tooling compresses the labour arbitrage that underpins systems-integration pricing; clients demand outcome-based contracts as delivery hours fall. Roughly a third of revenue therefore faces structural price deflation, capping group growth even when software performs.",
+        "expected_impact_pct_on_price": -11,
+        "expected_impact_pct_on_company_earnings": -9
+      },
+      {
+        "event_name": "Hyperscaler gravity on the AI stack",
+        "category": "sector_and_industry",
+        "description": "The AI capital cycle is concentrating economics in Nvidia silicon and the three hyperscale clouds; IBM's watsonx and OpenShift participate but do not set terms. Enterprise AI budgets flow first to Azure, AWS and Google, leaving IBM as an integration layer earning thinner economics on someone else's platform. That structural position, visible in 1% group revenue growth in Q2 2026 [8], limits how much of the AI boom reaches IBM's earnings.",
+        "expected_impact_pct_on_price": -11,
+        "expected_impact_pct_on_company_earnings": -8
+      },
+      {
+        "event_name": "Growth bought, not earned per share",
+        "category": "capital_allocation",
+        "description": "IBM deployed $10.5bn on acquisitions in 2026 including Confluent [9][12], while net buyback yield was only 0.48% and share count barely moved. Revenue and earnings arrive, but the residual claimant pays full private-market prices and absorbs goodwill and integration risk. The pattern is persistent: acquisition-funded growth has substituted for organic expansion for a decade, leaking value between the income statement and per-share economics.",
+        "expected_impact_pct_on_price": -9,
+        "expected_impact_pct_on_company_earnings": 5
+      }
+    ],
+    "tail_opportunities": [
+      {
+        "event_name": "Quantum stops costing and starts earning",
+        "category": "tail_opportunity",
+        "description": "Anderon, IBM's quantum foundry subsidiary, finalised a $1bn CHIPS R&D award on 16 September 2026, supplemented by $1bn of IBM capital, with first wafers already running [14][16]. The roadmap is falsifiable: Starling demonstrating magic-state injection in 2028 and scaling to 200 logical qubits in 2029 [18]. Should 2029-2030 deliver commercially contracted fault-tolerant workloads in pharma, materials or cryptanalysis, sum-of-parts models would assign the unit real value. It stays below 50% because physics timelines slip and the market currently prices quantum as capital consumption, marking IBM down 3.3% on award day [17].",
+        "probability_pct": 30,
+        "upside_impact_pct": 45
+      },
+      {
+        "event_name": "Kyndryl 2.0: cutting the anchor loose",
+        "category": "tail_opportunity",
+        "description": "IBM has separated a structurally challenged business before. If consulting growth remains flat through 2027-2028 while software compounds near 8%, the board faces an obvious arbitrage: a software-and-infrastructure IBM would command a materially higher multiple than a conglomerate diluted by deflating services. A 2028-2029 spin or sale, accompanied by restored buybacks, would re-rate the remaining equity on both mix and per-share arithmetic. Probability stays modest because Krishna's stated strategy is portfolio integration across software, infrastructure and consulting [7], and management has shown no separation intent.",
+        "probability_pct": 22,
+        "upside_impact_pct": 28
+      }
+    ],
+    "tail_risks": [
+      {
+        "event_name": "Mainframe decline turns out structural",
+        "category": "tail_risk",
+        "description": "The 42% Q2 2026 Z collapse is attributed to pull-forward [3], but that explanation is management's, not demonstrated. If 2027-2028 refresh cycles come in materially below prior generations because AI-era workloads migrate to cloud-native transaction platforms, IBM loses both hardware revenue and the attached high-margin transaction-processing software. That combination would cut group operating income sharply and force a de-rating toward low-teens earnings multiples. It remains below 50% because regulated core-banking and payments workloads have resisted migration for three decades.",
+        "probability_pct": 28,
+        "downside_impact_pct": -30
+      },
+      {
+        "event_name": "Goodwill meets the refinancing wall",
+        "category": "tail_risk",
+        "description": "Should acquisitions made at 2025-2026 private-market prices underdeliver while rates stay near current levels through 2028, IBM faces simultaneous impairment charges and higher refinancing coupons on a $62bn debt stack [9]. Equity of $32.6bn against $152bn of assets leaves limited absorption capacity, and a downgrade would raise funding costs further. The dividend would likely survive, but growth investment and any buyback would not, removing the valuation floor. Probability is contained by robust $13.6bn TTM free cash flow and 6.3x interest coverage.",
+        "probability_pct": 20,
+        "downside_impact_pct": -26
+      }
+    ]
+  },
+  "timeseries_compounded_return_percent_checkpoints": [
+    {
+      "forecast_quarter": "2027 Q3",
+      "derived_compounded_return_percent_from_steps": "10.4%"
+    },
+    {
+      "forecast_quarter": "2028 Q3",
+      "derived_compounded_return_percent_from_steps": "11.3%"
+    },
+    {
+      "forecast_quarter": "2029 Q3",
+      "derived_compounded_return_percent_from_steps": "22.9%"
+    },
+    {
+      "forecast_quarter": "2030 Q3",
+      "derived_compounded_return_percent_from_steps": "29.0%"
+    },
+    {
+      "forecast_quarter": "2031 Q3",
+      "derived_compounded_return_percent_from_steps": "39.6%"
+    }
+  ],
+  "timeseries": [
+    {
+      "date": "2026-12-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Q3 results in late October become the first hard test. Expectations sit low after the guidance cut to 4-5% constant currency, leaving room for relief as Z comparisons moderate and year-end software renewals close strongly."
+    },
+    {
+      "date": "2027-03-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "January's Q4 print must deliver the back-loaded free-cash-flow promise of roughly $1bn growth. Delivery plus an FY27 guide anchored on software confirms the annuity, though a near-5% Treasury still caps how far the multiple can expand."
+    },
+    {
+      "date": "2027-06-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "Spring stalls. Consulting bookings remain the weak link as clients reroute budgets toward hyperscaler AI stacks, while Cockatoo-generation quantum milestones read in investor models as capital consumption rather than as any near-term revenue claim."
+    },
+    {
+      "date": "2027-09-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Anticipation of the next mainframe generation builds and easier infrastructure comparisons lift reported growth. Fed policy plateaus as headline inflation recedes from 3.4%, easing the discount rate applied to IBM's long-duration annuity cash flows."
+    },
+    {
+      "date": "2027-12-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Year-end software renewals and a thirty-third consecutive dividend increase support the floor. Gains stay modest because per-share growth continues leaking into acquisition spending rather than buybacks, limiting how far the earnings multiple can re-rate."
+    },
+    {
+      "date": "2028-03-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "FY28 guidance likely reiterates mid-single-digit revenue growth with continued operating margin expansion. Credible but unexciting: the market pays for durability, not acceleration, so shares grind higher with earnings instead of re-rating."
+    },
+    {
+      "date": "2028-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "A new Z generation ships, restoring infrastructure growth and its transaction-processing software attach. Starling's magic-state-injection demonstration lands as a tangible technical proof point, though still without any measurable revenue contribution to model."
+    },
+    {
+      "date": "2028-09-18",
+      "predicted_most_reasonable_pct_change": -4.0,
+      "scenario_rationale": "US election-year policy uncertainty, scrutiny of CHIPS awards including the federal minority equity stake in Anderon, and a cyclical pause in enterprise IT budgets combine to compress the multiple on a slow-growth incumbent."
+    },
+    {
+      "date": "2028-12-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Post-election policy clarity restores federal and regulated-industry spending. Mainframe revenue peaks seasonally into the fourth quarter, free cash flow comfortably covers the dividend, and income-oriented buyers return to a visibly cheap cash yield."
+    },
+    {
+      "date": "2029-03-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Starling's scaling year begins, with 200 logical qubits and 100 million gates the stated milestone. Credible progress converts quantum from a cost line into a valued option within sum-of-parts valuation frameworks."
+    },
+    {
+      "date": "2029-06-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "Consolidation quarter. Hardware comparisons turn difficult again after the cycle peak, and consulting pricing stays under pressure as agentic automation deflates billable hours across the systems-integration industry, limiting group upside."
+    },
+    {
+      "date": "2029-09-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Software compounds off a higher ARR base with steady renewal economics intact. Lower policy rates, assuming inflation has settled nearer target by now, modestly lift the present value of IBM's long-dated annuity cash flows."
+    },
+    {
+      "date": "2029-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Year-end close plus an extended record of dividend increases attracts defensive demand. Debt refinanced at coupons below the 2026-2027 vintage relieves interest expense, feeding directly through to earnings per share growth."
+    },
+    {
+      "date": "2030-03-18",
+      "predicted_most_reasonable_pct_change": -3.0,
+      "scenario_rationale": "A pause after three years of steady compounding. Expectations now embed meaningful quantum optimism; a slipped roadmap date or a soft FY30 guide triggers a routine de-rating in a structurally low-growth name."
+    },
+    {
+      "date": "2030-06-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Recovery as fundamentals reassert themselves. Fault-tolerant quantum services begin generating early commercial contracts through the Anderon foundry and cloud access, supplying the first genuine revenue evidence rather than further roadmap promises."
+    },
+    {
+      "date": "2030-09-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Steady state reached: mid-single-digit revenue growth, expanding operating margin, and free cash flow approaching $17bn. The multiple holds near twenty times as capital returns rather than growth carry the total return."
+    },
+    {
+      "date": "2030-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "The next mainframe generation plus AI-inference-on-Z positioning lift infrastructure again. Enterprise repatriation of sensitive AI workloads to on-premises hardware becomes a visible, measurable tailwind for IBM's regulated installed base."
+    },
+    {
+      "date": "2031-03-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "Guidance maturity. Growth settles into a predictable band and the stock behaves like a bond proxy carrying an equity call option on quantum, advancing with earnings but attracting no further multiple expansion."
+    },
+    {
+      "date": "2031-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Blue Jay-era development spending intensifies ahead of the 2033 target, testing investor patience on returns. Offsetting this, compounding software ARR and buyback capacity restored after the acquisition wave support the shares."
+    },
+    {
+      "date": "2031-09-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Horizon close. IBM ends the period as a cash-generative, modestly growing incumbent delivering roughly 40% cumulative price appreciation plus dividends, with quantum commercialisation still the largest genuinely unpriced variable in the equity."
+    }
+  ]
+}

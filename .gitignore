@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+*.aux
+*.log
+*.out
+*.synctex.gz
+/data/history/*prices.csv
+/data/history/bigquery_daily_closes.csv

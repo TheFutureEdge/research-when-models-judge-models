@@ -1,0 +1,11 @@
+{
+  "slug": "visa",
+  "subject_id": "equity_013d2cbc-1a8a-5434-a2ad-8d6d943eb036",
+  "symbol": "V.NYSE",
+  "name": "Visa Inc.",
+  "cohort": "directionally_consistent",
+  "cohort_rank": 2,
+  "selection_market_cap_usd_billions": 676.04,
+  "source_preview_run": "batch7_v7_new14_exact2_gemini38_20260920",
+  "baseline_run_id": "batch7_v7_new14_prod2_gemini38_20260920"
+}

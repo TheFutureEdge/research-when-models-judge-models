@@ -1,0 +1,362 @@
+{
+  "opinion_id": "opinion_73d199f86140bff127121f8d",
+  "investment_framework": "universal_investor__the_polymath__standard_1",
+  "forecast_anchor": {
+    "price": 183.12,
+    "timestamp": "2026-09-18 00:00:00+00:00"
+  },
+  "research_sources": [
+    {
+      "title": "SAP's 2026 cloud forecasts disappoint, shares endure biggest daily loss since 2020",
+      "url": "https://finance.yahoo.com/news/sap-meets-q4-revenue-forecasts-051512891.html",
+      "domain": "finance.yahoo.com"
+    },
+    {
+      "title": "SAP Stock Price Hits 23-month Low",
+      "url": "https://tradingeconomics.com/sap:gr/news/522928",
+      "domain": "tradingeconomics.com"
+    },
+    {
+      "title": "SAP SE Stock Forecast | Tariffs, Q1 Results | Capital.com",
+      "url": "https://capital.com/en-int/market-updates/sap-se-stock-forecast-10-04-2026",
+      "domain": "capital.com"
+    },
+    {
+      "title": "Is SAP Stock a Buy After the 2026 Selloff and Profit Outlook Cut?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sap-stock-buy-2026-selloff-154100641.html",
+      "domain": "finance.yahoo.com"
+    },
+    {
+      "title": "SAP Q2 2026 Earnings Show Cloud Strength Amid Trim | InsiderFinance",
+      "url": "https://www.insiderfinance.io/news/sap-q2-2026-earnings-show-cloud-strength-amid-trim",
+      "domain": "www.insiderfinance.io"
+    },
+    {
+      "title": "SAP Q2 Earnings: Cloud Backlog €22.9B, Up 27% | SAP Stock News",
+      "url": "https://www.stocktitan.net/news/SAP/sap-quarterly-statement-q2-mu9r28yruw3r.html",
+      "domain": "www.stocktitan.net"
+    },
+    {
+      "title": "SAP Q2 2026 slides: cloud backlog surges 27% amid margin pressure By Investing.com",
+      "url": "https://www.investing.com/news/company-news/sap-q2-2026-slides-cloud-backlog-surges-27-amid-margin-pressure-93CH-4810220",
+      "domain": "www.investing.com"
+    },
+    {
+      "title": "SAP SE - Form 6-K - FY2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001000184/000110465926087251/tm2621275d1_ex99-1.htm",
+      "domain": "www.sec.gov"
+    },
+    {
+      "title": "SAP Q2 Earnings Up Y/Y on Cloud Demand, Buyouts Impact Profit Outlook",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sap-q2-earnings-y-y-145900862.html",
+      "domain": "finance.yahoo.com"
+    },
+    {
+      "title": "Recent Results | SAP Investor Relations",
+      "url": "https://www.sap.com/investors/en/financial-documents-and-events/recent-results.html",
+      "domain": "www.sap.com"
+    },
+    {
+      "title": "SAP Q2 Cloud Revenue Surges 24%, Tops Estimates; Full-Year Profit Outlook Raised as AI Contribution Remains \"Negligible\" — BigGo Finance",
+      "url": "https://finance.biggo.com/news/e9b3b079-72d3-4e0f-9639-f6e1b79c36d9",
+      "domain": "finance.biggo.com"
+    },
+    {
+      "title": "Quarterly Statement Q1 2026 1/17",
+      "url": "https://www.sap.com/docs/download/investors/2026/sap-2026-q1-statement.pdf",
+      "domain": "www.sap.com"
+    },
+    {
+      "title": "European Commission - Press release",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1554/IP_26_1554_EN.pdf",
+      "domain": "ec.europa.eu"
+    },
+    {
+      "title": "EU Makes SAP Antitrust Commitments Binding in ERP Support Case | PYMNTS.com",
+      "url": "https://www.pymnts.com/cpi-posts/eu-makes-sap-antitrust-commitments-binding-in-erp-support-case/",
+      "domain": "www.pymnts.com"
+    },
+    {
+      "title": "EU Binds SAP to Decade of ERP Aftermarket Reforms in Landmark Antitrust Deal",
+      "url": "https://www.techtimes.com/articles/320110/20260710/eu-binds-sap-decade-erp-aftermarket-reforms-landmark-antitrust-deal.htm",
+      "domain": "www.techtimes.com"
+    },
+    {
+      "title": "SAP On-Premise Antitrust Settlement: What the EU Ruling Means for Customers",
+      "url": "https://upperedge.com/sap/the-eu-just-handed-sap-on-premise-customers-a-win-heres-what-it-actually-means-for-sap-customers/",
+      "domain": "upperedge.com"
+    },
+    {
+      "title": "SAP Welcomes European Commission Decision Concluding the Investigation Into On-Premise Maintenance and Support Policies | SAP News Center",
+      "url": "https://news.sap.com/2026/07/sap-welcomes-european-commission-decision-concluding-investigation-on-premise-maintenance-support-policies/",
+      "domain": "news.sap.com"
+    },
+    {
+      "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026 | Microsoft Azure Blog",
+      "url": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
+      "domain": "azure.microsoft.com"
+    },
+    {
+      "title": "Atos receives SAP Sovereign Cloud Partner designation, reinforcing its Digital Sovereignty strategy",
+      "url": "https://www.globenewswire.com/news-release/2026/09/16/3362917/0/en/atos-receives-sap-sovereign-cloud-partner-designation-reinforcing-its-digital-sovereignty-strategy.html",
+      "domain": "www.globenewswire.com"
+    },
+    {
+      "title": "Christian Klein’s Sovereignty Strategy Comes to Life with SAP’s EU AI Cloud - Cloud Wars",
+      "url": "https://cloudwars.com/ai/christian-kleins-sovereignty-strategy-comes-to-life-with-saps-eu-ai-cloud/",
+      "domain": "cloudwars.com"
+    },
+    {
+      "title": "SAP Stock Is Down 27% YTD. SAP Stock Forecast: What €223 Fair Value by 2027 Could Mean",
+      "url": "https://www.tikr.com/blog/sap-stock-is-down-27-ytd-sap-stock-forecast-what-e223-fair-value-by-2027-could-mean",
+      "domain": "www.tikr.com"
+    },
+    {
+      "title": "SAP Stock Is Down 38% in 6 Months. Here’s What Could Drive 18% Annual Returns | TIKR.com",
+      "url": "https://www.tikr.com/blog/sap-stock-is-down-38-in-6-months-heres-what-could-drive-18-annual-returns",
+      "domain": "www.tikr.com"
+    }
+  ],
+  "generated_at_utc": "2026-09-20 06:54:19.127546+00:00",
+  "prediction_based_investment_rating": {
+    "most_reasonable_investment_thesis_scenario": "The central tension is straightforward: SAP's cloud engine compounds while its most profitable legacy annuity melts, and July's antitrust settlement quietly removed the whip meant to drive customers across the gap. In the base case migration continues, but slower and less coercive than the 2025 narrative assumed. Backlog converts, most of the promised 2027 operating leverage arrives, and a roughly EUR 10bn free-cash base compounds at low double digits. The multiple repairs only partially, because rates stay elevated and agentic AI keeps terminal-value questions open. Investors earn business performance plus buybacks, not a re-rating windfall.\n- FY2026 free cash flow guided near EUR 10bn against roughly EUR 212bn market capitalisation is a 4.7% yield.\n- Holding that yield while free cash flow compounds near 11% annually supports approximately EUR 295 per share by 2031.\n- Cross-check: 1.16bn shares shrinking about 1.5% yearly; EUR 16-17bn free cash flow at 21x implies roughly EUR 350bn equity.",
+    "bull_case_scenario": "The bull case activates when the January 2027 guidance proves management's operating-leverage promise is arithmetic rather than aspiration. Confirmed opex growth at 80% of revenue growth restores credibility, which pulls the forward multiple back toward the mid-twenties; that re-rating coincides with Dremio and Prior Labs dilution annualising out and the EUR 2bn Joule efficiency run-rate reaching the P&L. Backlog conversion then compounds against a shrinking share count, and SAP returns toward European large-cap leadership with high-teens annualised total returns.",
+    "bear_case_scenario": "The bear case activates if ECC customers, freed by the binding antitrust commitments, simply stay put while European industrial budgets tighten under a persistent energy shock. Slower conversion depresses backlog growth below twenty percent, a second consecutive January guide-down destroys the credibility premium, and accelerating support decay hollows out the highest-margin revenue before cloud gross margin scales. Rate-driven multiple compression then compounds the earnings miss, leaving the shares range-bound near the 2026 lows and the compounder narrative broken.",
+    "thesis_watchpoints": "- Supports: current cloud backlog sustaining at least 22% constant-currency growth across the January 2027 and April 2027 quarterly statements.\n- Weakens: non-IFRS operating margin failing to expand in FY2027 despite the stated 80-90% opex-to-revenue-growth commitment; verify late January 2028.\n- Reassess: software support revenue decline steepening beyond 12% annually by 2028, signalling ECC customers exiting rather than migrating.",
+    "broader_narrative_signals": {
+      "today_crowd_consensus_narrative": "The crowd treats SAP as the migration trade that already happened and is now simply cheap. After January's 15% single-day collapse [1] and the March low of EUR 158.90 [2], the settled belief is that 18.7x forward earnings [4] under-prices a backlog compounding at 27% [6]. The anchoring bias: investors read contracted backlog as destiny, assuming conversion is mechanical rather than negotiated.",
+      "alpha_gap_assessment": "The crowd modestly underestimates these shares, but for a subtler reason than 'cheap software'. It has not repriced the July 9 antitrust settlement [13], which stripped away the coercion that was supposed to herd ECC customers to cloud before 2027 [16] — a genuine negative the bulls ignore. Against that, FY2026 free cash flow guided near EUR 10bn [8] on roughly EUR 212bn of market value, with management buying stock at EUR 161.16 [12], is a defensible 4.7% yield. Net: underpriced, not deeply.",
+      "the_convergence_catalyst": "The catalyst is the late-January 2027 FY2026 release carrying first formal 2027 guidance — the direct test of the 80-90% opex-to-revenue-growth commitment [8]. It changes expectations because it converts a promise into a number. First observable sign of repricing: constant-currency backlog growth holding above 22% alongside guided operating profit above EUR 13.5bn.",
+      "macro_regime_alignment": "The macro wind is in SAP's face through two channels. Higher terminal discount rates — Fed at 3.75-4.00%, ECB at 2.50%, US 10-year near 5% — compress the multiple on distant subscription cash flows, while Brent above $100 and euro-area inflation at 3.2% squeeze the IT budgets of SAP's manufacturing-heavy European installed base. The thesis is highly regime-sensitive on valuation, only moderately on revenue."
+    },
+    "sentiment_and_regime_signals": {
+      "greed_and_fear_sentiment": -0.15,
+      "expected_volatility_regime": "moderate",
+      "convergence_cycle_position": "stabilization"
+    },
+    "financial_review_fields": {
+      "earnings_and_financials_trend_assessment": "The headline improvement conceals more than it reveals. FY2025 (year ended 31 December 2025) showed IFRS operating income up 106% and net income up 129% on revenue growth of only 7.7% — almost entirely the 2024 restructuring base washing out. Q2 2026 repeats the pattern: reported net income rose 28.5% while company-disclosed IFRS operating profit rose 8% and non-IFRS EPS just 6%, to EUR 1.59 [6][7].\n\nThe recurring engine is cleaner: cloud revenue EUR 6.3bn, up 22%, against licences down 32%. Cash is the honest scorecard — H1 2026 free cash flow of EUR 6.3bn, up 5%, against a full-year guide near EUR 10bn [8]. Anchor on cash, not on IFRS net income.",
+      "capex_and_investment_intensity_trend_assessment": "SAP is capital-light in the conventional sense — capex was 2.01% of revenue in FY2025 — but investment-heavy where it counts. Real reinvestment runs through R&D of EUR 6.63bn in FY2025, rising to 18.7% of revenue in Q2 2026 [7], and through acquisitions: Reltio closed in May, Dremio and Prior Labs in July, the latter two loss-making and cutting more than EUR 100m from 2026 operating profit [9].\n\nThat reveals priorities clearly: management is buying AI and data-platform capability rather than building datacentres, accepting near-term dilution to defend the suite. The payback question is whether these assets reach the revenue line before the promised 2027 operating leverage is due — a direct conflict of commitments worth watching.",
+      "balance_sheet_strength_and_leverage_assessment": "The balance sheet is a source of options, not a constraint. FY2025 equity of EUR 44.8bn, debt-to-equity of 0.18 and interest coverage above 24x leave ample capacity; a EUR 3.5bn Eurobond issued in H1 2026 funded buybacks and acquisitions without stressing anything [6]. Total assets fell 5% in 2025 as distributions exceeded retained earnings — deliberate shrinkage, not impairment.\n\nTwo items headline leverage conceals: the quick ratio below 1.0 reflects large deferred cloud revenue, a customer-funded liability rather than distress, and share-based compensation plus ongoing M&A represent real claims on future cash that the 2.31% net buyback yield must first offset before per-share value accrues.",
+      "profitability_margins_trend_assessment": "Gross margin has been remarkably stable near 72-73% for a decade, which tells you the mix shift from licence to cloud has been managed, not endured. The dramatic FY2025 operating margin of 26.1% against 13.65% in FY2024 is a base effect from restructuring charges, not a structural step-change; the honest trend is the non-IFRS operating profit guide of EUR 11.8-12.2bn for 2026 [8].\n\nThe real signal is inside cloud: gross margin of 74.6% in Q2 2026, down from 75.2% [7], as sovereign-cloud build-out and AI inference costs bite. Structurally, losing high-margin support revenue while adding infrastructure-intensive cloud revenue means margin expansion must come from opex discipline, not from mix."
+    }
+  },
+  "prediction_events": {
+    "drivers": [
+      {
+        "event_name": "Backlog is tomorrow's revenue, contracted",
+        "category": "competitive_positioning",
+        "description": "Current cloud backlog reached EUR 22.9bn at 30 June 2026, up 27% (26% constant currency) [6] — roughly nine months of total group revenue already under contract. Cloud ERP Suite grew 27% cc to EUR 5.5bn, 88% of cloud revenue [5][7], so conversion mechanically lifts revenue and gross profit for several years regardless of new-logo momentum. The effect persists through the migration wave, then fades into renewal economics.",
+        "expected_impact_pct_on_price": 34,
+        "expected_impact_pct_on_company_earnings": 45
+      },
+      {
+        "event_name": "Opex growing slower than revenue",
+        "category": "operational_efficiency",
+        "description": "Management committed that 2027 total operating expenses grow at only 80-90% of total revenue growth [8], and targets a greater-than-EUR 2bn efficiency run-rate by end-2028 from over 110,000 internal Joule Work Desktop users [7]. With group gross margin at 72.9% in FY2025, each point of opex restraint drops almost directly into operating profit and free cash flow. Persistence depends on M&A discipline holding.",
+        "expected_impact_pct_on_price": 24,
+        "expected_impact_pct_on_company_earnings": 28
+      },
+      {
+        "event_name": "Buying its own shares in the panic",
+        "category": "capital_allocation",
+        "description": "SAP completed the first tranche of an up-to-EUR 10bn programme by 1 April 2026, repurchasing 16,280,097 shares at an average EUR 161.16 [12], with about EUR 2.6bn bought by 30 June [6]. A trailing net buyback yield of 2.31% plus dividends compounds per-share cash flow even with a flat multiple. Debt-to-equity of 0.18 and interest coverage above 24x make continuation credible through the horizon.",
+        "expected_impact_pct_on_price": 13,
+        "expected_impact_pct_on_company_earnings": 9
+      },
+      {
+        "event_name": "Sovereignty as a regulatory moat",
+        "category": "political_and_geopolitical",
+        "description": "European digital-sovereignty policy converts a compliance burden into defensible pricing power. RISE on SAP Sovereign Cloud running on Azure [18], the EU AI Cloud with Mistral, Cohere and OpenAI [20], and Atos's September 2026 Sovereign Cloud Partner designation [19] anchor regulated European workloads inside SAP's stack. US hyperscaler-native ERP challengers cannot easily replicate that jurisdictional position, protecting renewal pricing and backlog quality.",
+        "expected_impact_pct_on_price": 10,
+        "expected_impact_pct_on_company_earnings": 7
+      }
+    ],
+    "frictions": [
+      {
+        "event_name": "Discount-rate gravity on long-duration cash",
+        "category": "macroeconomic_and_macrofinancial",
+        "description": "The Fed moved to 3.75-4.00%, the ECB deposit rate to 2.50% effective 16 September, and the US 10-year sits near 5.0%. A business valued largely on cash flows a decade out is directly exposed to the terminal discount rate; SAP's slide to about 18.7x forward earnings [4] from a far richer 2025 multiple is substantially this channel. Rates normalise only partially, so multiple repair stays incremental.",
+        "expected_impact_pct_on_price": -14,
+        "expected_impact_pct_on_company_earnings": 0
+      },
+      {
+        "event_name": "The antitrust win that opens the exit",
+        "category": "regulatory",
+        "description": "On 9 July 2026 the Commission made SAP's aftermarket commitments legally binding worldwide for ten years, abolishing reinstatement fees and permitting third-party maintenance and partial support cancellation [13][15]. That removes a fine tail-risk, but also the financial coercion meant to push ECC customers to cloud before the 2027 support deadline [11][16]. Slower, voluntary conversion stretches the migration tail and caps the cloud growth rate investors capitalise.",
+        "expected_impact_pct_on_price": -14,
+        "expected_impact_pct_on_company_earnings": -11
+      },
+      {
+        "event_name": "The melting support annuity",
+        "category": "sector_and_industry",
+        "description": "Legacy revenue is eroding faster than most models assume: Q2 2026 licences fell 32% and software support 8% year over year, and management expects the support decline rate to accelerate in coming years [10]. Support is near-zero-incremental-cost revenue, so its erosion offsets a meaningful share of cloud gross-profit gains. That gap explains why total revenue grows about 9-11% while cloud grows 22-24%.",
+        "expected_impact_pct_on_price": -12,
+        "expected_impact_pct_on_company_earnings": -10
+      },
+      {
+        "event_name": "Agentic AI eats the seat",
+        "category": "innovation_and_product",
+        "description": "SAP's subscription economics still rest substantially on user-based pricing, and its own Joule deployment demonstrates the substitution: fewer humans per process. Analysts note AI products currently contribute negligibly to contract signings [11], so the pricing-model transition arrives as a cost before it arrives as revenue. R&D at 18.7% of Q2 revenue [7] funds the defence and suppresses margin while the transition runs.",
+        "expected_impact_pct_on_price": -10,
+        "expected_impact_pct_on_company_earnings": -7
+      }
+    ],
+    "tail_opportunities": [
+      {
+        "event_name": "2027 acceleration delivered, multiple repaired",
+        "category": "tail_opportunity",
+        "description": "The trigger is the late-January 2027 FY2026 print: cloud revenue landing at the upper EUR 26.2bn band with 2027 guidance showing operating profit growth above the revenue line, honouring the 80-90% opex commitment [8]. Credibility restored one year after the 15% single-day collapse [1] would pull the forward multiple from roughly 19x toward 25x, worth about thirty percent before earnings growth. It stays below fifty percent because guidance still assumes a Middle East de-escalation that has not occurred [10].",
+        "probability_pct": 35,
+        "upside_impact_pct": 30
+      },
+      {
+        "event_name": "AI agents become a disclosed revenue line",
+        "category": "tail_opportunity",
+        "description": "By 2028-2029 SAP separately discloses consumption-priced Business AI revenue compounding faster than the cloud base, converting the 'negligible signings contribution' criticism [11] into a measurable second S-curve. Triggers are the 400-plus autonomous suite agents shipping from late 2026 plus Dremio data-platform attach into non-SAP data estates [5][7]. That would reset terminal-growth assumptions and justify a premium multiple. Below fifty percent because incumbents historically monetise AI through quiet renewal uplift rather than a visible new line.",
+        "probability_pct": 25,
+        "upside_impact_pct": 34
+      }
+    ],
+    "tail_risks": [
+      {
+        "event_name": "January guidance shock, the sequel",
+        "category": "tail_risk",
+        "description": "If current cloud backlog growth at constant currency slips below twenty percent in the FY2026 or FY2027 statement, the market re-runs 29 January 2026, when the shares lost 15% in a single session [1]. The damage is to credibility, not arithmetic: a second consecutive guide-down converts SAP from compounder to show-me story and compresses the multiple toward the mid-teens. Below fifty percent because EUR 22.9bn of backlog [6] already underwrites much of 2027. Timing: January 2027 or January 2028.",
+        "probability_pct": 33,
+        "downside_impact_pct": -25
+      },
+      {
+        "event_name": "European demand freeze from the energy shock",
+        "category": "tail_risk",
+        "description": "Brent near $104 with Hormuz transit and the Saudi East-West pipeline disrupted threatens SAP's manufacturing-heavy European installed base, and the FY2026 outlook explicitly assumes a de-escalation that has not happened [10]. A 2027 euro-area recession would defer migration decisions, lengthen sales cycles and drag cloud growth toward the mid-teens, hitting both earnings and the multiple simultaneously. Probability stays under fifty percent because energy shocks mean-revert and most SAP revenue is already contracted. Timing: 2027.",
+        "probability_pct": 22,
+        "downside_impact_pct": -28
+      }
+    ]
+  },
+  "timeseries_compounded_return_percent_checkpoints": [
+    {
+      "forecast_quarter": "2027 Q3",
+      "derived_compounded_return_percent_from_steps": "7.0%"
+    },
+    {
+      "forecast_quarter": "2028 Q3",
+      "derived_compounded_return_percent_from_steps": "22.8%"
+    },
+    {
+      "forecast_quarter": "2029 Q3",
+      "derived_compounded_return_percent_from_steps": "32.8%"
+    },
+    {
+      "forecast_quarter": "2030 Q3",
+      "derived_compounded_return_percent_from_steps": "48.0%"
+    },
+    {
+      "forecast_quarter": "2031 Q3",
+      "derived_compounded_return_percent_from_steps": "63.3%"
+    }
+  ],
+  "timeseries": [
+    {
+      "date": "2026-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "The late-October Q3 print tests backlog momentum against Brent above $100 and euro-area inflation at 3.2%. Steady constant-currency cloud conversion plus continuing buyback execution deliver a modest recovery leg, not a re-rating."
+    },
+    {
+      "date": "2027-03-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "January FY2026 results carry the first formal 2027 guidance. Honouring the promised opex discipline at 80-90% of revenue growth removes the repeat-shock fear that crushed the shares twelve months earlier, restoring credibility."
+    },
+    {
+      "date": "2027-06-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Sapphire product cadence and early Business AI Platform consumption signings lift sentiment. With ECB tightening near its peak, the discount-rate drag on long-duration subscription cash flows eases, permitting gradual multiple repair."
+    },
+    {
+      "date": "2027-09-18",
+      "predicted_most_reasonable_pct_change": -3.0,
+      "scenario_rationale": "The on-premise support deadline passes without the expected conversion surge. Binding antitrust commitments let ECC holders stay put cheaply, while accelerating support-revenue decay trims reported total growth, prompting a mild de-rating."
+    },
+    {
+      "date": "2027-12-18",
+      "predicted_most_reasonable_pct_change": 5.0,
+      "scenario_rationale": "Second-half 2027 operating leverage becomes visible as Dremio and Prior Labs dilution annualises out. Non-IFRS margin expansion plus a larger buyback tranche re-rate the shares toward the sector average."
+    },
+    {
+      "date": "2028-03-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "FY2027 results confirm revenue acceleration alongside margin expansion. Post-energy-shock disinflation allows policy rates to drift lower, restoring the valuation investors will pay for predictable contracted subscription cash flows."
+    },
+    {
+      "date": "2028-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Consolidation follows the strong run. AI-native competitors take mid-market logos, capping enthusiasm, while SAP's sovereign-cloud designations secure regulated European accounts and underpin backlog quality at the enterprise tier."
+    },
+    {
+      "date": "2028-09-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "The EUR 2bn internal efficiency run-rate approaches its end-2028 target, evidencing that agentic AI cuts SAP's own cost base before it compresses customer seat pricing. Margins grind higher."
+    },
+    {
+      "date": "2028-12-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Cloud revenue approaching the mid-thirty-billions makes the recurring base dominant. Investors reward the completed mix shift with a higher free-cash multiple as legacy support drag becomes numerically immaterial."
+    },
+    {
+      "date": "2029-03-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "FY2028 results show cloud gross margin stabilised above 76% and the efficiency programme fully reflected in the profit line. Guidance credibility, broken in early 2026, is now demonstrably restored."
+    },
+    {
+      "date": "2029-06-18",
+      "predicted_most_reasonable_pct_change": -2.0,
+      "scenario_rationale": "Growth-rate normalisation bites: cloud decelerating toward the mid-teens triggers profit-taking, and competing AI infrastructure listings pull marginal European equity flows elsewhere, trimming the multiple modestly."
+    },
+    {
+      "date": "2029-09-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Buyback completion and a raised dividend shift the narrative from growth to capital return. Per-share cash flow rises faster than headline revenue on a steadily shrinking share count."
+    },
+    {
+      "date": "2029-12-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Renewal cycles on the earliest RISE contracts test pricing power. Successful multi-year uplift confirms the switching-cost moat survived the antitrust remedies, supporting another leg of multiple repair."
+    },
+    {
+      "date": "2030-03-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "FY2029 results show non-IFRS operating margin in the low thirties. Steady execution attracts quality-compounder capital rotating back into European large caps as rate volatility subsides."
+    },
+    {
+      "date": "2030-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Maturity trade-offs surface: incremental agentic automation reduces customer seat counts, offset by consumption-based AI pricing. Net revenue effect roughly neutral, so shares track earnings rather than re-rate further."
+    },
+    {
+      "date": "2030-09-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Macro conditions stabilise with policy rates normalised. SAP compounds free cash flow near double digits while the market pays a steady multiple; returns come from earnings, not enthusiasm."
+    },
+    {
+      "date": "2030-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Year-end 2031 guidance elevates data-platform and AI-agent revenue to a separately disclosed line, giving investors a fresh growth anchor once the ERP migration story is exhausted."
+    },
+    {
+      "date": "2031-03-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "FY2030 results confirm the post-migration steady state: high-seventies cloud gross margin, support decay largely spent, and free-cash conversion durably above a quarter of revenue."
+    },
+    {
+      "date": "2031-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Incremental gains as European enterprise IT budgets normalise. Competitive pressure from AI-native suites caps multiple expansion, leaving buybacks and mid-single-digit organic growth to drive the price."
+    },
+    {
+      "date": "2031-09-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "The horizon closes with SAP valued as a mature, cash-generative compounder: per-share free cash flow roughly seventy percent above the 2026 base, with the multiple broadly unchanged."
+    }
+  ]
+}

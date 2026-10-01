@@ -1,0 +1,58 @@
+[
+  {
+    "asset": "visa",
+    "expected_request_sha256": "64399a6af59092cadd10afb3d2c4e013be6d44c0e3ee9de9dd044e85e07f2dbc",
+    "computed_request_sha256": "64399a6af59092cadd10afb3d2c4e013be6d44c0e3ee9de9dd044e85e07f2dbc",
+    "hash_matches": true,
+    "request_recovered": true,
+    "source": "batch7_v7_new14_exact2_gemini38_20260920/requests_part_001.jsonl"
+  },
+  {
+    "asset": "ibm",
+    "expected_request_sha256": "b18f419640e71870f9bad6a8005fcd2a81a5cd8f8f713d8ff18492bb5e2ae4bf",
+    "computed_request_sha256": "b18f419640e71870f9bad6a8005fcd2a81a5cd8f8f713d8ff18492bb5e2ae4bf",
+    "hash_matches": true,
+    "request_recovered": true,
+    "source": "batch7_v7_new14_exact2_gemini38_20260920/requests_part_001.jsonl"
+  },
+  {
+    "asset": "nebius",
+    "expected_request_sha256": "bd1400ec5f852ba5488d789c1995fa66d43ee733191246ffc04d765b4c5167c5",
+    "computed_request_sha256": "bd1400ec5f852ba5488d789c1995fa66d43ee733191246ffc04d765b4c5167c5",
+    "hash_matches": true,
+    "request_recovered": true,
+    "source": "batch7_v7_new14_exact2_gemini38_20260920/requests_part_002.jsonl"
+  },
+  {
+    "asset": "kratos",
+    "expected_request_sha256": "ec2e04ade7c0ed5c780250df3fec6e4ba817b8746476758f4928b1cd8138d775",
+    "computed_request_sha256": "ec2e04ade7c0ed5c780250df3fec6e4ba817b8746476758f4928b1cd8138d775",
+    "hash_matches": true,
+    "request_recovered": true,
+    "source": "batch7_v7_new14_exact2_gemini38_20260920/requests_part_002.jsonl"
+  },
+  {
+    "asset": "moderna",
+    "expected_request_sha256": "647e08161fa793212334d8f75caddc61fbd27a1605a607e76b57604134b40251",
+    "computed_request_sha256": "647e08161fa793212334d8f75caddc61fbd27a1605a607e76b57604134b40251",
+    "hash_matches": true,
+    "request_recovered": true,
+    "source": "batch7_v7_new14_exact2_gemini38_20260920/requests_part_002.jsonl"
+  },
+  {
+    "asset": "sap",
+    "expected_request_sha256": "ac1fc8f5f2ca57c311abfd20d34bf1412dd2dfe238614c4cdcb99a7b76054cc7",
+    "computed_request_sha256": "ac1fc8f5f2ca57c311abfd20d34bf1412dd2dfe238614c4cdcb99a7b76054cc7",
+    "hash_matches": true,
+    "request_recovered": true,
+    "source": "batch7_v7_new14_exact2_gemini38_20260920/requests_part_003.jsonl"
+  },
+  {
+    "asset": "bitcoin",
+    "expected_request_sha256": "1230c409d211e3a17da593f6b80cce40c14fd89b6e5d20c630257233581df3c5",
+    "computed_request_sha256": "1230c409d211e3a17da593f6b80cce40c14fd89b6e5d20c630257233581df3c5",
+    "hash_matches": true,
+    "request_recovered": true,
+    "source": "showcase7_v7_gemini38_retry1_20260920/requests_part_001.jsonl"
+  }
+]

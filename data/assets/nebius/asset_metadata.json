@@ -1,0 +1,11 @@
+{
+  "slug": "nebius",
+  "subject_id": "equity_6f455cc1-fa98-5ef5-8e6e-dbabed0ea6a1",
+  "symbol": "NBIS.NASDAQ",
+  "name": "Nebius Group N.V.",
+  "cohort": "forecast_dispersed",
+  "cohort_rank": 3,
+  "selection_market_cap_usd_billions": 61.989,
+  "source_preview_run": "batch7_v7_new14_exact2_gemini38_20260920",
+  "baseline_run_id": "batch7_v7_new14_prod2_gemini38_20260920"
+}

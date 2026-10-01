@@ -1,0 +1,9 @@
+{
+  "source": "User-supplied iPulse_All_Seven_Asset_Charts.zip; identical files in supplied complete-paper ZIP",
+  "copied_without_changes": true,
+  "sha256": {
+    "historical_monthly_prices.csv": "958b962df04c1b49c2901f78d759e898a93fc35ad14abd225dd77d63a3b9cd54",
+    "history_provenance.json": "6731f34d7ee963a1292ef395bf9093628afb545e6dc6208354c6ff65634cb126"
+  },
+  "status": "Superseded monthly input retained for provenance; current charts use BigQuery daily/weekly history."
+}

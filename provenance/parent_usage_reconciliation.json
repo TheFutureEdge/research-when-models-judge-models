@@ -1,0 +1,24 @@
+{
+  "retrieved_date": "2026-10-01",
+  "scope": "Exact 5964 source tasks matched by SHA-256 to the archived closure ledger and 426 completed Batch 7 consensus rows matched by symbol.",
+  "source_tasks": 5964,
+  "source_generation_stages": 6390,
+  "consensus_stages": 426,
+  "total_generation_stages": 6816,
+  "all_source_response_ids_unique": true,
+  "all_14_recipes_present_per_parent_asset": true,
+  "omitted": "Failed or superseded attempts, preview consensus runs, and 49 extra research synthesis requests. This is a completed-release footprint, not an all-attempts bill.",
+  "source_status_export_sha256": "eca043dda2d72374288c0eb7b6cecb0e71dea7bb8b9e0d24dc038c9d61bc0fcb",
+  "consensus_status_export_sha256": "bc0bf93c539e85ed538781ef923182e212224b62d5e0d447b12f8b4a3fbcc975",
+  "usage_semantics": {
+    "gemini": "prompt + candidate + thought; cache is a subset of input",
+    "opus": "input includes input_tokens + cache_creation_input_tokens + cache_read_input_tokens; output includes thinking",
+    "astra": "input includes cache; output includes reasoning"
+  },
+  "documentation": [
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-caching",
+    "https://ai.google.dev/api/generate-content"
+  ],
+  "limits": "Provider-defined tokens, repeated/cached context and intermediate stages; not distinct research words, comparable compute units or evidence of quality.",
+  "all_consensus_run_ids_match_archived_closure": true
+}

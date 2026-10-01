@@ -1,0 +1,39 @@
+{
+  "checks": 1059,
+  "failed": [],
+  "n_source_opinions": 98,
+  "n_consensus": 56,
+  "n_comparisons": 42,
+  "normalization_counts": {
+    "gemini_3_8_flash": 18,
+    "gpt_6_astra": 0
+  },
+  "request_usage": {
+    "input_tokens": {
+      "astra": 4072549,
+      "gemini": 2163764
+    },
+    "output_tokens": {
+      "astra": 496597,
+      "gemini": 140376
+    },
+    "reasoning_tokens": {
+      "astra": 317893,
+      "gemini": 110203
+    },
+    "total_tokens": {
+      "astra": 4569146,
+      "gemini": 2414343
+    },
+    "cached_tokens": {
+      "astra": 803409,
+      "gemini": 92611
+    },
+    "query_count": {
+      "astra": 166,
+      "gemini": 2
+    }
+  },
+  "earliest_source": "2026-09-20 04:01:58.137940+00:00",
+  "latest_source": "2026-09-20 08:34:20.711160+00:00"
+}

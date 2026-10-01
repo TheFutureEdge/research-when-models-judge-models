@@ -1,0 +1,287 @@
+{
+  "opinion_id": "opinion_33d540c2a77f6dea437d6fb4",
+  "investment_framework": "universal_investor__the_polymath__standard_1",
+  "forecast_anchor": {
+    "price": 47.46,
+    "timestamp": "2026-09-18 00:00:00+00:00"
+  },
+  "research_sources": [
+    {
+      "title": "Kratos and GE Aerospace’s GEK800 Engine Receives U.S. Military Type Designation F143-ZZ-100 and EMD Contract Award for JASSM | Kratos Defense",
+      "url": "https://www.kratosdefense.com/newsroom/kratos-and-ge-aerospaces-gek800-engine-receives-u-s-military-type-designation-f143-zz-100-and-emd-contract-award-for-jassm",
+      "domain": "www.kratosdefense.com"
+    },
+    {
+      "title": "Newsroom | Kratos",
+      "url": "https://www.kratosdefense.com/newsroom?pager=2&utm_source=openai",
+      "domain": "www.kratosdefense.com"
+    },
+    {
+      "title": "Northrop Grumman to Rapidly Develop Marine Corps CCA with Kratos’ Valkyrie UAS | Kratos Defense",
+      "url": "https://www.kratosdefense.com/newsroom/northrop-grumman-to-rapidly-develop-marine-corps-cca-with-kratos-valkyrie-uas?utm_source=openai",
+      "domain": "www.kratosdefense.com"
+    },
+    {
+      "title": "Kratos Reports Second Quarter 2026 Financial Results | Kratos Defense",
+      "url": "https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results",
+      "domain": "www.kratosdefense.com"
+    },
+    {
+      "title": "U.S. Marine Corps Selects GA-ASI for MUX TACAIR Collaborative Combat Aircraft Program | General Atomics Aeronautical Systems Inc.",
+      "url": "https://www.ga-asi.com/us-marine-corps-selects-ga-asi-for-mux-tacair-collaborative-combat-aircraft-program",
+      "domain": "www.ga-asi.com"
+    },
+    {
+      "title": "Kratos Defense & Security Solutions (KTOS) Stock Forecast and Price Target 2026",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/KTOS/forecast/?utm_source=openai",
+      "domain": "www.marketbeat.com"
+    },
+    {
+      "title": "Federal Reserve Board - Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "domain": "www.federalreserve.gov"
+    }
+  ],
+  "generated_at_utc": "2026-09-20 08:33:15.224874+00:00",
+  "prediction_based_investment_rating": {
+    "most_reasonable_investment_thesis_scenario": "Kratos shareholders own a defense manufacturer, not the full economics of autonomous warfare. The base case assumes propulsion and hypersonics sustain expansion, limited Valkyrie production develops, and factory utilization improves without a blockbuster fleet award. Starting from management’s FY2026 revenue midpoint, sales compound at approximately 16% through FY2031. Yet recurring stock compensation, working capital and partner economics prevent revenue growth from flowing undiminished to each share. Multiple compression offsets much of the earnings improvement, producing roughly USD62 at the horizon: about 31% appreciation, or 5.6% annually, insufficient compensation for this execution risk.\n- Forecast FY2031 revenue of USD3.7 billion and 12% EBITDA margin after stock compensation imply USD444 million.\n- Applying 27 times that EBITDA produces approximately USD12.0 billion enterprise value, still a demanding industrial multiple.\n- Adding USD1.1 billion net cash and dividing by 210 million shares yields approximately USD62 per share.",
+    "bull_case_scenario": "Affordable mass becomes funded mass. Between 2027 and 2029, a sizable Valkyrie fleet commitment and successful propulsion qualification lift factory utilization together, while customer advances restrain working-capital absorption. In this scenario, FY2031 sales approach USD4.6 billion and EBITDA after stock compensation reaches roughly 15% of sales; a 30-times multiple and limited dilution support approximately USD105 per share. The result is about 121% appreciation from the anchor, with execution—not AI labeling—doing the work.",
+    "bear_case_scenario": "The factories fill too slowly. A lost production selection coincides with weak propulsion yields during 2027–2029, turning planned scale economies into inventory write-downs and persistent under-absorption. By FY2031, revenue reaches only USD2.6 billion and EBITDA after stock compensation remains near 8%; an 18-times multiple, a depleted cash cushion and 220 million shares imply roughly USD20 per share. That represents about 58% downside, despite a business larger than today’s.",
+    "thesis_watchpoints": "- Confirmation: Through FY2027, organic growth remains above 15% while EBITDA margin after stock compensation rises and operating cash flow improves.\n- Deterioration: During the next four quarters, trailing book-to-bill falls below 1.0 while inventories outgrow sales, weakening production visibility.\n- Reassessment: By year-end 2028, positive free cash flow and contracted Valkyrie deliveries justify revisiting the multiple and reduction recommendation.",
+    "broader_narrative_signals": {
+      "today_crowd_consensus_narrative": "The consensus trade is that affordable autonomous warfare will make today’s investment burden tomorrow’s operating leverage. September analyst aggregates remain predominantly bullish, often implying substantial upside from the supplied anchor. ([marketbeat.com](https://www.marketbeat.com/stocks/NASDAQ/KTOS/forecast/?utm_source=openai)) The anchoring bias is to treat rising program participation as proof of eventual high-margin production, while underweighting partner economics, recurring stock compensation and the cash needed to manufacture that growth.",
+      "alpha_gap_assessment": "The crowd overestimates shareholder value, even if its defense-demand thesis proves correct. Using supplied enterprise value and issuer FY2026 guidance, valuation is roughly 44 times adjusted EBITDA but about 69 times EBITDA after recurring stock compensation. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results)) That distinction makes the valuation demanding: financing capacity and sharing economics with partners limit shareholder participation. My base return undershoots a risk-adjusted equity hurdle, favoring reduced exposure over cash-generative alternatives. Factor impacts are overlapping counterfactual sensitivities, not an additive return bridge.",
+      "the_convergence_catalyst": "The FY2027 guidance cycle and subsequent cash-flow reports are the likeliest reckoning, beginning in late 2026. If higher production targets still require heavy internally funded investment, investors may stop capitalizing adjusted EBITDA as owner earnings. The first observable repricing signal would be falling valuation multiples despite upward revenue revisions.",
+      "macro_regime_alignment": "The September 16 Fed hike to 3.75%–4.00% raises the hurdle for Kratos’s distant cash flows, despite supporting interest income on liquidity. ([federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)) Defense procurement is less consumption-sensitive, but energy and materials inflation can erode fixed-price economics. The dominant macro exposure is valuation duration, not immediate refinancing distress."
+    },
+    "sentiment_and_regime_signals": {
+      "greed_and_fear_sentiment": 0.35,
+      "expected_volatility_regime": "high_erratic",
+      "convergence_cycle_position": "growing_awareness"
+    },
+    "financial_review_fields": {
+      "earnings_and_financials_trend_assessment": "Kratos’s August 4 release, for fiscal Q2 ended June 28, 2026 rather than the snapshot’s June 30 label, shows organic revenue growth of 19.1%. Acquisitions explain part of the faster reported increase; rocket systems and turbines, rather than drones alone, lead the expansion. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results))\n\nBut reported net profit coexists with an operating loss, so revenue acceleration has not established recurring earnings power. The supplied June-quarter TTM snapshot records USD129 million negative free cash flow. Working-capital absorption is consistent with growth, but investors must distinguish financed production ramps from durable cash generation; book-to-bill does not settle that question.",
+      "capex_and_investment_intensity_trend_assessment": "Investment is migrating across accounting buckets, not simply declining. The supplied FY2025 snapshot puts capex at 7.08% of sales. Kratos’s August outlook moves some drone spending into work-in-process and identifies customer funding for other previously planned capital expenditures. Its FY2026 total investment envelope is USD250–275 million, including working capital and joint-venture funding. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results))\n\nThis distinction matters: a lower capex line can coexist with weak owner cash flow. My forecast requires better utilization and inventory turns after the expansion, not merely a favorable classification change. Customers’ procurement budgets create opportunity, but Kratos’s own cash commitments determine whether that opportunity produces acceptable returns on capital.",
+      "balance_sheet_strength_and_leverage_assessment": "Supplied September 18 metrics imply approximately USD1.28 billion of net cash from the enterprise-to-equity-value bridge. This is an analytical inference, not a reported cash balance; leases and other EV adjustments may affect it. FY2025 leverage was modest, but historical debt ratios cannot establish current liquidity.\n\nThe cushion buys time rather than distributable surplus. Management forecasts USD50–55 million of FY2026 Prometheus funding, separate from ordinary capex. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results)) Inventory, facilities and acquisitions compete for the same resources. My base case assumes sufficient liquidity through commercialization, while treating sustained cash consumption and shareholder dilution as economic costs rather than dismissing them because insolvency appears unlikely.",
+      "profitability_margins_trend_assessment": "The supplied FY2025 snapshot shows gross margin falling to 22.1% even as revenue accelerates; operating margin remains just 2.06%. This suggests that growth has carried mix and startup costs rather than producing automatic operating leverage. The distinction between revenue momentum and realized profitability remains central to the investment case.\n\nAdjusted EBITDA also excludes recurring stock compensation and acquisition amortization. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results)) Amortization is noncash, but stock compensation transfers ownership; neither should disappear unnoticed from valuation. I model gradual production-margin improvement, retain stock compensation as an economic expense, and require free-cash-flow confirmation before assigning a mature high-margin defense franchise multiple."
+    }
+  },
+  "prediction_events": {
+    "drivers": [
+      {
+        "event_name": "Propulsion sells into multiple winners",
+        "category": "competitive_positioning",
+        "description": "Kratos can sell propulsion into several winning weapons programs without winning every airframe competition. The August JASSM development award for GEK800 and Spartan support for Boeing’s JDAM LR corroborate that supplier strategy. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-and-ge-aerospaces-gek800-engine-receives-u-s-military-type-designation-f143-zz-100-and-emd-contract-award-for-jassm)) I assign an 85% probability that diversified engine demand expands earnings over five years, although qualification, partner revenue sharing and production economics determine how much value reaches shareholders.",
+        "expected_impact_pct_on_price": 38,
+        "expected_impact_pct_on_company_earnings": 180
+      },
+      {
+        "event_name": "Hypersonic funding underwrites industrial scale",
+        "category": "sector_and_industry",
+        "description": "Funded hypersonic work provides a firmer revenue bridge than speculative drone fleet sizes. Kratos announced approximately USD400 million of new program funding in July 2026, supporting hypersonic and other national-security work. ([kratosdefense.com](https://www.kratosdefense.com/newsroom?pager=2&utm_source=openai)) I assign a 90% probability that continued workload expands revenue and factory absorption across the horizon; the funding is evidence of demand, not immediate sales or guaranteed margin.",
+        "expected_impact_pct_on_price": 32,
+        "expected_impact_pct_on_company_earnings": 160
+      },
+      {
+        "event_name": "Factory absorption unlocks operating leverage",
+        "category": "operational_efficiency",
+        "description": "Kratos’s thin supplied operating margins leave substantial room for improvement if production scales successfully. My 75%-probability driver assumes that repeat manufacturing spreads engineering and overhead across more accepted units, rather than treating capacity additions themselves as economic progress. Better purchasing leverage and lower rework should expand earnings through FY2031, provided customer acceptance catches up with installed capacity and recurring development spending remains controlled.",
+        "expected_impact_pct_on_price": 30,
+        "expected_impact_pct_on_company_earnings": 300
+      },
+      {
+        "event_name": "Valkyrie advances beyond demonstration flights",
+        "category": "innovation_and_product",
+        "description": "Valkyrie’s value increasingly rests on funded integration rather than demonstration flights alone. Northrop’s Marine Corps award and demonstrated electronic warfare and beyond-line-of-sight control establish a commercialization pathway, while Kratos contributes the aircraft rather than owning all autonomy economics. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/northrop-grumman-to-rapidly-develop-marine-corps-cca-with-kratos-valkyrie-uas?utm_source=openai)) I assign an 80% probability that development and limited production add earnings over five years, without assuming an exclusive fleet-scale procurement victory.",
+        "expected_impact_pct_on_price": 24,
+        "expected_impact_pct_on_company_earnings": 90
+      }
+    ],
+    "frictions": [
+      {
+        "event_name": "Growth already wears a premium",
+        "category": "macroeconomic_and_macrofinancial",
+        "description": "At the supplied anchor, Kratos already trades like a successful scale-up, not an unproven contractor. The supplied valuation of 65.6 times trailing EBITDA capitalizes substantial earnings maturation before shareholders receive dependable free cash flow. I assign an 80% probability that valuation normalization restrains five-year returns as growth matures; the principal effect is a lower multiple, not necessarily weaker aggregate company earnings.",
+        "expected_impact_pct_on_price": -40,
+        "expected_impact_pct_on_company_earnings": 0
+      },
+      {
+        "event_name": "Cash precedes customer reimbursement",
+        "category": "capital_allocation",
+        "description": "Kratos must finance factories and inventory before customers validate the full production curve. Management still forecasts USD85–105 million of FY2026 free-cash-flow consumption, and some investment sits outside ordinary capex. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results)) I assign a 90% probability that ongoing reinvestment depresses distributable cash and introduces depreciation or startup costs across the horizon, even if the initial expansion later earns acceptable returns.",
+        "expected_impact_pct_on_price": -25,
+        "expected_impact_pct_on_company_earnings": -55
+      },
+      {
+        "event_name": "Partners capture autonomy economics",
+        "category": "competitive_positioning",
+        "description": "Owning the airframe does not mean owning the mission-system profit pool. Northrop supplies key integration capabilities, and General Atomics also secured a Marine Corps evaluation role, undermining any assumption of uncontested Valkyrie demand. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/northrop-grumman-to-rapidly-develop-marine-corps-cca-with-kratos-valkyrie-uas?utm_source=openai)) I assign an 85% probability that partner bargaining power and competing architectures constrain pricing, achievable margins and the valuation premium investors can reasonably assign to Kratos’s autonomy exposure.",
+        "expected_impact_pct_on_price": -18,
+        "expected_impact_pct_on_company_earnings": -65
+      },
+      {
+        "event_name": "Growth outruns each shareholder’s stake",
+        "category": "capital_allocation",
+        "description": "Shareholders can own a shrinking percentage of a growing defense franchise. Recurring stock compensation is already material, while expansion absorbs cash that otherwise could offset dilution through repurchases. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-reports-second-quarter-2026-financial-results)) I assign an 85% probability of net share-count growth and model 210 million shares at the horizon. This friction reduces per-share value rather than aggregate company earnings, so its company-earnings impact is zero.",
+        "expected_impact_pct_on_price": -10,
+        "expected_impact_pct_on_company_earnings": 0
+      }
+    ],
+    "tail_opportunities": [
+      {
+        "event_name": "Valkyrie wins a fleet commitment",
+        "category": "tail_opportunity",
+        "description": "A binding, multiyear Valkyrie procurement commitment during 2027–2029 would turn a development platform into a measurable production franchise. The trigger is funded fleet quantities materially beyond the limited production embedded in my base case, accompanied by customer-backed delivery schedules. Higher utilization would lift margins and reduce inventory risk, while investors pay for contracted scale rather than prototypes. I assign only 35% probability because competing platforms, mission integration and annual appropriations still determine the outcome. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/northrop-grumman-to-rapidly-develop-marine-corps-cca-with-kratos-valkyrie-uas?utm_source=openai))",
+        "probability_pct": 35,
+        "upside_impact_pct": 50
+      },
+      {
+        "event_name": "F143 secures multiyear production orders",
+        "category": "tail_opportunity",
+        "description": "An F143 production decision followed by a sizable multiyear JASSM engine award in 2028–2030 would materially exceed the base case’s measured propulsion ramp. The August 2026 award covers engineering and development, not assured serial-production economics. ([kratosdefense.com](https://www.kratosdefense.com/newsroom/kratos-and-ge-aerospaces-gek800-engine-receives-u-s-military-type-designation-f143-zz-100-and-emd-contract-award-for-jassm)) Qualification success plus committed volumes could improve supplier purchasing, factory utilization and cash conversion simultaneously. I assign 40% probability because development milestones, incumbent sourcing and the eventual GE–Kratos economic split remain consequential uncertainties.",
+        "probability_pct": 40,
+        "upside_impact_pct": 35
+      }
+    ],
+    "tail_risks": [
+      {
+        "event_name": "Valkyrie loses the production gate",
+        "category": "tail_risk",
+        "description": "A decisive Marine Corps production selection against Valkyrie, or cancellation of its intended mission configuration, during 2027–2029 would remove a major component of the stock’s option value. General Atomics’ parallel evaluation makes competitive displacement plausible, although it does not establish that Kratos will lose. ([ga-asi.com](https://www.ga-asi.com/us-marine-corps-selects-ga-asi-for-mux-tacair-collaborative-combat-aircraft-program)) The trigger would strand program-specific inventory and compress the autonomy premium before broader businesses can compensate. I assign 30% probability; diversified propulsion and hypersonic revenue prevent treating this as corporate failure.",
+        "probability_pct": 30,
+        "downside_impact_pct": -40
+      },
+      {
+        "event_name": "Industrial ramp triggers a write-down",
+        "category": "tail_risk",
+        "description": "A failed production-acceptance campaign in engines or hypersonic hardware during 2027–2030 could trigger a material inventory or facility impairment. The critical sequence is persistent rework, delayed customer acceptance and cost growth that cannot be passed through, rather than ordinary quarterly shipment noise. Earnings charges would coincide with weaker cash recovery, undermining the scale thesis and forcing capital rationing. I assign 25% probability because multiple programs and the implied liquidity cushion provide meaningful containment.",
+        "probability_pct": 25,
+        "downside_impact_pct": -35
+      }
+    ]
+  },
+  "timeseries_compounded_return_percent_checkpoints": [
+    {
+      "forecast_quarter": "2027 Q3",
+      "derived_compounded_return_percent_from_steps": "-5.6%"
+    },
+    {
+      "forecast_quarter": "2028 Q3",
+      "derived_compounded_return_percent_from_steps": "10.5%"
+    },
+    {
+      "forecast_quarter": "2029 Q3",
+      "derived_compounded_return_percent_from_steps": "16.8%"
+    },
+    {
+      "forecast_quarter": "2030 Q3",
+      "derived_compounded_return_percent_from_steps": "24.9%"
+    },
+    {
+      "forecast_quarter": "2031 Q3",
+      "derived_compounded_return_percent_from_steps": "31.1%"
+    }
+  ],
+  "timeseries": [
+    {
+      "date": "2026-12-18",
+      "predicted_most_reasonable_pct_change": -8.0,
+      "scenario_rationale": "Initial FY2027 guidance emphasizes production investment alongside stronger sales. Investors distinguish adjusted EBITDA from shareholder cash flow as tighter discount rates persist. The stock gives back part of its premium despite continued program progress."
+    },
+    {
+      "date": "2027-03-18",
+      "predicted_most_reasonable_pct_change": -6.0,
+      "scenario_rationale": "Year-end reporting exposes the cash cost of inventory and facility expansion. Revenue expectations remain constructive, but investors demand evidence that engine growth improves returns after stock compensation. A further multiple reset outweighs modest earnings upgrades."
+    },
+    {
+      "date": "2027-06-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Engine shipments begin absorbing newly installed capacity, while hypersonic deliveries convert funded work into revenue. Better factory utilization stabilizes earnings expectations. The shares recover selectively, although working capital still prevents investors from extrapolating unrestricted cash generation."
+    },
+    {
+      "date": "2027-09-18",
+      "predicted_most_reasonable_pct_change": 5.0,
+      "scenario_rationale": "Customer acceptance improves across recurring hardware programs, supporting incremental margins and reducing concerns about stranded inventory. Prospective budget awards reinforce production visibility, but the valuation rebound remains measured because large tactical-drone commitments are still excluded."
+    },
+    {
+      "date": "2027-12-18",
+      "predicted_most_reasonable_pct_change": 5.0,
+      "scenario_rationale": "The projected FY2028 outlook shows a clearer bridge from prototype spending to repeat production. Engine scheduling and limited Valkyrie deliveries support utilization assumptions. Investors reward improving earnings quality rather than assuming a sudden monopoly in autonomous aircraft."
+    },
+    {
+      "date": "2028-03-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Annual results demonstrate that higher throughput can lift operating profit without proportional overhead growth. Cash conversion remains uneven, but reduced startup intensity supports confidence in normalized margins. The share price advances with earnings estimates, not multiple expansion."
+    },
+    {
+      "date": "2028-06-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Initial repeat aircraft production exposes some manufacturing inefficiencies, tempering enthusiasm around delivery growth. Established propulsion and rocket workloads offset these costs. The market prices a modest net improvement as the investment case shifts from capacity announcements toward accepted units."
+    },
+    {
+      "date": "2028-09-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Production learning reduces rework and improves delivery reliability, while customer-funded programs carry a larger share of development costs. The resulting operating leverage supports appreciation. Investors still reserve the highest valuation premium for demonstrated cash returns rather than factory capacity."
+    },
+    {
+      "date": "2028-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "FY2029 planning points to broader use of existing propulsion and hypersonic infrastructure. Growth moderates from the initial ramp, but visibility improves. A small earnings-driven advance reflects better utilization while prospective defense-budget reprioritization restrains enthusiasm."
+    },
+    {
+      "date": "2029-03-18",
+      "predicted_most_reasonable_pct_change": -6.0,
+      "scenario_rationale": "The scenario assumes a temporary pause in new orders as customers review costs and mission requirements. Inventory conversion slows despite continuing deliveries. Investors cut the production premium, exposing how heavily valuation still depends on uninterrupted execution."
+    },
+    {
+      "date": "2029-06-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Delayed customer acceptances resume, releasing working capital and reducing concern that the order pause represents structural displacement. Propulsion demand remains diversified across programs. Better cash evidence supports a recovery without restoring the earlier, more speculative valuation multiple."
+    },
+    {
+      "date": "2029-09-18",
+      "predicted_most_reasonable_pct_change": 5.0,
+      "scenario_rationale": "Repeat orders validate the economics of facilities funded earlier in the decade. Incremental revenue carries better margins and requires less expansion spending. Investors raise sustainable cash-flow estimates, allowing the shares to appreciate despite a more mature growth profile."
+    },
+    {
+      "date": "2029-12-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "FY2030 expectations emphasize production mix and cash returns rather than headline capacity. Higher-value propulsion and mission-related hardware support economic EBITDA after stock compensation. A credible reinvestment envelope sustains earnings growth and permits a measured valuation premium."
+    },
+    {
+      "date": "2030-03-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Annual reporting confirms that depreciation and recurring equity compensation remain manageable relative to a larger revenue base. Free cash flow improves without assuming extraordinary program wins. The share price follows stronger per-share fundamentals while dilution limits the advance."
+    },
+    {
+      "date": "2030-06-18",
+      "predicted_most_reasonable_pct_change": -4.0,
+      "scenario_rationale": "A projected contract-repricing phase exposes customer bargaining power as production becomes less novel. New bid costs and tougher unit-price negotiations temporarily interrupt margin progress. Investors reduce the multiple, though the underlying workload remains broadly intact."
+    },
+    {
+      "date": "2030-09-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Factory productivity and a richer delivery mix offset part of the pricing pressure. Renewed customer commitments protect utilization, and working-capital discipline improves. The market recovers confidence in normalized profitability without assuming Kratos captures its partners’ software economics."
+    },
+    {
+      "date": "2030-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "FY2031 planning presents Kratos as a larger, increasingly cash-generative manufacturer rather than an early-stage autonomy option. Moderate growth and improved capital discipline sustain earnings estimates. Shares advance modestly because much of the industrial maturation is now recognized."
+    },
+    {
+      "date": "2031-03-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Reported cash generation increasingly supports the valuation, but growth comparisons become more demanding. Management must allocate capital between selective capacity additions and preserving per-share returns. Investors grant only a small increase as execution risk declines and maturity constrains upside."
+    },
+    {
+      "date": "2031-06-18",
+      "predicted_most_reasonable_pct_change": -3.0,
+      "scenario_rationale": "The scenario includes a late-cycle order normalization, with customers digesting earlier procurement before expanding commitments. Lower expected growth compresses the residual scarcity premium. Healthy liquidity cushions the decline, but cannot prevent the valuation from tracking more mature industrial economics."
+    },
+    {
+      "date": "2031-09-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Normalized production margins and steadier working-capital requirements restore confidence after the order adjustment. The stock converges toward approximately USD62, supported by the modeled revenue base and economic EBITDA. Further upside now requires new funded programs or superior capital returns."
+    }
+  ]
+}

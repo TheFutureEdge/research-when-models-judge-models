@@ -1,0 +1,111 @@
+{
+  "daily_observations": 8711,
+  "weekly_observations": 1689,
+  "assets": [
+    {
+      "asset": "bitcoin",
+      "window_start": "2021-09-20",
+      "forecast_anchor": "2026-09-20",
+      "forecast_end": "2031-09-20",
+      "daily_observations": 1826,
+      "weekly_observations": 261,
+      "first_observed": "2021-09-20",
+      "last_observed": "2026-09-19",
+      "last_close_minus_anchor": 361.58000000000175,
+      "anchor_is_separate": true,
+      "gaps": [],
+      "history_width_fraction": 0.5
+    },
+    {
+      "asset": "ibm",
+      "window_start": "2021-09-18",
+      "forecast_anchor": "2026-09-18",
+      "forecast_end": "2031-09-18",
+      "daily_observations": 1255,
+      "weekly_observations": 261,
+      "first_observed": "2021-09-20",
+      "last_observed": "2026-09-18",
+      "last_close_minus_anchor": 0.0,
+      "anchor_is_separate": true,
+      "gaps": [],
+      "history_width_fraction": 0.5
+    },
+    {
+      "asset": "kratos",
+      "window_start": "2021-09-18",
+      "forecast_anchor": "2026-09-18",
+      "forecast_end": "2031-09-18",
+      "daily_observations": 1255,
+      "weekly_observations": 261,
+      "first_observed": "2021-09-20",
+      "last_observed": "2026-09-18",
+      "last_close_minus_anchor": 0.0,
+      "anchor_is_separate": true,
+      "gaps": [],
+      "history_width_fraction": 0.5
+    },
+    {
+      "asset": "moderna",
+      "window_start": "2021-09-18",
+      "forecast_anchor": "2026-09-18",
+      "forecast_end": "2031-09-18",
+      "daily_observations": 1255,
+      "weekly_observations": 261,
+      "first_observed": "2021-09-20",
+      "last_observed": "2026-09-18",
+      "last_close_minus_anchor": 0.0,
+      "anchor_is_separate": true,
+      "gaps": [],
+      "history_width_fraction": 0.5
+    },
+    {
+      "asset": "nebius",
+      "window_start": "2021-09-18",
+      "forecast_anchor": "2026-09-18",
+      "forecast_end": "2031-09-18",
+      "daily_observations": 590,
+      "weekly_observations": 123,
+      "first_observed": "2021-09-20",
+      "last_observed": "2026-09-18",
+      "last_close_minus_anchor": 0.0,
+      "anchor_is_separate": true,
+      "gaps": [
+        {
+          "last_observed_date": "2022-02-25",
+          "next_observed_date": "2024-10-25",
+          "days_between": 973
+        }
+      ],
+      "history_width_fraction": 0.5
+    },
+    {
+      "asset": "sap",
+      "window_start": "2021-09-18",
+      "forecast_anchor": "2026-09-18",
+      "forecast_end": "2031-09-18",
+      "daily_observations": 1275,
+      "weekly_observations": 261,
+      "first_observed": "2021-09-20",
+      "last_observed": "2026-09-18",
+      "last_close_minus_anchor": 0.0,
+      "anchor_is_separate": true,
+      "gaps": [],
+      "history_width_fraction": 0.5
+    },
+    {
+      "asset": "visa",
+      "window_start": "2021-09-18",
+      "forecast_anchor": "2026-09-18",
+      "forecast_end": "2031-09-18",
+      "daily_observations": 1255,
+      "weekly_observations": 261,
+      "first_observed": "2021-09-20",
+      "last_observed": "2026-09-18",
+      "last_close_minus_anchor": 0.0,
+      "anchor_is_separate": true,
+      "gaps": [],
+      "history_width_fraction": 0.5
+    }
+  ],
+  "method": "Last available close per Monday-Sunday week, using actual date; no interpolation; final partial week included."
+}

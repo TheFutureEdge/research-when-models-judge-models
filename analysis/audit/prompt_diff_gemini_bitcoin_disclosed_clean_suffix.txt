@@ -1,0 +1,11 @@
+--- 
+
++++ 
+
+@@ -1,3 +1,5 @@
+
+ 
+ 
+ TASK (REMINDER): Evaluate supplied opinions and return the strict JSON response. If enabled, use web search only to verify material disputed claims against primary sources available by the evidence cutoff. Never claim verification without a retrieved source.
++WEIGHT COMPLETENESS CHECK: Return exactly 14 opinion_weights entries in the following ID order. Copy every ID exactly once, including zero-weight opinions. Do not merge opinions that share a framework. Before returning JSON, check your array against this complete ID checklist:
++[OPINION_ID_CHECKLIST]

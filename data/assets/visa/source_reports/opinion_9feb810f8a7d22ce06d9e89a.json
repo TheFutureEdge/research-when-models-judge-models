@@ -1,0 +1,387 @@
+{
+  "opinion_id": "opinion_9feb810f8a7d22ce06d9e89a",
+  "investment_framework": "universal_investor__the_polymath__standard_1",
+  "forecast_anchor": {
+    "price": 368.29,
+    "timestamp": "2026-09-18 00:00:00+00:00"
+  },
+  "research_sources": [
+    {
+      "title": "Visa Reports Fiscal Third Quarter 2026 Results",
+      "url": "https://s1.q4cdn.com/050606653/files/doc_financials/2026/q3/Q3-2026-Earnings-Release_vF.pdf",
+      "domain": "s1.q4cdn.com"
+    },
+    {
+      "title": "Visa : Q3 2026 Financial Results | MarketScreener",
+      "url": "https://www.marketscreener.com/news/visa-q3-2026-financial-results-ce7f51d2d888f027",
+      "domain": "www.marketscreener.com"
+    },
+    {
+      "title": "Visa fiscal Q3 2026 earnings: revenue up 14%, EPS rises",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-fiscal-q3-2026-earnings-202303883.html",
+      "domain": "finance.yahoo.com"
+    },
+    {
+      "title": "Visa fiscal Q3 2026 earnings: revenue up 14%, EPS rises",
+      "url": "https://qz.com/visa-fiscal-q3-2026-earnings-revenue-growth-072826",
+      "domain": "qz.com"
+    },
+    {
+      "title": "Visa’s Q3 Earnings Crossed $4 Trillion in Volume. Then Came the Layoffs.",
+      "url": "https://www.tikr.com/blog/visas-q3-earnings-crossed-4-trillion-in-volume-then-came-the-layoffs",
+      "domain": "www.tikr.com"
+    },
+    {
+      "title": "Visa Inc. (V) Q3 FY2026 earnings call transcript",
+      "url": "https://finance.yahoo.com/quote/V/earnings/V-Q3-2026-earnings_call-656419.html",
+      "domain": "finance.yahoo.com"
+    },
+    {
+      "title": "Visa Stock Offers Growth, but is it Worth Buying at 24.9X Forward P/E?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-offers-growth-worth-161600235.html",
+      "domain": "finance.yahoo.com"
+    },
+    {
+      "title": "Visa Inc (V) Q2 2026 Earnings Call Highlights: Record Revenue Growth and Strategic Investments ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-inc-v-q2-2026-071023801.html",
+      "domain": "finance.yahoo.com"
+    },
+    {
+      "title": "Visa Q3 FY2026 slides: payments volume tops $4T, guidance raised By Investing.com",
+      "url": "https://www.investing.com/news/company-news/visa-q3-fy2026-slides-payments-volume-tops-4t-guidance-raised-93CH-4818318",
+      "domain": "www.investing.com"
+    },
+    {
+      "title": "Visa Inc. Q2 2026 Earnings Call Summary",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-inc-q2-2026-earnings-123000166.html",
+      "domain": "finance.yahoo.com"
+    },
+    {
+      "title": "Why Visa’s Agentic Commerce Play Isn’t the Threat Wall Street Thinks It Is - AOL",
+      "url": "https://www.aol.com/articles/why-visa-agentic-commerce-play-130542000.html",
+      "domain": "www.aol.com"
+    },
+    {
+      "title": "Visa, Mastercard $38B swipe fee settlement wins judge's approval - Maryland Daily Record",
+      "url": "https://thedailyrecord.com/2026/06/10/judge-approves-visa-mastercard-swipe-fee-settlement/",
+      "domain": "thedailyrecord.com"
+    },
+    {
+      "title": "The Visa & Mastercard $38 Billion Swipe Fee Settlement: What You Need to Know, and How You Can Prepare - Redbridge",
+      "url": "https://www.redbridgedta.com/us/market-intelligence/the-visa-mastercard-38-billion-swipe-fee-settlement/",
+      "domain": "www.redbridgedta.com"
+    },
+    {
+      "title": "Judge approves card network-fee settlement with merchants | American Banker",
+      "url": "https://www.americanbanker.com/payments/news/judge-approves-card-network-fee-settlement-with-merchants",
+      "domain": "www.americanbanker.com"
+    },
+    {
+      "title": "Two Sides to Every Monopolization Suit: DOJ Sues Visa for Debit Monopolization | Mintz",
+      "url": "https://www.mintz.com/insights-center/viewpoints/2191/2024-09-30-two-sides-every-monopolization-suit-doj-sues-visa-debit",
+      "domain": "www.mintz.com"
+    },
+    {
+      "title": "United States v. Visa Inc.: Summary of the Department of Justice Lawsuit Against Visa",
+      "url": "https://www.americanbar.org/groups/antitrust_law/resources/newsletters/united-states-v-visa-inc/",
+      "domain": "www.americanbar.org"
+    },
+    {
+      "title": "DOJ presses Visa antitrust case | Payments Dive",
+      "url": "https://www.paymentsdive.com/news/doj-presses-visa-antitrust-case/808859/",
+      "domain": "www.paymentsdive.com"
+    },
+    {
+      "title": "DOJ v. Visa could prove an important battleground for tech antitrust",
+      "url": "https://reason.org/commentary/doj-v-visa-could-prove-an-important-battleground-for-tech-antitrust/",
+      "domain": "reason.org"
+    },
+    {
+      "title": "Court approves Visa-Mastercard settlement | Payments Dive",
+      "url": "https://www.paymentsdive.com/news/court-approves-visa-mastercard-settlement/822440/",
+      "domain": "www.paymentsdive.com"
+    },
+    {
+      "title": "Stablecoin Cards in 2026 - insights4vc",
+      "url": "https://insights4vc.substack.com/p/the-state-of-stablecoin-cards",
+      "domain": "insights4vc.substack.com"
+    },
+    {
+      "title": "Visa Stock Gained 5% in 2026. Can It Bring More Meaningful Upside? | TIKR.com",
+      "url": "https://www.tikr.com/blog/visa-stock-gained-5-in-2026-can-it-bring-more-meaningful-upside",
+      "domain": "www.tikr.com"
+    },
+    {
+      "title": "Visa, Mastercard join another stablecoin group | Payments Dive",
+      "url": "https://www.paymentsdive.com/news/visa-mastercard-join-another-stablecoin-group/827078/",
+      "domain": "www.paymentsdive.com"
+    },
+    {
+      "title": "Visa and Mastercard's Stablecoin Split: Payments in 2026",
+      "url": "https://www.financexmagazine.com/post/visa-and-mastercard-split-the-stablecoin-playbook-and-payments-will-never-look-the-same",
+      "domain": "www.financexmagazine.com"
+    },
+    {
+      "title": "Why stablecoins haven't shaken the card networks",
+      "url": "https://www.thirdbridge.com/en-us/about-us/media/perspectives/disruption-or-distraction-why-stablecoins-haven-t-shaken-the-card-networks",
+      "domain": "www.thirdbridge.com"
+    },
+    {
+      "title": "Stablecoin Payments for Merchants: Costs, Integration, and the 2026 Adoption Wave | Spark",
+      "url": "https://www.spark.money/research/stablecoin-merchant-adoption-guide",
+      "domain": "www.spark.money"
+    },
+    {
+      "title": "Why Visa's Agentic Commerce Play Isn't the Threat Wall Street Thinks It Is - 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/11/why-visas-agentic-commerce-play-isnt-the-threat-wall-street-thinks-it-is/",
+      "domain": "247wallst.com"
+    },
+    {
+      "title": "Why Visa Stock Looks Undervalued After a 17% Revenue Beat and a $20 Billion Buyback | TIKR.com",
+      "url": "https://www.tikr.com/blog/why-visa-stock-looks-undervalued-after-a-17-revenue-beat-and-a-20-billion-buyback",
+      "domain": "www.tikr.com"
+    }
+  ],
+  "generated_at_utc": "2026-09-20 06:55:45.830641+00:00",
+  "prediction_based_investment_rating": {
+    "most_reasonable_investment_thesis_scenario": "The central tension in Visa is arithmetic, not existential. The franchise compounds earnings in the low-to-mid teens because it taxes nominal consumption and layers faster-growing software revenue on top; the multiple, at 31.5x trailing against a 5% ten-year, must give some of that back. Litigation has shifted from unbounded tail to amortized, disclosed cost following preliminary settlement approval, while the DOJ remedy risk sits in 2028-2030 rather than now. Over five years, mid-teens earnings growth minus a derating toward the mid-twenties leaves a respectable but unspectacular share-price path with genuine downside protection.\n- TTM revenue USD 44.5B and EPS USD 11.69; base case assumes roughly 10% annual EPS compounding to 2031.\n- A derating from 31.5x toward approximately 26x surrenders around one-third of compounded earnings growth by 2031.\n- Implied 2031 equity value near USD 0.9 trillion on a shrinking ~1.7B share count - demanding but defensible.",
+    "bull_case_scenario": "The bull case activates when inflation breaks toward 2% without breaking the consumer. Falling long yields relieve the valuation constraint just as post-severance cost discipline restores positive operating leverage, lifting operating margin back toward 64%. Value-added services and measurable agentic-commerce fees then reframe Visa as AI-commerce infrastructure rather than a mature toll collector, and a negotiated DOJ consent decree removes the overhang. Multiple expansion and mid-teens earnings growth compound together - the rare combination that produces 80%-plus returns.",
+    "bear_case_scenario": "The bear case activates when a DOJ adverse ruling collides with merchant steering that actually works. Structural remedies on debit routing would strip pricing leverage exactly as post-settlement selective card acceptance and surcharging push premium-card volume onto cheaper stablecoin or pay-by-bank rails. Issuers respond by cutting rewards, weakening the volume flywheel, while expense growth continues outrunning revenue. Earnings growth halves to mid-single digits and the quality multiple collapses toward 20x - a 35-40% derating that no buyback can offset.",
+    "thesis_watchpoints": "- Supports: value-added services above 30% of net revenue and compounding over 25% constant-dollar in each FY2027 quarterly print.\n- Weakens: operating expense growth exceeding revenue growth again in fiscal Q4 2026 and Q1 2027 despite the severance action.\n- Reassess: any DOJ trial date or consent-decree filing, or a top-20 merchant publicly declining premium consumer card acceptance.",
+    "broader_narrative_signals": {
+      "today_crowd_consensus_narrative": "The consensus treats Visa as an indestructible toll booth: 29 buys, eight outperforms, zero sells and a roughly USD 399 target as of July 2026 [21]. Two beliefs are held as settled - that mid-teens EPS growth is near-automatic, and that stablecoins are a distraction Visa will absorb. The anchoring bias is the multiple itself: 31.5x is treated as a permanent quality entitlement rather than a rate-dependent variable.",
+      "alpha_gap_assessment": "No convincing mispricing exists in either direction; what is misdated is the risk. The crowd correctly prices the franchise but underweights two verified facts pulling opposite ways: operating expenses grew 19% against 14% revenue in fiscal Q3 2026 [1], evidence that defending the network now costs operating leverage, while value-added services at 30% of revenue growing 34% [7][8] means the interchange-centric bear case attacks a shrinking share of the P&L. Net: fair value, with the derating risk against a 5% ten-year the larger near-term force.",
+      "the_convergence_catalyst": "The October 2026 fiscal Q4 print and first FY2027 guidance is the trigger. Management must quantify post-severance expense run-rate against the non-recurring FIFA marketing comp; guidance that restores positive operating leverage would confirm the cost cycle was deliberate. First repricing sign: FY2027 EPS growth guided above revenue growth.",
+      "macro_regime_alignment": "Two channels dominate and they conflict. Nominal spending inflated by 3.4% CPI directly lifts payments volume, so the inflation regime is a revenue tailwind. But a 4.998% ten-year yield and a Fed median implying another hike compress what investors pay for a 3% free-cash-flow yield. Net: earnings tailwind, valuation headwind; thesis is highly sensitive to the disinflation path."
+    },
+    "sentiment_and_regime_signals": {
+      "greed_and_fear_sentiment": 0.18,
+      "expected_volatility_regime": "moderate",
+      "convergence_cycle_position": "stabilization"
+    },
+    "financial_review_fields": {
+      "earnings_and_financials_trend_assessment": "The top line is accelerating while the bottom line is being taxed by one-off items. Fiscal Q3 2026 net revenue reached USD 11.6 billion, up 14%, on 10% constant-dollar payments volume and 71.7 billion processed transactions [1][2], yet GAAP net income grew only 7% because the quarter absorbed USD 563 million of severance and a USD 237 million interchange-MDL provision [4]. FY2025 told the same story: revenue up 11.3% against net income up 1.6%.\n\nThe distinction matters. Recurring performance is compounding at low-to-mid teens with TTM revenue of USD 44.5 billion and TTM free cash flow of USD 21.0 billion; the headline weakness is provisions and restructuring, not demand. One caution: international transaction revenue grew 6% against 13% cross-border volume - a volatility and mix drag worth tracking.",
+      "capex_and_investment_intensity_trend_assessment": "Visa's capital intensity is almost trivially low - capex ran 3.7% of revenue in FY2025 and USD 417 million in fiscal Q3 2026 against USD 6.6 billion operating cash flow [9]. The real investment does not appear in the capex line at all: client incentives of USD 4.7 billion in the quarter, up 18%, are contra-revenue payments to retain issuer distribution, and personnel costs drove the 19% operating expense increase [1].\n\nThat is the tell about priorities. Management is buying distribution renewals and building value-added services and stablecoin infrastructure through the income statement, then offsetting it with severance in legacy technology roles. Economically this preserves returns on capital - ROE near 53% - but it converts what would be depreciating assets into permanent operating expense, so margin recovery depends on discipline rather than on the depreciation schedule rolling off.",
+      "balance_sheet_strength_and_leverage_assessment": "The headline is fortress-like and slightly misleading. Assets of USD 99.6 billion against USD 37.9 billion equity, debt/equity 0.66 and interest coverage above 42x (FY2025) describe an issuer with unlimited access to funding. But the current ratio has slipped to 1.08 from 1.45 in FY2023, and the litigation escrow under the US retrospective responsibility plan carries obligations that headline leverage understates.\n\nThe material choice is distribution policy. Combining a 3.00% TTM net buyback yield and 0.34% dividend yield on a USD 712 billion market capitalization implies roughly USD 24 billion returned against USD 21.0 billion TTM free cash flow - Visa is distributing above cash generation, financed by balance-sheet capacity. Comfortable today, but it caps the pace of future repurchase acceleration and leaves less cushion if the interchange settlement's phased costs land alongside a DOJ remedy.",
+      "profitability_margins_trend_assessment": "Margins are compressing for identifiable, largely non-structural reasons. Gross margin held at 80.4% in FY2025, but operating margin fell to 60.0% from 65.7% and net margin to 50.1% from 55.0%, driven by litigation provisioning rather than pricing erosion. Fiscal Q3 2026 repeated the pattern with a 19% expense increase against 14% revenue growth [1].\n\nThe pattern reveals a business whose pricing power is intact but whose cost of defending the franchise is rising. Mix is the offsetting force: value-added services at 30% of net revenue carry software-like economics and are growing above 25% constant-dollar [8], which should structurally support margins as they scale. Whether FY2027 margins rebound toward 64-65% or settle near 60% is the single cleanest test of whether the recent compression was cyclical investment or permanent."
+    }
+  },
+  "prediction_events": {
+    "drivers": [
+      {
+        "event_name": "Toll booth on nominal consumption",
+        "category": "macroeconomic_and_macrofinancial",
+        "description": "Visa's take rate applies to nominal spend, so the very inflation forcing the Fed to 3.75%-4.00% inflates its revenue base. US August retail sales rose 6.0% year over year nominal while CPI ran 3.4%; fiscal Q3 2026 payments volume grew 10% constant-dollar and net revenue 14% [1][2]. This indexation persists as long as inflation stays above target, fading only under genuine disinflation.",
+        "expected_impact_pct_on_price": 34,
+        "expected_impact_pct_on_company_earnings": 48
+      },
+      {
+        "event_name": "Value-added services quietly rerates mix",
+        "category": "innovation_and_product",
+        "description": "The software layer is outgrowing the rails. Value-added services revenue reached USD 3.8 billion in fiscal Q3 2026 from USD 2.8 billion a year earlier, roughly 30% of net revenue and compounding above 25% constant-dollar [7][8]. Risk, issuing-and-acceptance and advisory products decouple revenue from interchange economics, which is precisely the line regulators and merchants are attacking. Persistence is high because these are contracted, recurring software revenues.",
+        "expected_impact_pct_on_price": 22,
+        "expected_impact_pct_on_company_earnings": 28
+      },
+      {
+        "event_name": "Buybacks shrink the float relentlessly",
+        "category": "capital_allocation",
+        "description": "Visa is retiring roughly 3% of shares annually: fiscal Q2 2026 saw a record USD 7.9 billion repurchase and a fresh USD 20 billion authorization, leaving about USD 28.4 billion capacity at 30 June 2026 [8][11]. TTM net buyback yield of 3.00% plus dividends exceeds TTM free cash flow of USD 21.0 billion, funded by balance-sheet capacity at debt/equity 0.66. Per-share compounding continues, though not accelerating.",
+        "expected_impact_pct_on_price": 16,
+        "expected_impact_pct_on_company_earnings": 17
+      },
+      {
+        "event_name": "Tokenization moat absorbs the insurgents",
+        "category": "competitive_positioning",
+        "description": "The evidence chain runs one way: Visa absorbed e-commerce, wallets and tokenization, which now earns fees on nearly 60% of global e-commerce transactions [26]. It carries over 90% of on-chain crypto card volume and lifted stablecoin settlement to a USD 20 billion annualized run rate, fifteen-fold year over year, with 160-plus stablecoin-linked programs [7][20]. Ubiquity, dispute resolution and issuer economics keep new rails riding the network rather than replacing it.",
+        "expected_impact_pct_on_price": 14,
+        "expected_impact_pct_on_company_earnings": 10
+      }
+    ],
+    "frictions": [
+      {
+        "event_name": "Thirty-one times against five percent",
+        "category": "macroeconomic_and_macrofinancial",
+        "description": "This is the binding constraint. A 31.5x trailing multiple and 2.95% free-cash-flow yield sit against a US 10-year at 4.998% on 18 September 2026 - a negative spot equity risk premium on a mature compounder. With Fed median year-end rates at 4.1% for 2026 and 2027, discount-rate relief is unlikely early in the horizon, so multiple compression subtracts steadily from compounded earnings growth.",
+        "expected_impact_pct_on_price": -27,
+        "expected_impact_pct_on_company_earnings": 0
+      },
+      {
+        "event_name": "Honor-All-Cards repeal arms the merchants",
+        "category": "regulatory",
+        "description": "Judge Cogan's preliminary approval of the revised USD 38 billion settlement is the structural item, not the headline number. Standard consumer rates cap at 1.25% for eight years, interchange falls 10bps for five, and merchants may accept card categories selectively, ending Honor All Cards [12][13]. Interchange accrues to issuers, so the P&L hit is second-order, but selective acceptance and surcharging give large merchants permanent steering leverage against premium-card mix.",
+        "expected_impact_pct_on_price": -14,
+        "expected_impact_pct_on_company_earnings": -9
+      },
+      {
+        "event_name": "Operating leverage ran in reverse",
+        "category": "operational_efficiency",
+        "description": "The anomaly worth naming: fiscal Q3 2026 GAAP operating expenses rose 19% against 14% revenue growth, driven primarily by personnel, with USD 563 million of severance and a USD 237 million interchange provision inside the quarter [1][4]. FY2025 operating margin already fell to 60.0% from 65.7%. Defending the network against agentic and stablecoin entrants costs real money; run-rate savings from the layoffs remain unquantified.",
+        "expected_impact_pct_on_price": -10,
+        "expected_impact_pct_on_company_earnings": -8
+      },
+      {
+        "event_name": "Merchant-led rail bypass creeps in",
+        "category": "competitive_positioning",
+        "description": "Independent research identifies merchant-led adoption, not consumer crypto, as the genuine threat: Amazon, Walmart and Shopify have strong incentives to route payments over cheaper stablecoin or account-to-account rails [24]. The interaction effect matters most - the settlement's steering rights plus viable alternative rails is the real mechanism. Expect gradual leakage in high-ticket, low-loyalty categories rather than a cliff, compressing the blended take rate through the back half of the horizon.",
+        "expected_impact_pct_on_price": -9,
+        "expected_impact_pct_on_company_earnings": -7
+      }
+    ],
+    "tail_opportunities": [
+      {
+        "event_name": "Agentic commerce becomes a fee event",
+        "category": "tail_opportunity",
+        "description": "Visa's June 2026 OpenAI routing partnership and Visa Intelligent Commerce could, by 2028-2029, convert agent-initiated purchases into tokenized, authenticated transactions carrying incremental trust and risk fees - the tokenization playbook repeated at a higher price point [11][26]. Evidence of measurable agentic transaction revenue disclosed in quarterly results would validate management's claim that agentic commerce expands the addressable market, re-rating Visa from cyclical toll-collector to AI-commerce infrastructure. Below 50% because monetization, antitrust scrutiny of AI platforms and merchant acceptance all remain unproven.",
+        "probability_pct": 28,
+        "upside_impact_pct": 22
+      },
+      {
+        "event_name": "DOJ folds into a behavioral consent",
+        "category": "tail_opportunity",
+        "description": "The Justice Department's September 2024 debit monopolization suit seeks injunctive relief against Visa's pricing structures and exclusive agreements [15][16]. If fact discovery closes around end-2026 as Visa proposed [17], a negotiated behavioral consent decree - unwinding certain issuer and acquirer agreements without structural separation - becomes plausible during 2028. Removing an overhang the market implicitly prices at several turns would lift the multiple sharply. It stays below 50% because the DOJ has signalled appetite for a trial verdict, not a settlement.",
+        "probability_pct": 33,
+        "upside_impact_pct": 14
+      }
+    ],
+    "tail_risks": [
+      {
+        "event_name": "Structural remedy on debit rails",
+        "category": "tail_risk",
+        "description": "A 2029-2030 adverse judgment in United States v. Visa could nullify the issuer and acquirer agreements the DOJ calls exclusionary and force open pricing on card-not-present debit routing, exposing the roughly USD 7 billion of network revenue the complaint characterizes as monopoly profits [18]. Losing debit routing defaults would compress take rate and invite parallel private litigation, hitting both earnings and the quality multiple simultaneously. Probability stays below 50% given Section 2 plaintiffs' historically poor trial record and Visa's litigation resources.",
+        "probability_pct": 24,
+        "downside_impact_pct": -24
+      },
+      {
+        "event_name": "Big-box steering coalition goes live",
+        "category": "tail_risk",
+        "description": "The bear mechanism is combinatorial: post-settlement selective card acceptance plus surcharging plus mature stablecoin or pay-by-bank rails. If a coalition of top-20 US merchants simultaneously declines premium consumer cards and surcharges credit from 2028, premium-mix economics - the profitable end of Visa's book - erode fast, and issuers respond by cutting rewards, weakening the volume flywheel [12][24]. Under 50% because merchants fear checkout friction and cart abandonment, and prior surcharging rights were barely exercised.",
+        "probability_pct": 21,
+        "downside_impact_pct": -26
+      }
+    ]
+  },
+  "timeseries_compounded_return_percent_checkpoints": [
+    {
+      "forecast_quarter": "2027 Q3",
+      "derived_compounded_return_percent_from_steps": "1.9%"
+    },
+    {
+      "forecast_quarter": "2028 Q3",
+      "derived_compounded_return_percent_from_steps": "8.0%"
+    },
+    {
+      "forecast_quarter": "2029 Q3",
+      "derived_compounded_return_percent_from_steps": "21.5%"
+    },
+    {
+      "forecast_quarter": "2030 Q3",
+      "derived_compounded_return_percent_from_steps": "32.8%"
+    },
+    {
+      "forecast_quarter": "2031 Q3",
+      "derived_compounded_return_percent_from_steps": "43.7%"
+    }
+  ],
+  "timeseries": [
+    {
+      "date": "2026-12-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "Fiscal Q4 results in late October show FIFA-boosted revenue and first FY2027 guidance. Strong volume is offset by a ten-year yield near 5% and post-hike discount-rate pressure, capping upside."
+    },
+    {
+      "date": "2027-03-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Fiscal Q1 confirms severance-driven expense savings and double-digit cross-border growth. Holiday nominal spend stays resilient on 6% retail sales growth, restoring modest operating leverage and supporting a small rerating."
+    },
+    {
+      "date": "2027-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Value-added services again grow above 25%, offsetting the first visible interchange settlement implementation costs. Energy-driven inflation keeps nominal volumes elevated while Fed policy stays restrictive, limiting multiple expansion."
+    },
+    {
+      "date": "2027-09-18",
+      "predicted_most_reasonable_pct_change": -4.0,
+      "scenario_rationale": "The FIFA marketing-services comparison turns into a revenue headwind just as DOJ fact discovery conclusions surface in filings. Headline growth decelerates optically; the market discounts the overhang before clarifying it."
+    },
+    {
+      "date": "2027-12-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Disinflation progress permits the first policy easing expectations, relieving the discount-rate constraint on a 3% free-cash-flow yield. Buyback capacity under the USD 33 billion authorization accelerates per-share compounding."
+    },
+    {
+      "date": "2028-03-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "FY2028 guidance restores mid-teens EPS growth as restructuring annualizes. Honor-All-Cards repeal takes effect with minimal observed merchant steering, defusing the most-feared structural item earlier than consensus assumed."
+    },
+    {
+      "date": "2028-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Stablecoin settlement volume scales further through Visa's own platform rather than around it, validating the absorber thesis. Gains are modest as valuation stays near 29x with rates still historically elevated."
+    },
+    {
+      "date": "2028-09-18",
+      "predicted_most_reasonable_pct_change": -3.0,
+      "scenario_rationale": "DOJ debit litigation approaches trial, producing damaging pretrial disclosures on issuer agreements. The market prices remedy probability ahead of resolution, compressing the multiple independently of operating performance."
+    },
+    {
+      "date": "2028-12-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "A narrower-than-feared litigation posture or partial settlement discussion removes tail risk. Simultaneously agentic commerce contributes first disclosed transaction fees, reframing Visa's addressable-market narrative and lifting sentiment."
+    },
+    {
+      "date": "2029-03-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Normalized rates and steady nominal consumption support low-teens revenue growth. Interchange settlement enters final-approval endgame after appellate delay, converting an open-ended liability into a quantified, phased cost."
+    },
+    {
+      "date": "2029-06-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Value-added services approach 35% of net revenue, structurally diluting interchange sensitivity. Margin recovery toward the low-sixties confirms the 2026 expense surge was an investment cycle, not permanent erosion."
+    },
+    {
+      "date": "2029-09-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Early evidence of large-merchant routing experiments to alternative rails caps enthusiasm. Growth remains intact but the market begins applying a modest structural discount to long-duration take-rate assumptions."
+    },
+    {
+      "date": "2029-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Share count roughly 12% below the 2026 base amplifies per-share earnings. Resilient holiday spending and normalized cross-border travel volumes drive a consistent double-digit revenue print."
+    },
+    {
+      "date": "2030-03-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "Growth decelerates toward high single digits as penetration matures in developed markets and steering pressure accumulates. The multiple drifts toward the mid-twenties, offsetting most earnings progress this quarter."
+    },
+    {
+      "date": "2030-06-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Emerging-market volume, particularly India's faster expansion, and commercial money-movement flows offset developed-market maturity. Free cash flow above USD 28 billion sustains the distribution policy without further balance-sheet strain."
+    },
+    {
+      "date": "2030-09-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Agentic and tokenized commerce become routine revenue contributors rather than narrative items. Steady execution produces incremental gains while the valuation settles into a durable mid-twenties earnings multiple."
+    },
+    {
+      "date": "2030-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "The five-year interchange reduction period expires, removing a known pricing drag on issuer economics and premium-card mix. Rewards competition resumes, modestly reinforcing the credit volume flywheel."
+    },
+    {
+      "date": "2031-03-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "Law-of-large-numbers gravity binds: roughly USD 65 billion revenue growing high single digits attracts a market-like multiple. Buybacks provide the floor while organic rerating potential is largely exhausted."
+    },
+    {
+      "date": "2031-06-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "Competitive rails hold a measurable but contained share of high-ticket merchant volume. Visa's blended take rate erodes slightly, keeping price appreciation broadly in line with earnings growth net of dilution."
+    },
+    {
+      "date": "2031-09-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Horizon-end repricing reflects durable mid-single-digit-plus earnings compounding, a shrunken float and resolved litigation. Visa trades as a defensive quality compounder at roughly 26x, consistent with the base-case arithmetic."
+    }
+  ]
+}

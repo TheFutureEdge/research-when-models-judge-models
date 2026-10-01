@@ -1,0 +1,27 @@
+{
+  "experiment_id": "batch7_consensus_robustness_v1_20260921",
+  "asset_count": 7,
+  "assets": [
+    "visa",
+    "sap",
+    "ibm",
+    "nebius",
+    "moderna",
+    "kratos",
+    "bitcoin"
+  ],
+  "individual_forecast_count": 98,
+  "consensus_output_count": 56,
+  "paired_comparison_count": 42,
+  "source_experiment_copied_unchanged": true,
+  "models": [
+    "Gemini 3.8 Flash",
+    "GPT-6 Astra"
+  ],
+  "conditions_per_model": [
+    "baseline_blinded",
+    "same_order_repeat_blinded",
+    "reverse_order_blinded",
+    "model_disclosed"
+  ]
+}

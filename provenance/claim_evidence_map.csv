@@ -1,0 +1,22 @@
+claim,file,location_or_calculation
+baseline forecasts and 2 sign reversals,analysis/recomputed/runs.csv,condition=baseline_blinded; 14 rows
+cohort gaps and Bitcoin29.45,analysis/recomputed/cross_synthesizer.csv,condition=baseline_blinded; compute absolute cohort means
+source dispersion,analysis/recomputed/source_spread.csv,all seven rows
+effective report count,analysis/recomputed/runs.csv,"baseline_blinded, six equities; mean by synthesizer"
+source disclosure uplift,analysis/recomputed/disclosure.csv,six equities; source_family GPT-6 Astra and Claude Opus 5
+repeat/order robustness,analysis/recomputed/six_equity_summary.csv,all six rows
+pooling operator gaps,analysis/recomputed/runs.csv,five_year_return_percent versus path_pool_five_year_percent
+normalization18vs0,analysis/audit/audit_summary.json,normalization_counts
+parent426and5964,provenance/parent_reconciliation.json,assets and unique_source_tasks
+token usage,analysis/audit/usage_and_retrieval.csv,provider-group sums; excludes reused baselines
+prompt caveat,analysis/audit/prompt_invariance_checks.csv,Bitcoin reverse/disclosed clean_suffix mismatches
+baseline requests verified,provenance/original_baseline_requests.json,seven SHA-256 matches
+first targets,provenance/chronology.json,forecast_dates
+prospective skill unknown,protocol/PROSPECTIVE_OUTCOME_EVALUATION.md,"proposal, not a result"
+initial direction and cohort dispersion,analysis/recomputed/cohort_source_diagnostics.csv,14 source terminal signs and IQR per asset; recorded 3 aligned / 3 divergent / 1 reference
+historical context and all initial paths,data/initial_forecast_price_paths.csv,2499 rows; 7 assets x 17 paths x 21 points; history separately in data/history/
+history provenance and integrity,provenance/history_comparison_validation.json,167 monthly observations and 7 anchors; no original vendor receipts; no outcome validation
+parent completed-release workload,analysis/recomputed/parent_batch_usage.csv,6390 tasks; 6816 stages; input and output normalized by provider
+framework mode model recipe,data/source_configurations.csv,98 report mappings; 9 frameworks with 14 configurations per asset
+same-framework disclosure contrast,analysis/recomputed/matched_framework_summary.csv,Universal Investor Researcher; six equities; absolute ensemble-weight deltas
+five-year history and centered forecast charts,provenance/weekly_history_validation.json,8711 daily records; 1689 weekly samples; 50% width per side; missing periods not interpolated

@@ -1,0 +1,551 @@
+{
+  "opinion_weights": [
+    {
+      "opinion_id": "opinion_2d65f4fc9ce7320664cbde75",
+      "investment_framework": "ray_dalio__the_strategist__longterm_standard_1",
+      "weight": 0.03,
+      "rationale": "Retains a useful capital-cost and replacement-spending stress case, but repeated cash-burn premises are not independent evidence. The asserted three-year accounting cycle conflicts with the filed five-year estimate, and terminal narrative and path differ. Its restrained weight preserves downside sensitivity without endorsing deterministic normalization. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926064092/nbis-20260331xex99d1.htm))"
+    },
+    {
+      "opinion_id": "opinion_2ec485eac40bb4a779042d46",
+      "investment_framework": "superintelligence__the_anthropologist__standard_1",
+      "weight": 0.01,
+      "rationale": "The commoditization warning is economically relevant, but inevitably destructive unit economics, zero switching costs and forced near-term dilution outrun the evidence. Verified positive operating cash inflows and customer advances contradict its undifferentiated cash-distress framing. Correlated assumptions and speculative technology timing justify minimal weight. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d1.htm))"
+    },
+    {
+      "opinion_id": "opinion_42e4497f653644e3cf3fb397",
+      "investment_framework": "elon_musk__the_visionary__standard_1",
+      "weight": 0.05,
+      "rationale": "Contracted demand and software attachment provide a credible counterbalance to merchant-rental pessimism. However, guaranteed chip allocation, early renewal timing and rigid replacement assumptions are insufficiently established. Limited weight also reflects overlapping sources and the uncertain bridge from enterprise growth to diluted per-share cash generation."
+    },
+    {
+      "opinion_id": "opinion_42fc5b214b4176901f42cbb2",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.035,
+      "rationale": "Separating commercial growth from shareholder economics is useful, but cash deficits do not prove value destruction or establish financing dates. The recovery mechanism survives; historical balance-sheet references and correlated assumptions constrain weight. Proposed European sovereignty measures also do not establish the exclusive protection implied here. ([digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_691d76dd02f50d0feb009928",
+      "investment_framework": "jp_morgan__the_titan__standard_1",
+      "weight": 0.025,
+      "rationale": "Customer funding and efficient operations matter, yet prepayment coverage and sovereignty protection are overstated. The positive terminal path also conflicts with persistent-profit-erosion rhetoric. Verified disclosures distinguish deals containing advances from the proportion of capex financed, weakening this otherwise relevant funding argument and warranting low weight. ([assets.nebius.com](https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf))"
+    },
+    {
+      "opinion_id": "opinion_9945398532fe4033d7beb67b",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.065,
+      "rationale": "The revenue-versus-dilution argument coherently recognizes contract-backed financing, supporting a meaningful secondary weight despite shared premises. Nevertheless, terminal equity arithmetic is inconsistent, share counts are simplified and hardware-life assumptions are overstated. Its measured path survives without adopting guaranteed allocations or speculative late-horizon technology rotations."
+    },
+    {
+      "opinion_id": "opinion_9a103cffd6031d207bfb98c8",
+      "investment_framework": "superintelligence__the_anthropologist__standard_1",
+      "weight": 0.045,
+      "rationale": "Emphasizes the important transition from scarcity rents to normalized cash economics while preserving later operating recovery. Evidence for exact rental thresholds, priority allocation and commoditization timing is weaker than its confidence suggests. References overlap materially with other reports, limiting independence and the weight assigned to its distinctive timing."
+    },
+    {
+      "opinion_id": "opinion_9c6f8fbe52f7bc1f2f80d64a",
+      "investment_framework": "michael_burry__the_vulture__standard_1",
+      "weight": 0.04,
+      "rationale": "Correctly distinguishes customer advances from recurring profitability and scrutinizes concentrated counterparties. Assertions of manufactured cash and inevitable asset-value repricing remain unsupported and correlated with other bearish reports. The stress case survives, but verified financing access argues against making its severe outcome central. ([nebius.com](https://nebius.com/newsroom/nebius-raises-775-million-in-first-secured-debt-financing-to-accelerate-global-buildout))"
+    },
+    {
+      "opinion_id": "opinion_a5634ed33f1aef8d50b7dc23",
+      "investment_framework": "sherlock_holmes__the_whistleblower__standard_1",
+      "weight": 0.02,
+      "rationale": "Recognizes contractual funding support and eventual operating leverage, but its enormous buildout-cost estimate lacks a reproducible bridge from contracted power to owned equipment. Terminal narrative and compounded path disagree. Shared funding insights survive at low weight; guaranteed utilization, sovereign grants and precise commissioning dates lack sufficient support."
+    },
+    {
+      "opinion_id": "opinion_ce918d8b3e1a6ff21373af59",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.38,
+      "rationale": "Receives the largest weight because retrieved filings corroborate its accounting-life correction, advance-funded cash flows and realized dilution. It distinguishes residual equity cash from backlog without assuming distress. Source overlap remains substantial, and ambitious terminal revenue, replacement spending and diluted-share assumptions remain forecasts rather than verified outcomes. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926064092/nbis-20260331xex99d1.htm))"
+    },
+    {
+      "opinion_id": "opinion_d01233060f796647947b124b",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.23,
+      "rationale": "Verified higher contract pricing and projected shorter paybacks substantiate the strongest constructive challenge to rapid commoditization. Funding analysis adds economic value despite shared company sources. Weight remains lower because coupon comparisons mix maturities and conversion optionality, while accounting-life and capital-requirement interpretations are imperfect. ([assets.nebius.com](https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf))"
+    },
+    {
+      "opinion_id": "opinion_d7343a2e354bbc32f0aa540c",
+      "investment_framework": "machiavelli__the_insider__standard_1",
+      "weight": 0.025,
+      "rationale": "Power delivery and supplier dependence are legitimate mechanisms, but alleged coordinated enforcement and guaranteed hardware preference lack adequate support. Its constructive trajectory remains plausible. Shared financing premises, inconsistent capacity timing and an underdeveloped shareholder-cash bridge keep the path peripheral rather than allowing distinctive geopolitical speculation to dominate."
+    },
+    {
+      "opinion_id": "opinion_dbfe6b25ca5c2db005194004",
+      "investment_framework": "warren_buffett__the_value_seeker__standard_1",
+      "weight": 0.035,
+      "rationale": "Owner-cash discipline is valuable, and contract funding receives appropriate recognition. However, classifying most expansion spending as maintenance and assuming efficiency necessarily reduces aggregate demand overstates the bearish case. A modest weight preserves renewal risk without accepting correlated distress assumptions or an unsupported fixed hardware-expiry date. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926064092/nbis-20260331xex99d1.htm))"
+    },
+    {
+      "opinion_id": "opinion_ee8483a33b8258d9693e58b7",
+      "investment_framework": "warren_buffett__the_value_seeker__standard_1",
+      "weight": 0.01,
+      "rationale": "The extreme path lacks a credible valuation bridge and conflicts with its recognition of software differentiation and eventual survival. Repeated assumptions supply little independent evidence, while a universal three-year asset cliff is unestablished. Minimal weight retains structurally poor owner economics as a possibility without endorsing the projected severity."
+    }
+  ],
+  "consensus_weighting_assessment": "Retrieved filings support rapid capacity monetization, positive advance-funded operating cash flow and substantial financing dependence. They establish five-year server accounting lives, contradicting repeated three-year accounting claims; economic replacement timing remains uncertain. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d1.htm)) The strongest constructive case combines higher contracted pricing, shorter projected paybacks and repeatable secured funding, not an assumed software monopoly. ([assets.nebius.com](https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf)) These findings favor the two reports most clearly separating project economics from diluted-share cash capture. Repeated trailing cash-burn, sovereign-exclusivity and immediate-refinancing assertions are correlated premises, not independent confirmation. Several terminal narratives disagree with their frozen paths. I downweight those contradictions, unverified enforcement claims and unsupported funding totals rather than excluding bearish outcomes. The trailing cash-flow reconciliation and current fully diluted denominator remain unresolved. Factor impacts are nonadditive judgments on normalized earning power, not mechanical changes to current reported losses.",
+  "consensus_quarterly_rationales": [
+    {
+      "date": "2026-12-18",
+      "scenario_rationale": "Newly commissioned capacity and stronger contracted pricing outweigh immediate funding concerns. Revenue recognition rewards execution, while customer-backed liquidity supports construction. The advance remains constrained by financing claims and uncertainty about how much cash ultimately belongs to existing shareholders."
+    },
+    {
+      "date": "2027-03-18",
+      "scenario_rationale": "Annual reporting shifts attention from capacity growth to its funding requirements. Strong guidance provides a counterweight, but customer advances, equipment purchases and dilution make revenue momentum less persuasive as evidence of cash available to shareholders."
+    },
+    {
+      "date": "2027-06-18",
+      "scenario_rationale": "Accepted capacity improves utilization, yet further funding needs and hardware expense dominate the balance. The modeled setback reflects the cost of financing expansion rather than a demand failure; better commissioning efficiency prevents a more severe reassessment."
+    },
+    {
+      "date": "2027-09-18",
+      "scenario_rationale": "The market weighs firmer contracted pricing against another period of spending ahead of retained cash. Funding and prospective issuance carry greater weight than operating momentum, while softer merchant yields introduce uncertainty around returns on later capacity."
+    },
+    {
+      "date": "2027-12-18",
+      "scenario_rationale": "Recurring inference workloads and additional contracted billing restore some confidence after funding concerns. Better scheduling and utilization support the recovery, although weaker uncontracted pricing and continuing reinvestment prevent investors from treating owned infrastructure as an asset-light software platform."
+    },
+    {
+      "date": "2028-03-18",
+      "scenario_rationale": "Renewal economics become the decisive test as competition challenges earlier scarcity assumptions. Fixed construction commitments and rising equipment costs leave less room for disappointment, producing a pronounced valuation reset despite continuing revenue expansion and pockets of resilient demand."
+    },
+    {
+      "date": "2028-06-18",
+      "scenario_rationale": "More repeatable secured funding and standardized site ramps ease immediate financing pressure. Early partner-owned installations offer better incremental capital efficiency, supporting a rebound, while persistent refresh obligations and uncertain merchant pricing keep the improvement conditional rather than transformative."
+    },
+    {
+      "date": "2028-09-18",
+      "scenario_rationale": "Hardware refresh budgets reveal how little adjusted earnings can safely be distributed. Improving utilization and selected financing progress provide support, but the weighted scenario favors renewed valuation pressure as investors separate accounting useful lives from economic replacement needs."
+    },
+    {
+      "date": "2028-12-18",
+      "scenario_rationale": "Disappointing renewal yields and less favorable funding terms outweigh spending restraint and steadier contracted collections. The setback is milder than an outright demand shock, but it underscores that occupancy protection does not guarantee attractive margins on every deployment."
+    },
+    {
+      "date": "2029-03-18",
+      "scenario_rationale": "Stable occupancy and operating efficiencies begin to establish a cash-generation floor. Refinancing and pricing concerns remain substantial, leaving only tentative stabilization as the market tests whether contract collections can support equipment renewal without another material transfer of ownership."
+    },
+    {
+      "date": "2029-06-18",
+      "scenario_rationale": "The equity pauses as concentrated hardware refresh spending absorbs cash otherwise available for debt reduction. Lower construction intensity and efficiency improvements nearly offset that burden, but investors still resist capitalizing accounting earnings as fully distributable cash."
+    },
+    {
+      "date": "2029-09-18",
+      "scenario_rationale": "Replacement deployments begin earning revenue and operating disruption recedes. Retained customers, expanding inference use and slower support-cost growth improve cash conversion, allowing the recovery to rest more on demonstrated project economics than on another expansion of scarcity premiums."
+    },
+    {
+      "date": "2029-12-18",
+      "scenario_rationale": "A larger installed base and more disciplined project selection strengthen recurring cash contribution. Although equipment renewal remains unavoidable, tighter investment hurdles improve the balance between growth and shareholder funding, supporting a measured recovery in cash-based valuation."
+    },
+    {
+      "date": "2030-03-18",
+      "scenario_rationale": "Improving operating results make selective debt repayment or maturity extensions more credible. Reduced financing uncertainty supports valuation, while a broader customer mix helps the business withstand renewal negotiations; past conversion dilution still limits the benefit captured by existing shares."
+    },
+    {
+      "date": "2030-06-18",
+      "scenario_rationale": "Renewal negotiations expose customers' growing procurement leverage as competing capacity becomes available. Efficiency gains cannot fully offset weaker compute yields in this scenario, so valuation retreats while investors reassess margins after financing and realistic equipment replacement."
+    },
+    {
+      "date": "2030-09-18",
+      "scenario_rationale": "Newer equipment and selectively funded partner capacity improve cash economics despite normalized rental pricing. The recovery favors scale, execution and capital discipline, with industry consolidation offering additional support but not requiring a return to exceptional scarcity-driven valuation multiples."
+    },
+    {
+      "date": "2030-12-18",
+      "scenario_rationale": "Expansion spending moves toward a steadier replacement rhythm, allowing more operating cash to remain after reinvestment. Software and management fees add incremental support, while debt reduction becomes more credible; hardware obligations still prevent unrestricted capital distributions."
+    },
+    {
+      "date": "2031-03-18",
+      "scenario_rationale": "Renewed contracts increasingly demonstrate profitability after financing and equipment renewal. That evidence reduces uncertainty around sustainable earnings and supports the shares, although the accumulated diluted share base continues to separate enterprise progress from the wealth accruing to earlier owners."
+    },
+    {
+      "date": "2031-06-18",
+      "scenario_rationale": "Stabilizing construction intensity makes recurring equity cash flow easier to assess. Investors increasingly compare the business with cash-generating infrastructure operators, supporting restrained appreciation while slower growth and technology renewal requirements limit the premium assigned to future expansion."
+    },
+    {
+      "date": "2031-09-18",
+      "scenario_rationale": "The horizon closes with a larger, more cash-generative infrastructure business rather than an unrestricted software franchise. Contract durability and disciplined reinvestment support valuation, but financing claims and accumulated dilution keep the shareholder outcome far less dramatic than operational growth."
+    }
+  ],
+  "headline_title": "Record AI Contracts Meet the Harder Test of Shareholder Cash",
+  "geo_optimization_snippet": "Nebius can convert contracted AI demand into substantial business growth without delivering comparable value per share. High consensus centers on financing dilution and hardware reinvestment; sharp divergence concerns how long power scarcity protects pricing. Customer-backed funding and partner-owned capacity are the strongest counterweights.",
+  "expert_seo_thesis": "Nebius is best understood as a claim on residual cash, not contracted megawatts. The base case allows substantial capacity delivery, stronger utilization and recurring inference demand, but financing claims and hardware renewal absorb much of the operating expansion. Valuation should therefore migrate from annualized revenue toward cash remaining after replacement spending and dilution. The strongest counterargument is credible: higher contracted pricing, customer advances and partner-funded infrastructure could improve capital efficiency before scarcity fades. However, management's projected project paybacks are not realized fleet returns, and disputed trailing cash-flow metrics cannot establish inevitable insolvency or justify software economics. ([assets.nebius.com](https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf))\n-- Advance payments can shorten funding gaps while increasing delivery obligations; rapid operating cash growth can therefore coexist with deteriorating cash available to shareholders.\n-- Power scarcity may protect rental yields longer than chip shortages, making commissioning speed and replacement-adjusted contract profitability more important than hardware ownership alone.\n-- Partner-owned capacity improves equity economics only when lower equipment spending is not replaced by minimum purchase guarantees, hidden leverage or equivalent commercial obligations.",
+  "simple_seo_thesis": "Nebius can become a much larger AI computing business without each share becoming equally more valuable. New machines need cash, lenders get paid first, and issuing shares divides future profits among more owners. The hopeful case is that strong rental prices, customer deposits and outside infrastructure partners reduce that burden. The cautious case is that replacing equipment keeps swallowing the money growth produces. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d1.htm))\n-- Customer deposits help pay construction bills, but that cash comes with a promise to provide computing later.\n-- Scarce electricity connections can protect pricing even when chips become easier to buy, extending the earnings opportunity.\n-- Outside partners help shareholders only if they fund equipment without leaving Nebius responsible for equally costly promises.",
+  "consensus_crowd_narrative": "September 2026 analyst commentary cited in the inputs favors a scarce AI platform whose contracts can finance rapid expansion; those estimates were not independently retrieved. The supplied trailing valuation implies demanding growth assumptions, not permanent monopoly margins. Reported analyst dispersion contradicts portrayals of universal euphoria, and no broad positioning evidence establishes how representative that bullish narrative is.",
+  "consensus_alpha_gap": "The crowd appears to overestimate value, although the evidence supports a shareholder-cash gap more strongly than a precise mispricing estimate. Financeable backlog does not equal distributable cash per diluted share; August's debt-for-share exchanges make that distinction tangible. ([nebius.com](https://nebius.com/newsroom/nebius-group-announces-closing-of-private-offering-of-convertible-senior-notes-with-aggregate-gross-proceeds-of-approximately-5-75-billion)) Power-linked pricing and customer-funded projects challenge the bearish interpretation: if their economics survive renewal and hardware replacement, dilution could become productive rather than destructive. The investment implication is valuation discipline, not an assumption of business failure. Broad crowd positioning remains unverified.",
+  "consensus_convergence_catalyst": "Combined capital-spending guidance, financing terms and diluted-share disclosures in the late-2026 through 2027 reporting cycle provide the clearest trigger. Revenue upgrades accompanied by weaker replacement-adjusted cash estimates would expose the shareholder-cash gap and pressure valuation. Renewal evidence during 2028–2029 makes that judgment durable. Conversely, repeatable secured financing or commercially accepted partner capacity could close the gap through better fundamentals rather than downward repricing.",
+  "consensus_macro_regime_alignment": "The setup is mixed operationally but a valuation headwind. September's Federal Reserve tightening raises the hurdle for financing capacity before customer acceptance; SOFR-linked secured borrowing transmits rates directly. Contracted demand and customer advances provide cushions, but do not remove refinancing exposure or the discount applied to distant shareholder cash. ([federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm?utm_source=openai))",
+  "consensus_sentiment_regime": {
+    "dominant_greed_and_fear_sentiment": "greed",
+    "dominant_volatility_regime": "high_erratic",
+    "dominant_convergence_cycle_position": "overshoot",
+    "regime_disagreement_summary": "Volatility expectations align around sharp swings, while the main cycle disagreement separates operating momentum from valuation overshoot. Capacity delivery can sustain enthusiasm before financing and renewal economics become decisive, making recognition uneven rather than a single scheduled reversal."
+  },
+  "consensus_driver_factors": [
+    {
+      "event_name": "Connected power converts contracted demand",
+      "category": "competitive_positioning",
+      "description": "Commissioned power, rather than a paper megawatt pipeline, turns contracted demand into billable compute. Customer agreements support deployment visibility and can protect utilization while interconnection scarcity supports pricing. The base case expects substantial conversion, not guaranteed delivery; conditional backstop capacity must not be counted again alongside the third-party sales it replaces. ([nebius.com](https://nebius.com/newsroom/nebius-signs-new-ai-infrastructure-agreement-with-meta))",
+      "expected_impact_pct_on_price": 60,
+      "expected_impact_pct_on_company_earnings": 120
+    },
+    {
+      "event_name": "Customer funding preserves ownership",
+      "category": "capital_allocation",
+      "description": "Customer advances and loans secured against deployed equipment and contracted cash flows can reduce incremental common-equity needs. July's facility demonstrates a workable structure, not unlimited funding capacity. The base case favors broader use, while collateral requirements, floating rates and future service obligations prevent financing success from being mistaken for earned profit. ([nebius.com](https://nebius.com/newsroom/nebius-raises-775-million-in-first-secured-debt-financing-to-accelerate-global-buildout))",
+      "expected_impact_pct_on_price": 30,
+      "expected_impact_pct_on_company_earnings": 30
+    },
+    {
+      "event_name": "Software deepens recurring compute demand",
+      "category": "innovation_and_product",
+      "description": "Enterprise inference and orchestration can make an existing GPU fleet more valuable without requiring software margins across the company. The Palantir integration offers a distribution route into recurring workloads, improving retention and scheduling. Commercialization depends on integration and customer adoption, so the base case assumes incremental margin protection rather than a platform monopoly. ([nebius.com](https://nebius.com/newsroom/palantir-and-nebius-partner-to-deliver-a-complete-sovereign-ai-stack-to-palantir-customers))",
+      "expected_impact_pct_on_price": 30,
+      "expected_impact_pct_on_company_earnings": 40
+    },
+    {
+      "event_name": "Utilization unlocks operating leverage",
+      "category": "operational_efficiency",
+      "description": "Higher occupancy and standardized commissioning spread support, engineering and facility costs across more billable work. Improving AI-cloud adjusted margins support further operating leverage, while efficient cooling and workload scheduling can lower delivery costs. These gains matter only when measured after share compensation and realistic equipment economics, not extrapolated from unburdened gross margins. ([assets.nebius.com](https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf))",
+      "expected_impact_pct_on_price": 25,
+      "expected_impact_pct_on_company_earnings": 50
+    }
+  ],
+  "consensus_friction_factors": [
+    {
+      "event_name": "Financing divides the growth",
+      "category": "capital_allocation",
+      "description": "External capital can build a valuable enterprise while reducing the fraction owned by existing shareholders. Debt exchanges, conversion rights and fresh issuance create persistent competing claims on future growth, while interest reduces company earnings. Customer funding moderates this friction, but does not eliminate the need to match spending with collections. ([nebius.com](https://nebius.com/newsroom/nebius-group-announces-closing-of-private-offering-of-convertible-senior-notes-with-aggregate-gross-proceeds-of-approximately-5-75-billion))",
+      "expected_impact_pct_on_price": -35,
+      "expected_impact_pct_on_company_earnings": -15
+    },
+    {
+      "event_name": "Replacement outruns accounting relief",
+      "category": "operational_efficiency",
+      "description": "Equipment renewal consumes cash even when accounting charges decline. Filed server lives increased to five years, not three, but neither schedule establishes realized economic longevity. A growing fleet requires substantial refresh spending; disciplined valuation deducts that spending without assuming every growth purchase is maintenance or every older accelerator becomes worthless. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926064092/nbis-20260331xex99d1.htm))",
+      "expected_impact_pct_on_price": -30,
+      "expected_impact_pct_on_company_earnings": -35
+    },
+    {
+      "event_name": "Renewals test scarcity rents",
+      "category": "competitive_positioning",
+      "description": "Contracts delay exposure to merchant price swings; they do not eliminate renewal bargaining. Competing clouds and customer-owned capacity should pressure normalized compute yields over five years. The credible dispute concerns timing: scarce connected power and higher current contract pricing could extend favorable economics before that pressure reaches the fleet. ([assets.nebius.com](https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf))",
+      "expected_impact_pct_on_price": -30,
+      "expected_impact_pct_on_company_earnings": -40
+    },
+    {
+      "event_name": "Cash economics reset valuation",
+      "category": "sector_and_industry",
+      "description": "Even successful growth can justify a lower valuation per revenue dollar as investors demand cash after replacement and financing costs. The supplied trailing multiple is not directly comparable with forward annualized revenue, and its current share denominator remains unreconciled. Reassessment is likely over the horizon without requiring weaker operating earnings.",
+      "expected_impact_pct_on_price": -25,
+      "expected_impact_pct_on_company_earnings": 0
+    }
+  ],
+  "consensus_tail_opportunities": [
+    {
+      "event_name": "Partner funding changes project economics",
+      "category": "capital_allocation",
+      "description": "Acceptance of a fully financed partner-owned capacity program during 2027–2029 would be the decisive upside event. Platform fees could grow without matching equipment purchases, reducing dilution and raising cash returns. Probability remains below half because commercial terms, scale and service guarantees are unproven; transferring ownership alone does not transfer economic risk. ([nebius.com](https://nebius.com/newsroom/nebius-introduces-business-model-to-scale-ai-cloud-globally-through-infrastructure-partnerships))",
+      "probability_pct": 35,
+      "upside_impact_pct": 65
+    },
+    {
+      "event_name": "Portfolio stake sale funds capacity",
+      "category": "capital_allocation",
+      "description": "A realized sale of a material ClickHouse or Avride stake during 2027–2030 could convert portfolio value into cash for equipment and debt reduction. Unlike noncash revaluations, proceeds could replace common issuance. The event remains below even odds because listing windows, ownership economics, sale restrictions and proceeds are uncertain; operational milestones alone do not deliver spendable liquidity. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm))",
+      "probability_pct": 25,
+      "upside_impact_pct": 30
+    }
+  ],
+  "consensus_tail_risks": [
+    {
+      "event_name": "Commissioning delay meets funding closure",
+      "category": "capital_allocation",
+      "description": "A prolonged commissioning delay during 2027–2029 coinciding with restricted lending could leave equipment bills due before customer acceptance and collections. Emergency equity or asset sales would transfer value from existing owners and slow deployment. Probability remains below half because funding and advances provide buffers, but neither eliminates the mismatch between fixed commitments and uncertain delivery timing. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d1.htm))",
+      "probability_pct": 30,
+      "downside_impact_pct": -50
+    },
+    {
+      "event_name": "Anchor contract enters material dispute",
+      "category": "competitive_positioning",
+      "description": "A major buyer disputing delivery or restructuring a capacity agreement during 2027–2030 could interrupt collections without an outright counterparty default. Idle equipment, reduced advances and weaker replacement economics would compound the earnings and liquidity damage. Contractual protection and strong counterparties keep probability below half, but concentrated exposure makes one disputed tranche financially consequential. ([nebius.com](https://nebius.com/newsroom/nebius-signs-new-ai-infrastructure-agreement-with-meta))",
+      "probability_pct": 25,
+      "downside_impact_pct": -50
+    }
+  ],
+  "consensus_disagreement_summary": "The central disagreement is whether scarce connected power and improved contract terms preserve attractive project returns long enough to outrun dilution, or whether renewal competition and replacement spending absorb those gains. Both can coexist: enterprise revenue may rise while cash per share disappoints. Filings resolve the accounting-life dispute, but not economic hardware longevity. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926064092/nbis-20260331xex99d1.htm)) Some conflicts instead reflect trailing revenue versus annualized run rates, historical versus current balance sheets, and unlike convertible maturities. Delivered contract paybacks after replacement, together with a reconciled diluted share count, would resolve more than headline backlog growth.",
+  "consensus_thesis_watchpoints": "-- Confirmation: Through 2027, rising diluted shares and cash deficits after equipment spending despite revenue growth would validate the limited shareholder-capture thesis.\n-- Deterioration: During 2027–2028, commissioning delays or falling contracted collections would undermine the base case of orderly, financeable expansion.\n-- Reassessment: By 2029, sustained positive cash flow excluding growing customer advances and after hardware replacement would materially weaken the valuation caution.",
+  "simple_earnings_and_financials_trend_assessment_synthesis": "Nebius's August 12, 2026 release shows genuine operating acceleration: Q2 revenue reached $582 million, while the group still reported an operating loss. First-half reported profit included $781 million of investment revaluation gains. Those gains are not cash earned from delivering compute, so headline net income overstates recurring profitability. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm))\n\nCash tells an equally important story. Customer advances helped produce positive operating cash flow, contrary to descriptions of uniformly negative operating cash generation. Equipment purchases nevertheless exceeded that inflow. The financial picture is improving commercially but not yet self-funding; the supplied trailing free-cash-flow figure remains unreconciled and should not anchor valuation. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d1.htm))",
+  "simple_capex_and_investment_intensity_trend_assessment_synthesis": "Investment is running ahead of operating cash inflow. The August 12 release reports Q2 2026 equipment and intangible purchases of $5.66 billion against $2.25 billion of operating cash inflow. This is Nebius's equipment and construction spending, not its customers' AI budgets. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm))\n\nThe strategy buys capacity before it becomes billable. That can create value if contracted collections arrive on schedule; it does not prove all spending is wasteful maintenance. Management's shorter projected paybacks remain untested across unbuilt projects. Partner-funded infrastructure could ease future funding needs, but only if equivalent commitments do not remain with Nebius. ([assets.nebius.com](https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf))",
+  "simple_balance_sheet_strength_and_leverage_assessment_synthesis": "At June 30, 2026, Nebius reported $8.04 billion in cash and $8.55 billion of gross debt. That is modest net debt before later financing, not an unrestricted cash surplus. Advances require future service, while leases and purchase commitments compete for liquidity. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm))\n\nAugust's convertible issuance and debt-for-share exchanges changed both borrowing and ownership. They cannot simply be added to June balances without accounting for exchanged debt and intervening spending. The balance sheet provides execution time, but resilience depends on collections matching construction obligations. Investment-grade customers strengthen financing collateral; they do not automatically confer an investment-grade credit profile on Nebius. ([nebius.com](https://nebius.com/newsroom/nebius-group-announces-closing-of-private-offering-of-convertible-senior-notes-with-aggregate-gross-proceeds-of-approximately-5-75-billion))",
+  "simple_profitability_margins_trend_assessment_synthesis": "Margins are improving, but the accounting layers measure different things. The Q2 2026 shareholder letter reports AI-cloud adjusted EBITDA margin near 50%. Group operating results remain negative because depreciation, equity compensation, development and corporate costs still absorb the contribution from compute delivery. ([assets.nebius.com](https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf))\n\nThe first-quarter filing confirms that server and network accounting lives increased to five years. That lowers annual booked depreciation without proving longer economic usefulness. Conversely, a universal three-year replacement cliff is not established. Sustainable profitability depends on actual fleet cash paybacks and renewal economics, not simply stronger gross margins or longer accounting lives. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926064092/nbis-20260331xex99d1.htm))",
+  "submitted_opinion_weights": [
+    {
+      "opinion_id": "opinion_2d65f4fc9ce7320664cbde75",
+      "investment_framework": "ray_dalio__the_strategist__longterm_standard_1",
+      "weight": 0.03,
+      "rationale": "Retains a useful capital-cost and replacement-spending stress case, but repeated cash-burn premises are not independent evidence. The asserted three-year accounting cycle conflicts with the filed five-year estimate, and terminal narrative and path differ. Its restrained weight preserves downside sensitivity without endorsing deterministic normalization. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926064092/nbis-20260331xex99d1.htm))"
+    },
+    {
+      "opinion_id": "opinion_2ec485eac40bb4a779042d46",
+      "investment_framework": "superintelligence__the_anthropologist__standard_1",
+      "weight": 0.01,
+      "rationale": "The commoditization warning is economically relevant, but inevitably destructive unit economics, zero switching costs and forced near-term dilution outrun the evidence. Verified positive operating cash inflows and customer advances contradict its undifferentiated cash-distress framing. Correlated assumptions and speculative technology timing justify minimal weight. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d1.htm))"
+    },
+    {
+      "opinion_id": "opinion_42e4497f653644e3cf3fb397",
+      "investment_framework": "elon_musk__the_visionary__standard_1",
+      "weight": 0.05,
+      "rationale": "Contracted demand and software attachment provide a credible counterbalance to merchant-rental pessimism. However, guaranteed chip allocation, early renewal timing and rigid replacement assumptions are insufficiently established. Limited weight also reflects overlapping sources and the uncertain bridge from enterprise growth to diluted per-share cash generation."
+    },
+    {
+      "opinion_id": "opinion_42fc5b214b4176901f42cbb2",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.035,
+      "rationale": "Separating commercial growth from shareholder economics is useful, but cash deficits do not prove value destruction or establish financing dates. The recovery mechanism survives; historical balance-sheet references and correlated assumptions constrain weight. Proposed European sovereignty measures also do not establish the exclusive protection implied here. ([digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada?utm_source=openai))"
+    },
+    {
+      "opinion_id": "opinion_691d76dd02f50d0feb009928",
+      "investment_framework": "jp_morgan__the_titan__standard_1",
+      "weight": 0.025,
+      "rationale": "Customer funding and efficient operations matter, yet prepayment coverage and sovereignty protection are overstated. The positive terminal path also conflicts with persistent-profit-erosion rhetoric. Verified disclosures distinguish deals containing advances from the proportion of capex financed, weakening this otherwise relevant funding argument and warranting low weight. ([assets.nebius.com](https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf))"
+    },
+    {
+      "opinion_id": "opinion_9945398532fe4033d7beb67b",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.065,
+      "rationale": "The revenue-versus-dilution argument coherently recognizes contract-backed financing, supporting a meaningful secondary weight despite shared premises. Nevertheless, terminal equity arithmetic is inconsistent, share counts are simplified and hardware-life assumptions are overstated. Its measured path survives without adopting guaranteed allocations or speculative late-horizon technology rotations."
+    },
+    {
+      "opinion_id": "opinion_9a103cffd6031d207bfb98c8",
+      "investment_framework": "superintelligence__the_anthropologist__standard_1",
+      "weight": 0.045,
+      "rationale": "Emphasizes the important transition from scarcity rents to normalized cash economics while preserving later operating recovery. Evidence for exact rental thresholds, priority allocation and commoditization timing is weaker than its confidence suggests. References overlap materially with other reports, limiting independence and the weight assigned to its distinctive timing."
+    },
+    {
+      "opinion_id": "opinion_9c6f8fbe52f7bc1f2f80d64a",
+      "investment_framework": "michael_burry__the_vulture__standard_1",
+      "weight": 0.04,
+      "rationale": "Correctly distinguishes customer advances from recurring profitability and scrutinizes concentrated counterparties. Assertions of manufactured cash and inevitable asset-value repricing remain unsupported and correlated with other bearish reports. The stress case survives, but verified financing access argues against making its severe outcome central. ([nebius.com](https://nebius.com/newsroom/nebius-raises-775-million-in-first-secured-debt-financing-to-accelerate-global-buildout))"
+    },
+    {
+      "opinion_id": "opinion_a5634ed33f1aef8d50b7dc23",
+      "investment_framework": "sherlock_holmes__the_whistleblower__standard_1",
+      "weight": 0.02,
+      "rationale": "Recognizes contractual funding support and eventual operating leverage, but its enormous buildout-cost estimate lacks a reproducible bridge from contracted power to owned equipment. Terminal narrative and compounded path disagree. Shared funding insights survive at low weight; guaranteed utilization, sovereign grants and precise commissioning dates lack sufficient support."
+    },
+    {
+      "opinion_id": "opinion_ce918d8b3e1a6ff21373af59",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.38,
+      "rationale": "Receives the largest weight because retrieved filings corroborate its accounting-life correction, advance-funded cash flows and realized dilution. It distinguishes residual equity cash from backlog without assuming distress. Source overlap remains substantial, and ambitious terminal revenue, replacement spending and diluted-share assumptions remain forecasts rather than verified outcomes. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926064092/nbis-20260331xex99d1.htm))"
+    },
+    {
+      "opinion_id": "opinion_d01233060f796647947b124b",
+      "investment_framework": "universal_investor__the_polymath__standard_1",
+      "weight": 0.23,
+      "rationale": "Verified higher contract pricing and projected shorter paybacks substantiate the strongest constructive challenge to rapid commoditization. Funding analysis adds economic value despite shared company sources. Weight remains lower because coupon comparisons mix maturities and conversion optionality, while accounting-life and capital-requirement interpretations are imperfect. ([assets.nebius.com](https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf))"
+    },
+    {
+      "opinion_id": "opinion_d7343a2e354bbc32f0aa540c",
+      "investment_framework": "machiavelli__the_insider__standard_1",
+      "weight": 0.025,
+      "rationale": "Power delivery and supplier dependence are legitimate mechanisms, but alleged coordinated enforcement and guaranteed hardware preference lack adequate support. Its constructive trajectory remains plausible. Shared financing premises, inconsistent capacity timing and an underdeveloped shareholder-cash bridge keep the path peripheral rather than allowing distinctive geopolitical speculation to dominate."
+    },
+    {
+      "opinion_id": "opinion_dbfe6b25ca5c2db005194004",
+      "investment_framework": "warren_buffett__the_value_seeker__standard_1",
+      "weight": 0.035,
+      "rationale": "Owner-cash discipline is valuable, and contract funding receives appropriate recognition. However, classifying most expansion spending as maintenance and assuming efficiency necessarily reduces aggregate demand overstates the bearish case. A modest weight preserves renewal risk without accepting correlated distress assumptions or an unsupported fixed hardware-expiry date. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1513845/000110465926064092/nbis-20260331xex99d1.htm))"
+    },
+    {
+      "opinion_id": "opinion_ee8483a33b8258d9693e58b7",
+      "investment_framework": "warren_buffett__the_value_seeker__standard_1",
+      "weight": 0.01,
+      "rationale": "The extreme path lacks a credible valuation bridge and conflicts with its recognition of software differentiation and eventual survival. Repeated assumptions supply little independent evidence, while a universal three-year asset cliff is unestablished. Minimal weight retains structurally poor owner economics as a possibility without endorsing the projected severity."
+    }
+  ],
+  "consensus_timeseries": [
+    {
+      "date": "2026-12-18",
+      "scenario_rationale": "Newly commissioned capacity and stronger contracted pricing outweigh immediate funding concerns. Revenue recognition rewards execution, while customer-backed liquidity supports construction. The advance remains constrained by financing claims and uncertainty about how much cash ultimately belongs to existing shareholders.",
+      "forecast_step": 1,
+      "predicted_most_reasonable_pct_change": 3.49,
+      "compounded_return_percent": 3.49,
+      "predicted_price": 231.341546
+    },
+    {
+      "date": "2027-03-18",
+      "scenario_rationale": "Annual reporting shifts attention from capacity growth to its funding requirements. Strong guidance provides a counterweight, but customer advances, equipment purchases and dilution make revenue momentum less persuasive as evidence of cash available to shareholders.",
+      "forecast_step": 2,
+      "predicted_most_reasonable_pct_change": -2.59,
+      "compounded_return_percent": 0.809609,
+      "predicted_price": 225.3497999586
+    },
+    {
+      "date": "2027-06-18",
+      "scenario_rationale": "Accepted capacity improves utilization, yet further funding needs and hardware expense dominate the balance. The modeled setback reflects the cost of financing expansion rather than a demand failure; better commissioning efficiency prevents a more severe reassessment.",
+      "forecast_step": 3,
+      "predicted_most_reasonable_pct_change": -2.595,
+      "compounded_return_percent": -1.80640035355,
+      "predicted_price": 219.50197264967434
+    },
+    {
+      "date": "2027-09-18",
+      "scenario_rationale": "The market weighs firmer contracted pricing against another period of spending ahead of retained cash. Funding and prospective issuance carry greater weight than operating momentum, while softer merchant yields introduce uncertainty around returns on later capacity.",
+      "forecast_step": 4,
+      "predicted_most_reasonable_pct_change": -3.59,
+      "compounded_return_percent": -5.331550580857555,
+      "predicted_price": 211.62185183155103
+    },
+    {
+      "date": "2027-12-18",
+      "scenario_rationale": "Recurring inference workloads and additional contracted billing restore some confidence after funding concerns. Better scheduling and utilization support the recovery, although weaker uncontracted pricing and continuing reinvestment prevent investors from treating owned infrastructure as an asset-light software platform.",
+      "forecast_step": 5,
+      "predicted_most_reasonable_pct_change": 1.525,
+      "compounded_return_percent": -3.887856727215633,
+      "predicted_price": 214.8490850719822
+    },
+    {
+      "date": "2028-03-18",
+      "scenario_rationale": "Renewal economics become the decisive test as competition challenges earlier scarcity assumptions. Fixed construction commitments and rising equipment costs leave less room for disappointment, producing a pronounced valuation reset despite continuing revenue expansion and pockets of resilient demand.",
+      "forecast_step": 6,
+      "predicted_most_reasonable_pct_change": -9.23,
+      "compounded_return_percent": -12.75900755129363,
+      "predicted_price": 195.01851451983822
+    },
+    {
+      "date": "2028-06-18",
+      "scenario_rationale": "More repeatable secured funding and standardized site ramps ease immediate financing pressure. Early partner-owned installations offer better incremental capital efficiency, supporting a rebound, while persistent refresh obligations and uncertain merchant pricing keep the improvement conditional rather than transformative.",
+      "forecast_step": 7,
+      "predicted_most_reasonable_pct_change": 1.995,
+      "compounded_return_percent": -11.018549751941938,
+      "predicted_price": 198.909133884509
+    },
+    {
+      "date": "2028-09-18",
+      "scenario_rationale": "Hardware refresh budgets reveal how little adjusted earnings can safely be distributed. Improving utilization and selected financing progress provide support, but the weighted scenario favors renewed valuation pressure as investors separate accounting useful lives from economic replacement needs.",
+      "forecast_step": 8,
+      "predicted_most_reasonable_pct_change": -2.645,
+      "compounded_return_percent": -13.372109111003073,
+      "predicted_price": 193.64798729326372
+    },
+    {
+      "date": "2028-12-18",
+      "scenario_rationale": "Disappointing renewal yields and less favorable funding terms outweigh spending restraint and steadier contracted collections. The setback is milder than an outright demand shock, but it underscores that occupancy protection does not guarantee attractive margins on every deployment.",
+      "forecast_step": 9,
+      "predicted_most_reasonable_pct_change": -1.415,
+      "compounded_return_percent": -14.59789376708238,
+      "predicted_price": 190.90786827306405
+    },
+    {
+      "date": "2029-03-18",
+      "scenario_rationale": "Stable occupancy and operating efficiencies begin to establish a cash-generation floor. Refinancing and pricing concerns remain substantial, leaving only tentative stabilization as the market tests whether contract collections can support equipment renewal without another material transfer of ownership.",
+      "forecast_step": 10,
+      "predicted_most_reasonable_pct_change": 0.28,
+      "compounded_return_percent": -14.35876786963021,
+      "predicted_price": 191.44241030422862
+    },
+    {
+      "date": "2029-06-18",
+      "scenario_rationale": "The equity pauses as concentrated hardware refresh spending absorbs cash otherwise available for debt reduction. Lower construction intensity and efficiency improvements nearly offset that burden, but investors still resist capitalizing accounting earnings as fully distributable cash.",
+      "forecast_step": 11,
+      "predicted_most_reasonable_pct_change": -0.25,
+      "compounded_return_percent": -14.572870949956135,
+      "predicted_price": 190.96380427846805
+    },
+    {
+      "date": "2029-09-18",
+      "scenario_rationale": "Replacement deployments begin earning revenue and operating disruption recedes. Retained customers, expanding inference use and slower support-cost growth improve cash conversion, allowing the recovery to rest more on demonstrated project economics than on another expansion of scarcity premiums.",
+      "forecast_step": 12,
+      "predicted_most_reasonable_pct_change": 4.365,
+      "compounded_return_percent": -10.84397676692172,
+      "predicted_price": 199.29937433522318
+    },
+    {
+      "date": "2029-12-18",
+      "scenario_rationale": "A larger installed base and more disciplined project selection strengthen recurring cash contribution. Although equipment renewal remains unavoidable, tighter investment hurdles improve the balance between growth and shareholder funding, supporting a measured recovery in cash-based valuation.",
+      "forecast_step": 13,
+      "predicted_most_reasonable_pct_change": 3.23,
+      "compounded_return_percent": -7.964237216493292,
+      "predicted_price": 205.7367441262509
+    },
+    {
+      "date": "2030-03-18",
+      "scenario_rationale": "Improving operating results make selective debt repayment or maturity extensions more credible. Reduced financing uncertainty supports valuation, while a broader customer mix helps the business withstand renewal negotiations; past conversion dilution still limits the benefit captured by existing shares.",
+      "forecast_step": 14,
+      "predicted_most_reasonable_pct_change": 4.01,
+      "compounded_return_percent": -4.273603128874673,
+      "predicted_price": 213.98678756571357
+    },
+    {
+      "date": "2030-06-18",
+      "scenario_rationale": "Renewal negotiations expose customers' growing procurement leverage as competing capacity becomes available. Efficiency gains cannot fully offset weaker compute yields in this scenario, so valuation retreats while investors reassess margins after financing and realistic equipment replacement.",
+      "forecast_step": 15,
+      "predicted_most_reasonable_pct_change": -2.935,
+      "compounded_return_percent": -7.083172877042202,
+      "predicted_price": 207.70627535065987
+    },
+    {
+      "date": "2030-09-18",
+      "scenario_rationale": "Newer equipment and selectively funded partner capacity improve cash economics despite normalized rental pricing. The recovery favors scale, execution and capital discipline, with industry consolidation offering additional support but not requiring a return to exceptional scarcity-driven valuation multiples.",
+      "forecast_step": 16,
+      "predicted_most_reasonable_pct_change": 4.225,
+      "compounded_return_percent": -3.1574369310972346,
+      "predicted_price": 216.48186548422524
+    },
+    {
+      "date": "2030-12-18",
+      "scenario_rationale": "Expansion spending moves toward a steadier replacement rhythm, allowing more operating cash to remain after reinvestment. Software and management fees add incremental support, while debt reduction becomes more credible; hardware obligations still prevent unrestricted capital distributions.",
+      "forecast_step": 17,
+      "predicted_most_reasonable_pct_change": 2.95,
+      "compounded_return_percent": -0.3005813205646028,
+      "predicted_price": 222.86808051600988
+    },
+    {
+      "date": "2031-03-18",
+      "scenario_rationale": "Renewed contracts increasingly demonstrate profitability after financing and equipment renewal. That evidence reduces uncertainty around sustainable earnings and supports the shares, although the accumulated diluted share base continues to separate enterprise progress from the wealth accruing to earlier owners.",
+      "forecast_step": 18,
+      "predicted_most_reasonable_pct_change": 3.585,
+      "compounded_return_percent": 3.273642839093156,
+      "predicted_price": 230.85790120250883
+    },
+    {
+      "date": "2031-06-18",
+      "scenario_rationale": "Stabilizing construction intensity makes recurring equity cash flow easier to assess. Investors increasingly compare the business with cash-generating infrastructure operators, supporting restrained appreciation while slower growth and technology renewal requirements limit the premium assigned to future expansion.",
+      "forecast_step": 19,
+      "predicted_most_reasonable_pct_change": 2.12,
+      "compounded_return_percent": 5.463044067281931,
+      "predicted_price": 235.75208870800202
+    },
+    {
+      "date": "2031-09-18",
+      "scenario_rationale": "The horizon closes with a larger, more cash-generative infrastructure business rather than an unrestricted software franchise. Contract durability and disciplined reinvestment support valuation, but financing claims and accumulated dilution keep the shareholder outcome far less dramatic than operational growth.",
+      "forecast_step": 20,
+      "predicted_most_reasonable_pct_change": 2.505,
+      "compounded_return_percent": 8.104893321167344,
+      "predicted_price": 241.65767853013747
+    }
+  ],
+  "consensus_calculation": {
+    "method": "evidence_weighted_quarterly_returns_v1",
+    "source_snapshot_sha256": "44714fd7b160f0badcee39b264954eb43f3c27cc48e8a76c22beb284a3fd1d9d",
+    "path_kind": "synthesizer_weighted_consensus",
+    "return_basis": "price_return_ex_dividends",
+    "forecast_step_count": 20,
+    "forecast_horizon_end_date": "2031-09-18",
+    "one_year_compounded_return_percent": -5.331550580857555,
+    "final_compounded_return_percent": 8.104893321167344,
+    "final_predicted_price": 241.65767853013747,
+    "opinion_count": 14,
+    "positive_weight_opinion_count": 14,
+    "weight_sum": 1.0,
+    "anchor_price": 223.54,
+    "submitted_weight_sum": 1.0,
+    "weights_normalized": false,
+    "normalization_method": "divide_by_positive_total_then_12_decimal_residual_to_largest",
+    "anchor_timestamp": "2026-09-18 00:00:00+00:00",
+    "formula": "r[t] = sum(w[i] * r[i,t]); P[t] = anchor * product(1 + r[t]/100)"
+  }
+}

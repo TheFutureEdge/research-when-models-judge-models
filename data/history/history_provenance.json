@@ -1,0 +1,26 @@
+{
+  "retrieved_date": "2026-10-01",
+  "source_table": "data-platform-436809.prod__dp_oracle_fincore_historic_market__datasets.fact_ohlcva_eod",
+  "price_field": "close",
+  "daily_rows": 8711,
+  "raw_query_result_sha256": "a3fd813e09430ec5a67b84c736dd0a711937fd216f4f480cc03e1db865b2c691",
+  "currency": "Historic rows have null currency; resolved from the active asset dimension and checked against all seven frozen anchors.",
+  "method": "Select last observed daily close in each Monday-Sunday calendar week inside the five-year pre-anchor window; retain its actual observation date. Include final partial week; do not average or interpolate.",
+  "chart_geometry": "Five calendar years of history and five years of forecast with an exactly centered anchor.",
+  "gaps": "Break plotted lines when successive sampled observations are more than 14 days apart. Nebius includes predecessor Yandex observations before the 2022-2024 gap; no continuity is implied across the restructuring.",
+  "anchor": "Forecast anchors are separate frozen observations. Equity anchor-date stored closes agree exactly. Bitcoin daily history ends 2026-09-19, before its 2026-09-20 00:00 UTC anchor; no same-date daily close is substituted.",
+  "limits": [
+    "Retrospective database snapshot, not a point-in-time data vintage available to the models.",
+    "Stored close is plotted without local adjustment, rebasing, interpolation, or dividend reinvestment. Corporate-action/vendor adjustment conventions are not independently reconstructed.",
+    "Stored daily close timestamps are null; dates are trading/bar labels, not verified UTC observation times.",
+    "This query is the recoverable source for these charts; original vendor HTTP receipts are not asserted."
+  ],
+  "nebius_primary_sources": [
+    "https://nebius.com/newsroom/nebius-group-n-v-announces-official-name-change-and-new-ticker-symbol",
+    "https://nebius.com/newsroom/nebius-group-confirms-schedule-for-resumption-of-trading-on-nasdaq",
+    "https://ir.nasdaq.com/news-releases/news-release-details/nasdaq-resumes-trading-nebius-group-nv"
+  ],
+  "daily_extract_csv_sha256": "bf383367a2bae08ac0898f18440e5aa5fd067a35d4acc396f3566c17c10e5d2b",
+  "query_sql_sha256": "e7b9d9e8c266ab0a6849aab67d2ae804eea6127652f3dd93ee9aba6d0297b75e",
+  "distribution": "The historical daily, weekly and superseded monthly price CSVs are excluded from the public archive. Source hashes document privately retained inputs; they do not imply that these files are bundled."
+}

@@ -1,0 +1,10 @@
+{
+  "patterns": [
+    "private_key",
+    "google_key",
+    "auth_bearer",
+    "signed_query"
+  ],
+  "hits": [],
+  "scope": "Pattern scan only; not a proof of secret absence or rights clearance."
+}

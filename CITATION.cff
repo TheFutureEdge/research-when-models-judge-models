@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this research dataset, please cite this version."
+type: dataset
+title: "When Models Judge Models: How Source Identity and Disagreement Shape Multi-Agent Financial Forecasts - Replication Dataset"
+version: 1.0.0
+authors:
+  - family-names: Ramdowar
+    given-names: Russlan
+    email: russlan@ipulseai.com
+    affiliation: Future Edge Group FZE
+    orcid: "https://orcid.org/0009-0004-9311-6957"
+keywords:
+  - multi-agent systems
+  - language-model evaluation
+  - forecast aggregation
+  - source identity
+  - robustness
+license:
+  - CC-BY-4.0
+  - MIT
+doi: "10.5281/zenodo.23083356"
+repository-code: "https://github.com/TheFutureEdge/research-when-models-judge-models"
+url: "https://doi.org/10.5281/zenodo.23083356"

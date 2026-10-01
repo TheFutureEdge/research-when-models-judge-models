@@ -1,0 +1,8 @@
+asset,name,symbol,cohort,cohort_rank,selection_market_cap_usd_billions,anchor_price,anchor_timestamp,source_snapshot_sha256
+visa,Visa Inc.,V.NYSE,directionally_consistent,2,676.04,368.29,2026-09-18 00:00:00+00:00,46a3cad08362f8e29132aad5ea5af70a0d5d04c5322e2fe61363a7671ddecec4
+sap,SAP SE,SAP.XETRA,directionally_consistent,10,241.74,183.12,2026-09-18 00:00:00+00:00,209a0b8e53d372135ca911312afda00835b14ea5f5061e7ac143048d29e59ebf
+ibm,International Business Machines Corporation,IBM.NYSE,directionally_consistent,9,224.0,229.55,2026-09-18 00:00:00+00:00,1782ee1a9879332669c12a5320582d22613b7449fecdce54dc8aac0398b4dc34
+nebius,Nebius Group N.V.,NBIS.NASDAQ,forecast_dispersed,3,61.989,223.54,2026-09-18 00:00:00+00:00,44714fd7b160f0badcee39b264954eb43f3c27cc48e8a76c22beb284a3fd1d9d
+moderna,"Moderna, Inc.",MRNA.NASDAQ,forecast_dispersed,6,61.574,154.04,2026-09-18 00:00:00+00:00,f95b23f5bab7aaf7e266f7ebd23f5a62b2e47d913dc6021cee3e77e43a2f4530
+kratos,Kratos Defense & Security Solutions,KTOS.NASDAQ,forecast_dispersed,5,8.91,47.46,2026-09-18 00:00:00+00:00,af8f68e8b5ce16ec397165bb672b21edeb64cb457e0a8b5ff898993ab07b3622
+bitcoin,Bitcoin,BTC-USD.CC,fixed_reference_asset,,,80960.92,2026-09-20 00:00:00+00:00,01c0e4a451ba20928659ae298789c15578b8ec26af0f44694d0c83b7949142c4

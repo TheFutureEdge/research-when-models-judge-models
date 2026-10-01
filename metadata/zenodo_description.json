@@ -1,0 +1,28 @@
+{
+  "resource_type": "dataset",
+  "title": "When Models Judge Models: How Source Identity and Disagreement Shape Multi-Agent Financial Forecasts - Replication Dataset",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Ramdowar, Russlan",
+      "affiliation": "Future Edge Group FZE",
+      "orcid": "0009-0004-9311-6957"
+    }
+  ],
+  "description": "The same research reports can support a predicted gain or a predicted loss, depending on which AI combines them. We examine this decision layer in a seven-asset case study from iPulse AI's investment-research pipeline. For each asset, we hold fourteen reports and their forecasts fixed. Instead of simply averaging the forecasts, an AI synthesizer judges each report's influence; code applies its weights. We compare two synthesizers, repeat their judgments, reverse the report order, and reveal the source models. Switching from Gemini to Astra reverses the direction of the five-year forecast for two of six equities; for Bitcoin, the forecasts differ by 29.45 percentage points. Revealing the source models also raises Astra's allocation to its own report in every equity, without a comparable increase for the Opus report. This pattern is consistent with selective preference, but does not establish its cause. Our central finding is that agreement among the inputs, stability of the weights, and stability of the final forecast are distinct properties. The study makes each step inspectable through released reports, weights, rationales, and calculation code. It evaluates how AI systems combine evidence, not whether their predictions are correct: the forecasts have not yet matured. The companion dataset includes seven assets, 98 source reports, 56 consensus outputs, all synthesis request bodies and offline reproduction scripts. The dataset includes seven archived anchors and 2,499 initial forecast-price points. Historical chart backgrounds are retrospective context, not outcome validation. Historical price CSVs are not redistributed; SQL, sampling code and coverage metadata document the method. All core forecast comparisons reproduce offline without those CSVs. The release also includes completed-parent-batch usage records, offline accounting for 643,294,386 input and 141,182,977 generated tokens, all 98 framework/mode/model mappings, and a descriptive same-framework disclosure comparison. Parent counts exclude retries and preview runs.",
+  "keywords": [
+    "multi-agent systems",
+    "LLM-as-a-judge",
+    "forecast aggregation",
+    "source identity",
+    "robustness",
+    "financial research"
+  ],
+  "license": "cc-by-4.0",
+  "doi": "10.5281/zenodo.23083356",
+  "publication_date": "2026-10-01",
+  "repository_url": "https://github.com/TheFutureEdge/research-when-models-judge-models",
+  "funding": null,
+  "note": "Original paper/research data: CC BY 4.0. Reproduction code: MIT. Third-party material retains its own terms. Historical price CSVs are excluded; author confirmed public chart display permission on 2026-10-01.",
+  "code_license": "MIT"
+}

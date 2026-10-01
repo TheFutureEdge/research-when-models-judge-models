@@ -1,0 +1,23 @@
+TITLE
+When Models Judge Models: How Source Identity and Disagreement Shape Multi-Agent Financial Forecasts
+
+AUTHOR
+Russlan Ramdowar
+
+AFFILIATION
+Future Edge Group FZE, United Arab Emirates / iPulse AI
+
+EMAIL
+russlan@ipulseai.com
+
+ORCID
+0009-0004-9311-6957
+
+ABSTRACT
+The same research reports can support a predicted gain or a predicted loss, depending on which AI combines them. We examine this decision layer in a seven-asset case study from iPulse AI's investment-research pipeline. For each asset, we hold fourteen reports and their forecasts fixed. Instead of simply averaging the forecasts, an AI synthesizer judges each report's influence; code applies its weights. We compare two synthesizers, repeat their judgments, reverse the report order, and reveal the source models. Switching from Gemini to Astra reverses the direction of the five-year forecast for two of six equities; for Bitcoin, the forecasts differ by 29.45 percentage points. Revealing the source models also raises Astra's allocation to its own report in every equity, without a comparable increase for the Opus report. This pattern is consistent with selective preference, but does not establish its cause. Our central finding is that agreement among the inputs, stability of the weights, and stability of the final forecast are distinct properties. The study makes each step inspectable through released reports, weights, rationales, and calculation code. It evaluates how AI systems combine evidence, not whether their predictions are correct: the forecasts have not yet matured.
+
+CATEGORY SUGGESTION
+cs.MA; possible cross-list q-fin.GN, subject to scope and endorsement.
+
+JOURNAL REFERENCE / ARTICLE DOI
+Leave blank: this is not a published journal article.

@@ -1,0 +1,8 @@
+asset,cohort,positive_terminal,negative_terminal,terminal_sign_agreement,mean_quarter_sign_agreement,terminal_iqr_pp,historical_weeks,anchor_price,currency,anchor_date
+visa,directionally_consistent,14,0,1.0,0.925,7.985367158951377,261,368.29,USD,2026-09-18
+sap,directionally_consistent,14,0,1.0,0.9535714285714286,17.375522402074346,261,183.12,EUR,2026-09-18
+ibm,directionally_consistent,14,0,1.0,0.925,11.700991061965276,261,229.55,USD,2026-09-18
+nebius,forecast_dispersed,7,7,0.5,0.675,78.95030107506476,123,223.54,USD,2026-09-18
+moderna,forecast_dispersed,7,7,0.5,0.7535714285714286,81.65926672321734,261,154.04,USD,2026-09-18
+kratos,forecast_dispersed,8,6,0.5714285714285714,0.6785714285714286,84.96686699209002,261,47.46,USD,2026-09-18
+bitcoin,fixed_reference_asset,14,0,1.0,0.9107142857142858,64.32529238550634,261,80960.92,USD,2026-09-20

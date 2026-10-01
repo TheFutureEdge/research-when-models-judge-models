@@ -1,0 +1,10 @@
+{
+  "check_count": 392,
+  "failed": 0,
+  "source_reports": 98,
+  "consensus_outputs": 56,
+  "weights": 784,
+  "source_steps": 1960,
+  "consensus_steps": 1120,
+  "new_inference_calls": 0
+}

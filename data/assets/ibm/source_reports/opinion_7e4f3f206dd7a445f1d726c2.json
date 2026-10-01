@@ -1,0 +1,297 @@
+{
+  "opinion_id": "opinion_7e4f3f206dd7a445f1d726c2",
+  "investment_framework": "universal_investor__the_polymath__standard_1",
+  "forecast_anchor": {
+    "price": 229.55,
+    "timestamp": "2026-09-18 00:00:00+00:00"
+  },
+  "research_sources": [
+    {
+      "title": "IBM RELEASES SECOND-QUARTER RESULTS - Jul 22, 2026",
+      "url": "https://newsroom.ibm.com/2026-07-22-IBM-RELEASES-SECOND-QUARTER-RESULTS",
+      "domain": "newsroom.ibm.com"
+    },
+    {
+      "title": "IBM Completes Acquisition of Confluent, Making Real Time Data the Engine of Enterprise AI and Agents",
+      "url": "https://newsroom.ibm.com/2026-03-17-ibm-completes-acquisition-of-confluent%2C-making-real-time-data-the-engine-of-enterprise-ai-and-agents",
+      "domain": "newsroom.ibm.com"
+    },
+    {
+      "title": "IBM 1Q26 Earnings Prepared Remarks",
+      "url": "https://www.ibm.com/downloads/documents/us-en/15db805fff4249f1",
+      "domain": "www.ibm.com"
+    },
+    {
+      "title": "IBM: A late-quarter deal slump and client spending shifts leave Q2 outlook short | AP News",
+      "url": "https://apnews.com/article/2f28030dd13c572ad21a512da77d96cd",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "ibm-20260630",
+      "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000078/ibm-20260630.htm",
+      "domain": "www.sec.gov"
+    },
+    {
+      "title": "Federal Reserve Board - Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm?utm_source=openai",
+      "domain": "www.federalreserve.gov"
+    },
+    {
+      "title": "Quantum 2030 — IBM Technology Atlas",
+      "url": "https://www.ibm.com/roadmaps/quantum/2030/?utm_source=openai",
+      "domain": "www.ibm.com"
+    },
+    {
+      "title": "IBM RELEASES FOURTH-QUARTER RESULTS",
+      "url": "https://newsroom.ibm.com/2026-01-28-IBM-RELEASES-FOURTH-QUARTER-RESULTS",
+      "domain": "newsroom.ibm.com"
+    },
+    {
+      "title": "IBM Commits More Than $10 Billion to Quantum Computing, Funding Its Roadmap from Today's Leading Systems to the World's First Fault-Tolerant Quantum Computers",
+      "url": "https://newsroom.ibm.com/2026-06-02-ibm-commits-more-than-10-billion-to-quantum-computing%2C-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers",
+      "domain": "newsroom.ibm.com"
+    }
+  ],
+  "generated_at_utc": "2026-09-20 08:34:20.711160+00:00",
+  "prediction_based_investment_rating": {
+    "most_reasonable_investment_thesis_scenario": "IBM shareholders own enterprise software, services and infrastructure cash flows—not a pure AI or financial-sector exposure. My base case assumes delayed transactions partly recover while recurring software offsets consulting pressure; acquisition costs and quantum spending prevent a wholesale rerating. The indicated dividend yield is 2.94%; the supplied 1.44% TTM figure conflicts with reported payments. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-07-22-IBM-RELEASES-SECOND-QUARTER-RESULTS)) I project approximately 33% price appreciation over five years, excluding dividends. Combined with income, that is respectable but not exceptional against high-quality alternatives. Quarterly endpoints are conditional scenario markers; nontrading dates use preceding closes.\n- Assumed 2031 company-defined free cash flow reaches $20 billion, with financing-receivable funding assessed separately rather than ignored.\n- Applying 15 times cash flow across 980 million diluted shares supports approximately $306, without a premium-growth multiple.\n- That implies roughly $300 billion equity value; dividends add income, while modest dilution absorbs some enterprise-level cash growth.",
+    "bull_case_scenario": "IBM becomes the control layer, not the collateral damage, of enterprise AI. Successful integrated-platform deployments lift recurring growth while automation protects consulting economics; independently validated quantum utility adds an option premium without becoming necessary for solvency. Under these assumptions, 2031 cash flow reaches roughly $24 billion and commands 18–19 times cash flow on about 980 million shares, implying $440–465. The upside requires commercial conversion and disciplined reinvestment together, not merely better demonstrations.",
+    "bear_case_scenario": "Deal slippage proves to be demand destruction. AI-assisted migration erodes transaction-processing economics while acquisition integration, fixed research commitments and refinancing costs absorb the remaining cash; the dividend offers less protection as credit risk rises. If 2031 company-defined cash flow falls to roughly $11–12 billion and its multiple compresses to 12–13 times across about one billion shares, the stock falls to $132–156. The impairment comes from weaker recurring economics, not a temporary hardware trough.",
+    "thesis_watchpoints": "- Confirmation: organic software growth accelerates and company-defined FCF meets guidance over the next four reported quarters, validating transaction recovery.\n- Deterioration: Consulting signings and transaction-processing revenue decline across two consecutive quarters during 2027, indicating budget displacement beyond hardware cyclicality.\n- Reassessment: annual company-defined FCF falls below $12 billion or net debt rises through 2028, invalidating the cash-compounding thesis.",
+    "broader_narrative_signals": {
+      "today_crowd_consensus_narrative": "The market now treats IBM as an AI-budget casualty rather than an infrastructure winner. July's abrupt selloff made failed deal execution the dominant anchor. ([apnews.com](https://apnews.com/article/2f28030dd13c572ad21a512da77d96cd)) The supplied 20.4-times trailing earnings multiple nevertheless prices a repair, not terminal decline. My reading is guarded recovery expectations, with legacy cyclicality receiving more attention than the durability of recurring software.",
+      "alpha_gap_assessment": "No convincing valuation gap exists at $230, although the crowd probably underestimates recurring-software resilience. The distinction is between postponed transactional sales and an impaired installed base: Red Hat's growth supports the former explanation without proving recovery. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-07-22-IBM-RELEASES-SECOND-QUARTER-RESULTS)) Conversely, headline cash generation is not wholly distributable after financing needs, acquisitions and research commitments. My cash-flow valuation offers moderate upside, but its return premium over the supplied near-5% Treasury yield is insufficient to justify buying before conversion improves. Factor impacts are approximate, non-independent five-year attributions.",
+      "the_convergence_catalyst": "Conversion of delayed IBM Z and transactional-software deals into cash is the decisive test. Between fourth-quarter 2026 and first-half 2027, delivery against approximately $15.7 billion FY2026 company-defined FCF guidance would distinguish slippage from lost demand; upward cash estimates should precede sustained repricing. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-01-28-IBM-RELEASES-FOURTH-QUARTER-RESULTS))",
+      "macro_regime_alignment": "The macro wind is adverse: September's Fed hike raises IBM's refinancing hurdle and the discount rate on software cash flows. ([federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm?utm_source=openai)) The supplied energy shock also squeezes customers' discretionary budgets. Later disinflationary easing would help, but this valuation does not require a return to zero-rate financing."
+    },
+    "sentiment_and_regime_signals": {
+      "greed_and_fear_sentiment": -0.28,
+      "expected_volatility_regime": "high_erratic",
+      "convergence_cycle_position": "stabilization"
+    },
+    "financial_review_fields": {
+      "earnings_and_financials_trend_assessment": "Revenue growth slowed sharply in IBM's July 22 second-quarter release: Red Hat expanded while mainframe transactions and net profit stalled. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-07-22-IBM-RELEASES-SECOND-QUARTER-RESULTS)) Supplied TTM earnings growth benefits from tax resolutions and easy pension-charge comparisons, so headline growth overstates recurring improvement. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-01-28-IBM-RELEASES-FOURTH-QUARTER-RESULTS))\n\nCash requires a separate lens. The supplied FY2025 FCF of $12.10 billion differs from IBM's $14.7 billion definition, which adjusts financing receivables and net capital expenditure. First-half 2026 operating-cash improvement chiefly reflected receivable movements; management-defined FCF was essentially flat. This suggests working-capital mechanics, not a fresh operating cash breakout. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-01-28-IBM-RELEASES-FOURTH-QUARTER-RESULTS))",
+      "capex_and_investment_intensity_trend_assessment": "IBM's low reported capex ratio understates its reinvestment burden. The supplied FY2025 R&D expense reached $8.32 billion, while acquisitions consume cash outside conventional FCF. IBM's June announcement adds a planned quantum commitment exceeding $10 billion over five years, spanning research, manufacturing, capex and acquisitions—not a capex-only budget. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-06-02-ibm-commits-more-than-10-billion-to-quantum-computing%2C-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers))\n\nThe commitment is not demonstrably all incremental. The economic question is retention of returns after reinvestment, not whether IBM avoids hyperscaler construction costs. Software distribution can scale efficiently, but quantum payback remains unproven. The supplied negative second-quarter D&A requires reconciliation and is excluded from valuation; it does not establish an actual depreciation reversal.",
+      "balance_sheet_strength_and_leverage_assessment": "IBM's June 30, 2026 disclosures report $62.0 billion of gross debt and $8.2 billion of cash, restricted cash and marketable securities. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-07-22-IBM-RELEASES-SECOND-QUARTER-RESULTS)) Financing debt has corresponding receivable assets, so treating all borrowing as operating leverage exaggerates risk; treating it as irrelevant understates credit and funding exposure. ([ibm.com](https://www.ibm.com/downloads/documents/us-en/15db805fff4249f1))\n\nThe Confluent payment reduced liquidity rather than creating an immediate solvency problem. Dividends, pension obligations and quantum commitments nevertheless compete with deleveraging. ([sec.gov](https://www.sec.gov/Archives/edgar/data/51143/000005114326000078/ibm-20260630.htm)) Resilience rests on renewals and sustained cash conversion, not book equity. My forecast assumes only modest share-count growth and no debt-funded repurchase rescue.",
+      "profitability_margins_trend_assessment": "The supplied FY2025 operating margin of 18.50% contrasts with approximately 16.61% over the latest TTM period, reversing the apparent straight-line improvement. These vendor operating-income measures are not IBM's operating non-GAAP pretax margin and should not be mixed. Software mix and productivity remain constructive, but mainframe cyclicality weakens consolidated operating leverage.\n\nIBM's second-quarter filing corroborates that distinction: Software and Consulting segment margins improved while Infrastructure absorbed the shortfall. Acquisition amortization also separates GAAP from adjusted profitability. ([sec.gov](https://www.sec.gov/Archives/edgar/data/51143/000005114326000078/ibm-20260630.htm)) The base case therefore assumes gradual margin repair, not extrapolation of tax-assisted net income or a permanent return to peak hardware economics."
+    }
+  },
+  "prediction_events": {
+    "drivers": [
+      {
+        "event_name": "Red Hat monetizes infrastructure complexity",
+        "category": "competitive_positioning",
+        "description": "Red Hat converts heterogeneous infrastructure into durable subscription revenue, giving IBM a growth engine independent of winning the foundation-model race. Second-quarter 2026 Red Hat revenue rose 11%, despite the broader sales stumble. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-07-22-IBM-RELEASES-SECOND-QUARTER-RESULTS)) I assign an 85% likelihood to continued expansion: embedded orchestration and migration costs support renewals, lifting software mix, recurring earnings and the cash-flow multiple through 2031.",
+        "expected_impact_pct_on_price": 24,
+        "expected_impact_pct_on_company_earnings": 25
+      },
+      {
+        "event_name": "Data plumbing captures AI spending",
+        "category": "innovation_and_product",
+        "description": "IBM can monetize AI's data bottleneck without financing the largest model-training clusters. Confluent's completed acquisition adds real-time streaming to IBM's integration and governance portfolio, creating cross-selling opportunities across existing enterprise accounts. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-03-17-ibm-completes-acquisition-of-confluent%2C-making-real-time-data-the-engine-of-enterprise-ai-and-agents)) I assign a 75% likelihood that this broader stack increases subscription attachment and customer spending through 2031; the modeled benefit comes from ordinary adoption, not a dominant-agent-platform breakthrough.",
+        "expected_impact_pct_on_price": 17,
+        "expected_impact_pct_on_company_earnings": 18
+      },
+      {
+        "event_name": "Automation funds the reinvention",
+        "category": "operational_efficiency",
+        "description": "Internal automation can finance product development while preserving incremental margins. IBM's first-quarter 2026 remarks reported cumulative productivity savings and targeted another $1 billion that year; those are management estimates, not independently verified profit increments. ([ibm.com](https://www.ibm.com/downloads/documents/us-en/15db805fff4249f1)) I assign an 85% likelihood that continued process simplification lowers delivery costs through 2031, with only part of the savings retained after reinvestment and customer price concessions.",
+        "expected_impact_pct_on_price": 15,
+        "expected_impact_pct_on_company_earnings": 16
+      },
+      {
+        "event_name": "Installed systems sustain recurring cash",
+        "category": "competitive_positioning",
+        "description": "Mission-critical transaction processing makes IBM's installed base economically stickier than quarterly hardware shipments suggest. IBM Z also remains integrated with the expanding enterprise-data stack, supporting software attachment rather than merely replacement-machine revenue. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-03-17-ibm-completes-acquisition-of-confluent%2C-making-real-time-data-the-engine-of-enterprise-ai-and-agents)) I assign a 90% likelihood to sustained renewal cash generation: operational disruption costs protect retention, allowing modest pricing and workload growth to support earnings across successive hardware cycles.",
+        "expected_impact_pct_on_price": 10,
+        "expected_impact_pct_on_company_earnings": 10
+      }
+    ],
+    "frictions": [
+      {
+        "event_name": "AI budgets bypass IBM",
+        "category": "sector_and_industry",
+        "description": "AI spending can grow while IBM receives less of the budget. Management attributed the July shortfall partly to clients prioritizing servers, storage and memory; this is competitive displacement of spending, not proof that enterprise technology demand disappeared. ([apnews.com](https://apnews.com/article/2f28030dd13c572ad21a512da77d96cd)) I assign a 75% likelihood to persistent budget competition, compounded by AI-driven compression of billable consulting work, restraining revenue conversion and normalized earnings.",
+        "expected_impact_pct_on_price": -11,
+        "expected_impact_pct_on_company_earnings": -9
+      },
+      {
+        "event_name": "Acquisitions mortgage tomorrow's flexibility",
+        "category": "capital_allocation",
+        "description": "Acquired growth arrives with a second invoice: integration, amortization and reduced financial flexibility. Confluent consumed substantial acquisition cash, while IBM has also committed to multiyear quantum investment. ([sec.gov](https://www.sec.gov/Archives/edgar/data/51143/000005114326000078/ibm-20260630.htm)) I assign an 85% likelihood that these competing uses constrain deleveraging and distributable cash through 2031; successful strategic expansion need not translate proportionately into per-share value when funding and integration costs remain persistent.",
+        "expected_impact_pct_on_price": -9,
+        "expected_impact_pct_on_company_earnings": -8
+      },
+      {
+        "event_name": "Hardware cycles interrupt software compounding",
+        "category": "sector_and_industry",
+        "description": "Mainframe cyclicality repeatedly interrupts the software-compounding narrative. IBM Z revenue fell 42% in second-quarter 2026, alongside weakness in transaction-processing software. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-07-22-IBM-RELEASES-SECOND-QUARTER-RESULTS)) I assign a 90% likelihood that shipment timing and refresh-cycle mix continue to produce earnings troughs over five years, lowering the valuation justified by peak margins even while the installed base remains durable.",
+        "expected_impact_pct_on_price": -8,
+        "expected_impact_pct_on_company_earnings": -7
+      },
+      {
+        "event_name": "Bond yields contest the multiple",
+        "category": "macroeconomic_and_macrofinancial",
+        "description": "IBM's equity must compete with a materially positive risk-free return while servicing acquisition-era debt. The September Federal Reserve increase reinforces that valuation constraint. ([federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm?utm_source=openai)) I assign an 80% likelihood that financing costs and bond competition remain a cumulative drag through 2031, even if rates later ease; refinancing and a higher equity discount rate absorb part of the operating improvement.",
+        "expected_impact_pct_on_price": -5,
+        "expected_impact_pct_on_company_earnings": -6
+      }
+    ],
+    "tail_opportunities": [
+      {
+        "event_name": "Agent platform wins anchor contracts",
+        "category": "tail_opportunity",
+        "description": "During 2027–2029, several large regulated enterprises could sign multiyear deployments combining Red Hat, Confluent and watsonx, followed by disclosed subscription growth that demonstrably exceeds implementation revenue. The trigger is commercial standardization on IBM's integrated stack, not another partnership announcement. Existing data-platform integration provides the route. ([newsroom.ibm.com](https://newsroom.ibm.com/2026-03-17-ibm-completes-acquisition-of-confluent%2C-making-real-time-data-the-engine-of-enterprise-ai-and-agents)) Higher software attachment and retention would lift both earnings and the valuation multiple. I keep probability below half because hyperscalers and independent platforms can capture the same workloads.",
+        "probability_pct": 35,
+        "upside_impact_pct": 25
+      },
+      {
+        "event_name": "Starling crosses the commercial threshold",
+        "category": "tail_opportunity",
+        "description": "Between 2029 and 2031, Starling could demonstrate independently validated economic advantage and convert that result into repeat commercial contracts. IBM targets fault-tolerant capability for 2029; the finalized Anderon CHIPS award supports domestic quantum manufacturing but does not establish customer economics. ([ibm.com](https://www.ibm.com/roadmaps/quantum/2030/?utm_source=openai)) Profitable utilization would turn a research option into a recurring-compute franchise and widen IBM's valuation premium. Probability remains low because error correction, operating cost and useful application demand must all converge.",
+        "probability_pct": 20,
+        "upside_impact_pct": 20
+      }
+    ],
+    "tail_risks": [
+      {
+        "event_name": "AI migration breaches the mainframe moat",
+        "category": "tail_risk",
+        "description": "Between 2027 and 2030, a major regulated customer could complete an independently validated, AI-assisted migration of critical workloads away from IBM Z. A successful reference deployment would reduce perceived switching risk and encourage competitors to undercut transaction-processing renewals. The damage would extend beyond hardware into high-margin software and services, forcing lower cash-flow forecasts and a smaller multiple. I assign less than half probability because reliability, data integrity and migration governance remain substantial barriers.",
+        "probability_pct": 25,
+        "downside_impact_pct": -35
+      },
+      {
+        "event_name": "Cash shortfall forces a reset",
+        "category": "tail_risk",
+        "description": "During 2026–2028, a sustained cancellation wave could push company-defined annual free cash flow below $12 billion while net debt fails to decline. That would invalidate the deal-slippage explanation and force management to choose among investment, dividends and balance-sheet repair. Credit-spread widening would then amplify equity-multiple compression. I keep probability below half because recurring software and productivity provide buffers, but the trigger is a cash shortfall, not merely a disappointing bookings headline.",
+        "probability_pct": 30,
+        "downside_impact_pct": -25
+      }
+    ]
+  },
+  "timeseries_compounded_return_percent_checkpoints": [
+    {
+      "forecast_quarter": "2027 Q3",
+      "derived_compounded_return_percent_from_steps": "3.9%"
+    },
+    {
+      "forecast_quarter": "2028 Q3",
+      "derived_compounded_return_percent_from_steps": "9.1%"
+    },
+    {
+      "forecast_quarter": "2029 Q3",
+      "derived_compounded_return_percent_from_steps": "18.1%"
+    },
+    {
+      "forecast_quarter": "2030 Q3",
+      "derived_compounded_return_percent_from_steps": "22.8%"
+    },
+    {
+      "forecast_quarter": "2031 Q3",
+      "derived_compounded_return_percent_from_steps": "33.0%"
+    }
+  ],
+  "timeseries": [
+    {
+      "date": "2026-12-18",
+      "predicted_most_reasonable_pct_change": -3.0,
+      "scenario_rationale": "Third-quarter results are assumed to show incomplete recovery of delayed software and mainframe transactions. Tighter financing conditions keep customers defensive, so a modest valuation contraction outweighs recurring revenue resilience and pushes the shares lower."
+    },
+    {
+      "date": "2027-03-18",
+      "predicted_most_reasonable_pct_change": 4.0,
+      "scenario_rationale": "Year-end collections and partial closure of postponed contracts restore confidence in cash generation. Full-year guidance avoids another material reset, allowing a relief rally, although investors still demand evidence that acquisitions are improving organic growth."
+    },
+    {
+      "date": "2027-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "As Confluent's acquisition anniversary passes, reported growth relies less on consolidation arithmetic. Modest improvement in underlying software subscriptions supports earnings revisions, but consulting remains subdued and limits the magnitude of the share-price advance."
+    },
+    {
+      "date": "2027-09-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "Red Hat renewals and early data-platform cross-selling offset sluggish discretionary implementation work. Management preserves liquidity rather than accelerating repurchases, so investors reward operating durability only slightly while waiting for stronger cash conversion evidence."
+    },
+    {
+      "date": "2027-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Enterprise customers begin converting selected AI pilots into governed production workloads. Greater integration-software attachment improves IBM's revenue mix, supporting modest margin expansion and a firmer valuation without requiring an acceleration in foundation-model spending."
+    },
+    {
+      "date": "2028-03-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Annual results reveal that productivity gains are surviving reinvestment and customer price concessions. Cash-flow expectations edge higher, while restrained acquisition spending reduces concern about funding competition; the shares rise with estimates rather than multiple expansion."
+    },
+    {
+      "date": "2028-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "An assumed enterprise infrastructure renewal wave improves the pipeline for IBM systems and associated software. Investors discount better second-half conversion, but avoid pricing a permanent hardware boom, leaving a measured increase in the share price."
+    },
+    {
+      "date": "2028-09-18",
+      "predicted_most_reasonable_pct_change": -2.0,
+      "scenario_rationale": "Hardware delivery timing and renewed research spending temporarily dilute the improving software mix. Earnings expectations soften despite stable subscriptions, prompting a modest correction as investors distinguish durable cash generation from unusually favorable quarterly shipment economics."
+    },
+    {
+      "date": "2028-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Renewals confirm that recent data-platform wins are recurring relationships rather than isolated implementation projects. Subscription attachment and better collections restore upward cash-flow revisions, allowing the stock to recover its prior setback and advance modestly further."
+    },
+    {
+      "date": "2029-03-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Full-year reporting shows automation preserving consulting contribution margins despite fewer billable hours per project. Shareholders retain only part of the productivity benefit, but that incremental cash supports another measured gain without assuming faster consulting revenue growth."
+    },
+    {
+      "date": "2029-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Retained cash gradually reduces operating indebtedness, assuming no new transformative acquisition. Lower prospective interest expense and reduced refinancing exposure improve the residual claim for shareholders, supporting appreciation even as software growth settles into a steadier pace."
+    },
+    {
+      "date": "2029-09-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "Quantum milestones attract attention, but the base case credits little commercial profit before repeat customer economics emerge. Subscription renewals remain the valuation anchor, producing only a small gain while research investment absorbs part of operating progress."
+    },
+    {
+      "date": "2029-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "A broader base of hybrid-cloud renewals and data-governance workloads makes cash generation less dependent on individual mainframe transactions. Improved earnings visibility supports modest appreciation, while the market still withholds the premium reserved for faster-growing software franchises."
+    },
+    {
+      "date": "2030-03-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Annual cash conversion corroborates the returns from earlier software acquisitions. Management favors integration and selective reinvestment over empire building, helping per-share cash growth withstand modest dilution and supporting a further increase in the stock price."
+    },
+    {
+      "date": "2030-06-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "Infrastructure growth moderates as the assumed renewal cycle matures, leaving recurring software to carry consolidated earnings. Stable consulting profitability prevents a larger slowdown, but limited upward revisions translate into only a small share-price gain."
+    },
+    {
+      "date": "2030-09-18",
+      "predicted_most_reasonable_pct_change": -2.0,
+      "scenario_rationale": "Competitive pricing in orchestration and data services temporarily narrows expected incremental margins. A modest multiple contraction exceeds that quarter's cash-flow improvement, producing a correction without assuming customer abandonment or a collapse of the installed base."
+    },
+    {
+      "date": "2030-12-18",
+      "predicted_most_reasonable_pct_change": 3.0,
+      "scenario_rationale": "Customer modernization budgets increasingly favor maintaining and extending production deployments over experimental projects. IBM captures repeat integration and governance work, restoring confidence in recurring cash growth and recovering the prior quarter's valuation setback."
+    },
+    {
+      "date": "2031-03-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Full-year results show gradual deleveraging and disciplined research funding alongside continued software growth. The improvement reaches diluted per-share cash flow rather than remaining entirely at enterprise level, supporting another moderate advance without a buyback-driven earnings boost."
+    },
+    {
+      "date": "2031-06-18",
+      "predicted_most_reasonable_pct_change": 2.0,
+      "scenario_rationale": "Recurring data-platform usage expands across existing customers, while integration expenses normalize. Better incremental cash conversion supports the terminal earnings outlook, although competitive renewal pricing limits the upside and keeps the stock on a measured appreciation path."
+    },
+    {
+      "date": "2031-09-18",
+      "predicted_most_reasonable_pct_change": 1.0,
+      "scenario_rationale": "The horizon closes near a modeled fifteen-times company-defined cash-flow valuation, with modest dilution already absorbed. Approximately $20 billion of annual cash generation supports a share price near $306; commercial quantum breakthroughs remain outside this base case."
+    }
+  ]
+}

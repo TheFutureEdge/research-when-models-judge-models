@@ -1,0 +1,11 @@
+{
+  "slug": "sap",
+  "subject_id": "equity_e2379ea8-6a57-5013-be82-8037aafa519d",
+  "symbol": "SAP.XETRA",
+  "name": "SAP SE",
+  "cohort": "directionally_consistent",
+  "cohort_rank": 10,
+  "selection_market_cap_usd_billions": 241.74,
+  "source_preview_run": "batch7_v7_new14_exact2_gemini38_20260920",
+  "baseline_run_id": "batch7_v7_new14_prod2_gemini38_20260920"
+}
