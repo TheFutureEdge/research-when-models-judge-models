@@ -11,9 +11,10 @@ This is version 1.0.0 of the companion research release, prepared on 2026-10-01.
 - Archival dataset: https://doi.org/10.5281/zenodo.23083356
 - Licenses: CC BY 4.0 for original paper/research data; MIT for code.
 
-The DOI was reserved for this exact dataset. Its landing page becomes public
-when the Zenodo deposit is published. No arXiv identifier is asserted before
-arXiv assigns one. See `PUBLICATION_CHECKLIST.md` for publication tracking.
+The dataset and standalone PDF were published on Zenodo on 1 October 2026.
+The paper has been submitted to arXiv in cs.MA and is awaiting processing and
+moderation; a public arXiv identifier has not yet been assigned.
+See `PUBLICATION_STATUS.md` for links and verification details.
 
 ## Start here
 
@@ -91,7 +92,7 @@ are hashed; internal provider transport envelopes are excluded from the public
 candidate. Third-party historical price CSVs are excluded. Their provenance and optional sampling code document the chart method without redistributing the underlying series. Full source narratives and
 weight rationales are retained. The original private evidence remains separate.
 
-Read `RIGHTS_AND_LICENSES.md` before public distribution. This prepared candidate
+Read `RIGHTS_AND_LICENSES.md` before redistribution. This release
 does not itself grant a blanket license to all underlying content.
 
 ## Parent pipeline context

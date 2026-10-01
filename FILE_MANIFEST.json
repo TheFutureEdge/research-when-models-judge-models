@@ -44,14 +44,19 @@
       "bytes": 981
     },
     {
+      "path": "PUBLICATION_STATUS.md",
+      "sha256": "c677bec4c6c365fa71d5f77befa74b1f721a18d7a7094cfc739fc2d9dfcba2d8",
+      "bytes": 1645
+    },
+    {
       "path": "README.md",
-      "sha256": "95878a5397d28dcd617eebabc479b84b142fdc0e19b52e70ce0f9d50eee509ac",
-      "bytes": 6443
+      "sha256": "f3eaa69c4fc587033c28ddf1240a701de79b2e7712eb4cfa6302791ecbe62ca5",
+      "bytes": 6479
     },
     {
       "path": "RIGHTS_AND_LICENSES.md",
-      "sha256": "573dfe8fee2affd2d8230706f013f7a62601e919c574168fdd1ec498e0a2e762",
-      "bytes": 1960
+      "sha256": "57372da3d7d8e5aaa61234a8633dddfccd4c74df1018c19347c887cb34eb6413",
+      "bytes": 1953
     },
     {
       "path": "analysis/audit/all_weights_audited.csv",
@@ -1698,5 +1703,6 @@
       "sha256": "adc7fa5a4dbaa7335c32c1e7d10cffae5c96f67ba2f5f22c8453c1bc11cf8e0a",
       "bytes": 32
     }
-  ]
+  ],
+  "status": "Published; main branch includes post-release publication-status updates"
 }
